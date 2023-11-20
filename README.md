@@ -65,7 +65,9 @@ Elbow_M.fit(groceries_scaled)
 Elbow_M.show()
 ~~~
 
-![alt text](https://github.com/KarlRetumban/CS/blob/main/images/elbow.JPG)
+<p align="center">
+    <img src="https://github.com/KarlRetumban/CS/blob/main/images/elbow.JPG" style="width: 700px; height: auto;">
+</p>
 
 
 
@@ -84,7 +86,11 @@ y_clusters = kmeans.fit_predict(groceries_scaled)
 groceries["Clusters"] = y_clusters
 ~~~
 
-![alt text](https://github.com/KarlRetumban/CS/blob/main/images/clusters.JPG)
+
+<p align="center">
+    <img src="https://github.com/KarlRetumban/CS/blob/main/images/clusters.JPG" style="width: 700px; height: auto;">
+</p>
+
 
 
 ### Customer Profiling
