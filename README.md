@@ -40,7 +40,7 @@ Below is the  Retail Supermarket Purchase data output.
 
 ![alt text](https://github.com/KarlRetumban/CS/blob/main/images/data.JPG)
 
-### Standardizing or Scaling Data
+### Data Scaling
 The customer groceries retail purchase data is preprocessed by standardizing the features through data scaling. Utilizing the StandardScaler from scikit-learn, the data is transformed to have a mean of 0 and a standard deviation of 1, ensuring that features with varying scales contribute equally. This preprocessing step is crucial for the effectiveness of clustering algorithms, such as K-means, as it ensures that all variables are on a comparable scale.
 
 ~~~ python
@@ -105,3 +105,16 @@ With the clustered data, customer profiling involves gaining insights into each 
 Below are the customer segments derived using K-means algorithm. The 5 clusters have it's own unique characteristics different from other customer segments.
 
 ![alt text](https://github.com/KarlRetumban/CS/blob/main/images/definedclusters.jpg)
+
+
+### Classify new data into Customer Segments
+We wil classify the new batch of customer data into the customer segment where they below. we will use our fitted model in classifyingwhich segment they belong.
+
+~~~ python
+#Classify new data into cluster
+predicted_cluster = kmeans.predict(newbatch_scaled)
+new_batch["Clusters"] = predicted_cluster
+new_batch.head()
+~~~
+
+![alt text](https://github.com/KarlRetumban/CS/blob/main/images/newbatch_classify.jpg)
