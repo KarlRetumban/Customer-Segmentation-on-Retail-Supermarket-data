@@ -1,17 +1,17 @@
-# Customer Segmentation on Grocery Purhcase data
-#### We apply the following techniques in Grocery Purhcase data.
+# Customer Segmentation on Retail Supermarket Purchase data
+
+#### We apply the following techniques in Supermarket Purchase data.
 * Customer Segmemtation
 * Cluster Profiling
 * Classify the segment of new data
 
 ### Description of the Use Case
-We analyze the Renttherunway Clothing Fit data. The dataset contains information about rented attires for certain occassions. It also includes the ratings given by the renters. The user feedback or user review is also included in the data as well as information about the user and the attire.
+Customer segmentation involves partitioning and categorizing a customer base into distinct groups based on similar characteristics, behaviors, or preferences. In the context of Retail Supermarket Purchase Data, segmentation enables retailers to identify and understand different customer segments with unique purchasing patterns. 
 
-We conduct exploratory data analysis providing descriptive statistics and data visualizatiuon so we can have a good idea of the data and identify patterns and relationships among the variables.
+We will apply clustering algorithm, specifically K-means on features such as customer demographics, spendings and product purchases so that retailers can categorize customers into groups. Customer Segmentation allows retailers to tailor marketing strategies, optimize product offerings, and enhance the overall shopping experience for each segment. 
 
-We will apply Sentiment Analysis to the clothing fit review data and determine the customer sentiments regarding the rented attire. We can also determine the level of satisfaction of customers, whether it is positive, negative or neutral out of their feedback reviews. We will also determine the consistensy of sentiments with respect to the ratuings given and check if the two customer feedback align.
+For instance, high-spending customers might receive personalized promotions, while occasional shoppers could be targeted with incentives to increase their purchases. Customer segmentation thus serves as a valuable tool for retailers to optimize resource allocation, improve customer satisfaction, and drive overall business growth.
 
-We then build a Recommender System that will suggest the next most likely items or attire category the customer will avail in the future using the users historical preference.
 
 
 
