@@ -97,5 +97,9 @@ groceries["Clusters"] = y_clusters
 With the clustered data, customer profiling involves gaining insights into each segment's characteristics. By analyzing the spending patterns, preferred product categories, or any other relevant features within each cluster, retailers can tailor marketing efforts and enhance customer engagement. This process facilitates the creation of targeted strategies, such as personalized promotions or product recommendations, maximizing customer satisfaction and overall retail performance.
 
 
-![alt text](https://github.com/KarlRetumban/CS/blob/main/images/clusters.PNG)
+![alt text](https://github.com/KarlRetumban/CS/blob/main/images/customer_demographics.JPG)
+
+![alt text](https://github.com/KarlRetumban/CS/blob/main/images/customer_behaviour.JPG)
+
+
 
