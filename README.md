@@ -38,7 +38,7 @@ for document in collection.find().limit(2):
 
 Below is the  Retail Supermarket Purchase data output.
 
-![alt text](https://github.com/KarlRetumban/CS/blob/main/images/data.PNG)
+![alt text](https://github.com/KarlRetumban/CS/blob/main/images/data.JPG)
 
 ### Standardizing or Scaling Data
 The customer groceries retail purchase data is preprocessed by standardizing the features through data scaling. Utilizing the StandardScaler from scikit-learn, the data is transformed to have a mean of 0 and a standard deviation of 1, ensuring that features with varying scales contribute equally. This preprocessing step is crucial for the effectiveness of clustering algorithms, such as K-means, as it ensures that all variables are on a comparable scale.
@@ -51,7 +51,7 @@ groceries_scaled = pd.DataFrame(scaler.transform(groceries_dta),columns= ds.colu
 print("The data is successfulluy scaled")
 ~~~
 
-![alt text](https://github.com/KarlRetumban/CS/blob/main/images/scaled.PNG)
+![alt text](https://github.com/KarlRetumban/CS/blob/main/images/scaled.JPG)
 
 
 
@@ -66,7 +66,7 @@ Elbow_M.fit(groceries_scaled)
 Elbow_M.show()
 ~~~
 
-![alt text](https://github.com/KarlRetumban/CS/blob/main/images/elbow.PNG)
+![alt text](https://github.com/KarlRetumban/CS/blob/main/images/elbow.JPG)
 
 
 
@@ -85,7 +85,7 @@ y_clusters = kmeans.fit_predict(groceries_scaled)
 groceries["Clusters"] = y_clusters
 ~~~
 
-![alt text](https://github.com/KarlRetumban/CS/blob/main/images/clusters.PNG)
+![alt text](https://github.com/KarlRetumban/CS/blob/main/images/clusters.JPG)
 
 
 ### Customer Profiling
