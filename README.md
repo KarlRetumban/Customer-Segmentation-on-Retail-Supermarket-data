@@ -1,4 +1,4 @@
-# Customer Segmentation on Retail Supermarket Purchase data
+# Customer Segmentation on Retail Supermarket data
 
 #### We apply the following techniques in Supermarket Purchase data.
 * Customer Segmemtation
