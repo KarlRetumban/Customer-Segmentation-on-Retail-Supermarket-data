@@ -16,7 +16,7 @@ For instance, high-spending customers might receive personalized promotions, whi
 
 
 #### Connect Python to Postgresql
-* We import data from MongoDB to Python.
+* We import data from Postgresql to Python.
 
 
 ~~~ python
@@ -36,6 +36,61 @@ for document in collection.find().limit(2):
     print(document)
 ~~~
 
-Below is the JSON data output.
+Below is the  Retail Supermarket Purchase data output.
 
-![alt text](https://github.com/KarlRetumban/SampMG_SA_RS/blob/main/images/JSON.PNG)
+![alt text](https://github.com/KarlRetumban/CS/blob/main/images/data.PNG)
+
+### Standardizing or Scaling Data
+The customer groceries retail purchase data is preprocessed by standardizing the features through data scaling. Utilizing the StandardScaler from scikit-learn, the data is transformed to have a mean of 0 and a standard deviation of 1, ensuring that features with varying scales contribute equally. This preprocessing step is crucial for the effectiveness of clustering algorithms, such as K-means, as it ensures that all variables are on a comparable scale.
+
+~~~ python
+# Data Scaling
+scaler = StandardScaler()
+scaler.fit(groceries_dta)
+groceries_scaled = pd.DataFrame(scaler.transform(groceries_dta),columns= ds.columns )
+print("The data is successfulluy scaled")
+~~~
+
+![alt text](https://github.com/KarlRetumban/CS/blob/main/images/scaled.PNG)
+
+
+
+### Determine optimal number of cluster
+The optimal number of clusters for customer segmentation is determined through the K-means Elbow method. By employing the KElbowVisualizer from the Yellowbrick library, the algorithm is fitted to the data with varying cluster numbers. The resulting visualization allows for the identification of the "elbow" point, indicating the optimal number of clusters. This crucial step aids in selecting a meaningful value for 'k' that captures inherent patterns in the data.
+
+~~~ python
+# Determine the optimal number of clusters using the K-means Elbow method
+print('Elbow Method to determine the number of clusters to be formed:')
+Elbow_M = KElbowVisualizer(KMeans(), k=8)
+Elbow_M.fit(groceries_scaled)
+Elbow_M.show()
+~~~
+
+![alt text](https://github.com/KarlRetumban/CS/blob/main/images/elbow.PNG)
+
+
+
+### Segmenting the data using K-means Algorithm
+Applying the K-means clustering algorithm with the determined optimal number of clusters, the customer data is partitioned into distinct segments. The KMeans algorithm assigns each customer to one of the clusters based on their deographics and purchasing behavior. The assigned clusters are then added to the original data, providing a comprehensive overview of customer segments. This step is fundamental for subsequent customer profiling and targeted marketing strategies.
+
+~~~ python
+# K-means Algorithm
+from sklearn.cluster import KMeans
+
+k = 5
+kmeans = KMeans(n_clusters=k)
+y_clusters = kmeans.fit_predict(groceries_scaled)
+
+#Add the assigned clusters to the data
+groceries["Clusters"] = y_clusters
+~~~
+
+![alt text](https://github.com/KarlRetumban/CS/blob/main/images/clusters.PNG)
+
+
+### Customer Profiling
+With the clustered data, customer profiling involves gaining insights into each segment's characteristics. By analyzing the spending patterns, preferred product categories, or any other relevant features within each cluster, retailers can tailor marketing efforts and enhance customer engagement. This process facilitates the creation of targeted strategies, such as personalized promotions or product recommendations, maximizing customer satisfaction and overall retail performance.
+
+
+![alt text](https://github.com/KarlRetumban/CS/blob/main/images/clusters.PNG)
+
