@@ -47,8 +47,7 @@ The customer groceries retail purchase data is preprocessed by standardizing the
 # Data Scaling
 scaler = StandardScaler()
 scaler.fit(groceries_dta)
-groceries_scaled = pd.DataFrame(scaler.transform(groceries_dta),columns= ds.columns )
-print("The data is successfulluy scaled")
+groceries_scaled = pd.DataFrame(scaler.transform(groceries_dta),columns= groceries_dta.columns )
 ~~~
 
 ![alt text](https://github.com/KarlRetumban/CS/blob/main/images/scaled.JPG)
