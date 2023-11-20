@@ -66,7 +66,7 @@ Elbow_M.show()
 ~~~
 
 <p align="center">
-    <img src="https://github.com/KarlRetumban/CS/blob/main/images/elbow.JPG" style="width: 700px; height: auto;">
+    <img src="https://github.com/KarlRetumban/CS/blob/main/images/elbow.JPG" style="width: 600px; height: auto;">
 </p>
 
 
@@ -88,7 +88,7 @@ groceries["Clusters"] = y_clusters
 
 
 <p align="center">
-    <img src="https://github.com/KarlRetumban/CS/blob/main/images/clusters.JPG" style="width: 700px; height: auto;">
+    <img src="https://github.com/KarlRetumban/CS/blob/main/images/clusters.JPG" style="width: 600px; height: auto;">
 </p>
 
 
@@ -108,7 +108,7 @@ Below are the customer segments derived using K-means algorithm. The 5 clusters 
 
 
 ### Classify new data into Customer Segments
-We wil classify the new batch of customer data into the customer segment where they below. we will use our fitted model in classifyingwhich segment they belong.
+We wil classify the new batch of customer data into the customer segment where they belong. We will use our fitted model in classifying which segment they belong.
 
 ~~~ python
 #Classify new data into cluster
@@ -117,4 +117,4 @@ new_batch["Clusters"] = predicted_cluster
 new_batch.head()
 ~~~
 
-![alt text](https://github.com/KarlRetumban/CS/blob/main/images/newbatch_classify.jpg)
+![alt text](https://github.com/KarlRetumban/CS/blob/main/images/newbatch_classify.JPG)
