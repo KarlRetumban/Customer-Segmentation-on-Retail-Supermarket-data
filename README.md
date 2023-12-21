@@ -3,7 +3,7 @@
 #### We apply the following techniques in Supermarket Purchase data.
 * Customer Segmemtation
 * Cluster Profiling
-* Classify the segment of new data
+* Classification of new customers into segments
 
 ### Description of the Use Case
 Customer segmentation involves partitioning and categorizing a customer base into distinct groups based on similar characteristics, behaviors, or preferences. In the context of Retail Supermarket Purchase Data, segmentation enables retailers to identify and understand different customer segments with unique purchasing patterns. 
@@ -84,7 +84,7 @@ Below are the customer segments derived using K-means algorithm. The 5 clusters 
 ![alt text](https://github.com/KarlRetumban/CS/blob/main/images/customer_segments.jpg)
 
 
-### Classify new data into Customer Segments
+### Classify new customers into segments
 We wil classify the new batch of customers data into the segment. We will use our fitted model in classifying which segment they belong.
 
 ~~~ python
