@@ -85,7 +85,7 @@ Below are the customer segments derived using K-means algorithm. The 5 clusters 
 
 
 ### Classify new data into Customer Segments
-We wil classify the new batch of customer data into the customer segment where they belong. We will use our fitted model in classifying which segment they belong.
+We wil classify the new batch of customers data into the segment. We will use our fitted model in classifying which segment they belong.
 
 ~~~ python
 #Classify new data into cluster
