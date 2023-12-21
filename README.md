@@ -104,7 +104,7 @@ With the clustered data, customer profiling involves gaining insights into each 
 ### Customer Segments
 Below are the customer segments derived using K-means algorithm. The 5 clusters have it's own unique characteristics different from other customer segments.
 
-![alt text](https://github.com/KarlRetumban/CS/blob/main/images/definedclusters.jpg)
+![alt text](https://github.com/KarlRetumban/CS/blob/main/images/customer_segments.jpg)
 
 
 ### Classify new data into Customer Segments
