@@ -13,29 +13,6 @@ We will apply clustering algorithm, specifically K-means on features such as cus
 For instance, high-spending customers might receive personalized promotions, while occasional shoppers could be targeted with incentives to increase their purchases. Customer segmentation thus serves as a valuable tool for retailers to optimize resource allocation, improve customer satisfaction, and drive overall business growth.
 
 
-
-
-#### Connect Python to Postgresql
-* We import data from Postgresql to Python.
-
-
-~~~ python
-import pymongo
-
-# Connect to MongoDB Compass.
-client = pymongo.MongoClient('localhost', 27017)
-
-# Get the Reviews database.
-db = client['Reviews']
-
-# Get the rentedclothing_reviews collection.
-collection = db['rentedclothing_reviews']
-
-# Show the first few documents in the rentedclothing_reviews collection.
-for document in collection.find().limit(2):
-    print(document)
-~~~
-
 Below is the  Retail Supermarket Purchase data output.
 
 ![alt text](https://github.com/KarlRetumban/CS/blob/main/images/data.JPG)
