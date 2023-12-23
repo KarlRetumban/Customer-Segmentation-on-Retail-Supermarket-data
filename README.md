@@ -15,7 +15,7 @@ For instance, high-spending customers might receive personalized promotions, whi
 
 Below is the  Retail Supermarket Purchase data output.
 
-![alt text](https://github.com/KarlRetumban/CS/blob/main/images/data.JPG)
+![alt text](https://github.com/KarlRetumban/Customer-Segmentation/blob/main/images/data.JPG)
 
 ### Data Scaling
 The customer groceries retail purchase data is preprocessed by standardizing the features through data scaling. Utilizing the StandardScaler from scikit-learn, the data is transformed to have a mean of 0 and a standard deviation of 1, ensuring that features with varying scales contribute equally. This preprocessing step is crucial for the effectiveness of clustering algorithms, such as K-means, as it ensures that all variables are on a comparable scale.
