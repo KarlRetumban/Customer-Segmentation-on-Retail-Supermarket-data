@@ -1,6 +1,6 @@
 # Customer Segmentation on Retail Supermarket data
 
-#### We apply the following techniques in Supermarket Groceries Purchase data.
+#### We apply the following techniques on a Supermarket Groceries Purchase data.
 * Customer Segmemtation
 * Cluster Profiling
 * Classification of new customers into segments
@@ -13,7 +13,7 @@ We will apply clustering algorithm, specifically K-means on features such as cus
 For instance, high-spending customers might receive personalized promotions, while occasional shoppers could be targeted with incentives to increase their purchases. Customer segmentation thus serves as a valuable tool for retailers to optimize resource allocation, improve customer satisfaction, and drive overall business growth.
 
 
-Below is the  Retail Supermarket Purchase data output.
+Below is the  Retail Supermarket Groceries data.
 
 ![alt text](https://github.com/KarlRetumban/Customer-Segmentation/blob/main/images/data.JPG)
 
