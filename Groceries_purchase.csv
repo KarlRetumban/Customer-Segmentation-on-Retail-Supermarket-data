@@ -1,0 +1,2206 @@
+Civil_Status,Age,Children,Education_Level,Income,Total_Purchase,Wines,Fruits,Meat,Fish,Vegetables,Bread,Purchase_with_discounts,Online_Purchase,Store_Purchase,Web_visit
+Single,64,0,Bachelors,58138,1617,635,88,546,172,88,88,3,8,4,7
+Divorced_Widowed,67,2,Bachelors,46344,27,11,1,6,2,1,6,2,1,2,5
+Married,56,1,Bachelors,71613,776,426,49,127,111,21,42,1,8,10,4
+Married,37,2,Bachelors,26646,53,11,4,20,10,3,5,2,2,4,6
+Married,40,2,Postgraduate,58293,422,173,43,118,46,27,15,5,5,6,5
+Married,54,2,Postgraduate,62513,716,520,42,98,0,42,14,2,6,10,6
+Divorced_Widowed,50,1,Bachelors,55635,590,235,65,164,50,49,27,4,7,7,6
+Married,36,2,Postgraduate,33454,169,76,10,56,3,1,23,2,4,4,8
+Married,47,2,Postgraduate,30351,46,14,0,24,3,3,2,1,3,2,9
+Married,71,3,Postgraduate,5648,49,28,0,6,1,1,13,1,1,0,20
+Married,45,1,High School,7500,61,6,16,11,11,1,16,1,2,3,8
+Single,62,0,Bachelors,63033,1102,194,61,480,225,112,30,1,3,8,2
+Divorced_Widowed,69,2,Postgraduate,59354,310,233,2,53,3,5,14,3,6,5,6
+Married,34,1,Bachelors,17323,46,3,14,17,6,1,5,1,1,3,8
+Single,75,0,Postgraduate,82800,1315,1006,22,115,59,68,45,1,7,12,3
+Married,41,3,Bachelors,41850,96,53,5,19,2,13,4,3,3,3,8
+Married,75,1,Bachelors,37760,317,84,5,38,150,12,28,2,4,6,7
+Married,72,2,Postgraduate,76995,1782,1012,80,498,0,16,176,2,11,9,5
+Divorced_Widowed,36,1,High School,33812,133,4,17,19,30,24,39,2,2,3,6
+Married,39,1,Bachelors,37040,316,86,2,73,69,38,48,1,4,5,8
+Married,42,2,Bachelors,2447,1730,1,1,1725,1,1,1,15,0,0,1
+Married,72,2,Postgraduate,58607,972,867,0,86,0,0,19,3,2,9,8
+Married,67,2,Postgraduate,65324,544,384,0,102,21,32,5,3,6,9,4
+Married,70,2,Bachelors,40689,444,270,3,27,39,6,99,7,7,5,8
+Single,52,0,Bachelors,18589,75,6,4,25,15,12,13,2,2,3,7
+Married,45,3,Bachelors,53359,257,173,4,30,3,6,41,4,5,4,7
+Married,32,2,Bachelors,38360,131,36,2,42,20,21,10,2,2,4,3
+Married,56,1,Postgraduate,84618,1672,684,100,801,21,66,0,1,6,10,2
+Single,32,0,Postgraduate,10979,30,8,4,10,2,2,4,2,3,3,5
+Married,58,1,Postgraduate,38620,318,112,17,44,34,22,89,1,2,3,3
+Married,51,2,Bachelors,40548,120,110,0,5,2,0,3,2,2,4,5
+Divorced_Widowed,69,2,Postgraduate,46610,302,96,12,96,33,22,43,6,4,6,6
+Married,75,1,Postgraduate,68657,1196,482,34,471,119,68,22,1,3,9,7
+Divorced_Widowed,70,2,Postgraduate,49389,65,40,0,19,2,1,3,1,2,3,7
+Married,51,2,Postgraduate,67353,913,702,17,151,0,8,35,5,5,12,2
+Married,45,2,High School,23718,81,6,3,14,15,7,36,3,3,2,7
+Divorced_Widowed,48,1,Bachelors,42429,67,55,0,6,2,0,4,2,1,3,5
+Single,78,0,Postgraduate,48948,902,437,8,206,160,49,42,2,7,5,6
+Married,41,2,Bachelors,80011,1395,421,76,536,82,178,102,2,8,5,4
+Married,36,2,Postgraduate,20559,53,13,1,29,3,0,7,2,2,3,8
+Married,64,2,Bachelors,21994,22,9,0,6,3,1,3,1,0,3,5
+Married,46,2,Postgraduate,7500,31,3,1,10,3,2,12,3,2,3,5
+Single,45,0,Bachelors,79941,984,123,164,266,227,30,174,1,2,9,1
+Married,25,1,High School,7500,122,3,18,14,15,22,50,3,3,3,9
+Married,53,2,Bachelors,41728,55,13,6,15,3,5,13,1,2,2,10
+Married,67,3,Postgraduate,72550,1319,826,50,317,50,38,38,9,5,12,8
+Divorced_Widowed,64,1,Bachelors,65486,507,245,19,125,37,67,14,1,4,10,2
+Married,57,1,Postgraduate,79143,1693,650,37,780,27,167,32,1,6,13,3
+Divorced_Widowed,44,1,Bachelors,35790,72,12,6,20,30,1,3,2,2,3,7
+Single,44,0,Bachelors,82582,1617,510,120,550,156,40,241,1,4,7,1
+Married,43,3,Bachelors,66373,606,328,9,124,12,24,109,7,4,10,3
+Married,66,1,Postgraduate,82384,1957,984,51,432,180,120,190,1,3,13,1
+Single,55,0,Bachelors,70287,1093,295,35,482,121,120,40,1,5,10,3
+Divorced_Widowed,33,1,Bachelors,27938,29,13,0,8,2,1,5,1,1,4,3
+Married,53,2,Postgraduate,55954,518,447,0,28,0,0,43,3,8,6,7
+Single,39,0,Postgraduate,75777,1438,712,26,538,69,13,80,1,3,11,1
+Married,46,3,Bachelors,66653,612,452,18,102,16,18,6,4,4,12,3
+Divorced_Widowed,69,1,Bachelors,61823,884,523,7,134,37,14,169,4,8,10,7
+Divorced_Widowed,70,1,Postgraduate,67680,606,546,0,48,0,6,6,1,7,8,5
+Married,73,1,Bachelors,70666,1076,398,40,367,119,122,30,1,7,4,4
+Married,50,2,Bachelors,25721,34,1,3,6,3,6,15,1,1,2,7
+Married,54,3,Bachelors,32474,11,10,0,1,0,0,0,1,1,2,7
+Divorced_Widowed,42,1,High School,88194,1274,688,14,309,201,24,38,1,11,10,5
+Married,63,2,Bachelors,69096,653,247,49,159,7,82,109,1,5,10,4
+Married,51,4,Bachelors,74854,1562,856,59,487,58,29,73,7,2,5,5
+Married,67,1,Postgraduate,66991,1253,496,36,460,189,60,12,3,4,6,3
+Married,62,2,Bachelors,65031,863,258,107,291,84,37,86,4,10,13,7
+Married,46,3,Postgraduate,60631,661,565,6,65,0,6,19,5,9,8,7
+Married,69,1,Bachelors,28332,65,14,10,13,4,15,9,1,2,4,2
+Divorced_Widowed,44,1,Bachelors,40246,13,2,1,6,2,1,1,1,1,2,6
+Married,49,1,Postgraduate,75251,1890,721,111,925,97,18,18,1,7,5,5
+Single,45,0,Bachelors,75825,2209,1032,105,779,137,105,51,0,5,9,4
+Married,45,1,High School,26326,18,1,0,5,0,3,9,1,0,3,3
+Married,56,1,Bachelors,56046,692,577,0,64,0,0,51,2,10,8,8
+Divorced_Widowed,36,1,Bachelors,29760,165,64,4,68,7,5,17,4,3,4,8
+Married,52,2,Bachelors,26304,16,4,1,5,2,0,4,1,1,2,7
+Married,48,2,High School,23559,79,25,5,19,7,0,23,3,3,3,7
+Married,58,1,Postgraduate,38620,318,112,17,44,34,22,89,1,2,3,3
+Single,34,0,Bachelors,81361,778,163,23,424,27,65,76,1,3,13,1
+Married,61,3,Bachelors,29440,56,17,8,14,10,4,3,2,1,4,7
+Married,51,3,Postgraduate,36138,151,130,0,16,0,0,5,5,3,4,7
+Divorced_Widowed,64,1,Bachelors,50388,372,292,6,37,0,3,34,4,6,6,7
+Married,48,1,Bachelors,79593,1366,350,60,568,110,133,145,1,5,7,2
+Married,54,2,Bachelors,54178,194,135,9,39,4,0,7,1,2,5,2
+Divorced_Widowed,49,1,Postgraduate,42394,32,15,2,10,0,1,4,1,1,3,7
+Married,51,2,Postgraduate,23626,43,27,2,14,0,0,0,3,3,3,5
+Married,38,2,Bachelors,30096,45,5,3,11,12,5,9,1,2,3,6
+Divorced_Widowed,61,1,Bachelors,47916,606,505,0,26,0,0,75,5,7,6,6
+Divorced_Widowed,49,2,Bachelors,51813,63,51,2,7,0,1,2,2,2,3,7
+Married,70,1,High School,78497,978,207,26,447,75,0,223,1,5,12,2
+Married,38,1,Postgraduate,50150,410,135,46,92,65,61,11,2,5,7,5
+Divorced_Widowed,61,1,High School,47823,72,53,1,5,2,1,10,2,2,3,8
+Divorced_Widowed,62,1,Postgraduate,34554,55,41,1,6,2,0,5,2,2,3,6
+Married,42,2,Bachelors,85693,1169,386,172,183,185,132,111,2,9,11,5
+Married,76,1,Postgraduate,65846,1120,562,81,276,80,40,81,1,6,6,4
+Married,62,1,Bachelors,87195,1097,217,76,690,50,26,38,1,3,5,1
+Married,42,2,High School,24594,29,1,3,6,10,0,9,1,1,3,5
+Married,57,3,Bachelors,49096,187,144,1,32,2,1,7,4,4,4,7
+Married,52,3,Bachelors,52413,910,295,106,271,75,98,65,4,6,12,6
+Divorced_Widowed,43,1,Bachelors,38557,145,76,3,31,4,4,27,2,3,3,7
+Married,61,1,Postgraduate,89058,850,454,194,106,31,22,43,1,5,4,2
+Married,42,2,Bachelors,77298,969,425,115,292,23,35,79,1,6,11,3
+Single,30,0,Postgraduate,68126,1820,1332,17,311,23,51,86,1,7,5,9
+Married,58,2,Postgraduate,57288,608,527,0,21,0,0,60,3,8,8,6
+Single,30,0,Bachelors,86037,730,490,44,125,29,20,22,1,6,11,3
+Married,41,2,Postgraduate,43974,551,378,0,101,0,0,72,5,6,6,7
+Divorced_Widowed,59,2,Bachelors,50785,114,64,1,21,0,1,27,2,2,3,6
+Married,51,1,Bachelors,90765,1724,547,99,812,151,82,33,0,4,5,1
+Married,43,2,High School,36550,577,47,90,94,123,103,120,5,9,5,9
+Married,54,3,High School,30753,81,12,5,25,0,9,30,2,1,3,5
+Married,52,2,Bachelors,21918,33,1,6,7,11,5,3,2,2,3,6
+Married,68,2,Postgraduate,56129,660,320,48,133,39,72,48,4,6,10,4
+Divorced_Widowed,54,1,Postgraduate,32557,80,34,3,29,0,4,10,3,2,3,5
+Married,36,3,Postgraduate,19510,30,9,0,7,3,4,7,2,1,3,7
+Divorced_Widowed,45,1,Bachelors,30992,43,17,0,14,7,3,2,1,1,3,7
+Single,38,0,Bachelors,101970,1135,722,27,102,44,72,168,0,6,13,2
+Married,56,1,High School,71488,559,162,33,124,40,28,172,2,3,7,1
+Single,37,0,Bachelors,79607,1923,450,133,951,173,0,216,1,3,6,1
+Married,68,3,Postgraduate,54348,90,70,0,16,0,0,4,2,2,4,6
+Married,65,3,Postgraduate,77376,661,492,19,110,16,12,12,4,6,10,4
+Married,69,2,Bachelors,62998,463,120,58,73,65,89,58,5,5,5,5
+Divorced_Widowed,63,2,Postgraduate,61331,632,534,5,47,0,5,41,5,11,6,8
+Married,52,1,Bachelors,73448,725,236,106,189,23,41,130,1,7,9,4
+Married,57,3,Postgraduate,41551,279,220,0,33,3,0,23,5,5,5,8
+Married,54,1,Postgraduate,62981,1482,796,14,590,38,44,0,1,4,13,3
+Divorced_Widowed,45,1,High School,9548,29,0,1,3,10,6,9,2,1,3,8
+Married,62,4,Postgraduate,33762,106,53,1,34,2,0,16,3,2,2,8
+Divorced_Widowed,48,2,Postgraduate,35860,49,15,0,8,4,2,20,2,1,2,5
+Divorced_Widowed,56,2,Postgraduate,36921,38,17,1,12,3,1,4,2,2,3,7
+Single,29,0,Postgraduate,92859,2077,962,61,921,52,61,20,1,5,12,2
+Married,45,2,Postgraduate,65104,1053,738,0,232,13,20,50,2,3,7,7
+Married,59,1,Bachelors,86111,1385,399,28,756,36,40,126,1,5,10,2
+Divorced_Widowed,47,1,Postgraduate,68352,871,614,16,132,43,33,33,3,8,9,6
+Married,33,2,Bachelors,41883,312,32,34,41,73,16,116,3,4,3,7
+Married,45,3,Bachelors,59809,877,598,16,141,32,41,49,3,3,6,8
+Married,46,2,Bachelors,23957,68,2,1,18,20,11,16,1,2,3,6
+Married,40,2,Bachelors,38547,22,6,1,10,0,1,4,1,1,2,8
+Married,48,4,High School,35688,211,73,3,90,12,1,32,7,4,4,8
+Married,55,1,Postgraduate,49605,127,42,16,29,12,20,8,1,2,4,3
+Married,68,3,Postgraduate,59354,459,295,21,78,39,13,13,1,4,7,3
+Married,52,2,Bachelors,65747,460,346,17,48,23,13,13,4,8,6,6
+Married,49,2,High School,46344,429,233,20,57,8,20,91,4,7,5,7
+Divorced_Widowed,33,1,Bachelors,34176,89,5,7,24,19,14,20,4,3,4,6
+Married,69,2,Postgraduate,61010,1021,888,0,57,0,0,76,2,8,11,5
+Married,72,1,Bachelors,69372,1381,997,26,269,34,13,42,1,10,6,4
+Divorced_Widowed,63,1,Bachelors,49967,306,212,6,69,4,12,3,3,6,5,7
+Divorced_Widowed,43,3,Bachelors,60199,18,8,1,7,2,0,0,1,0,3,4
+Married,44,2,Bachelors,55375,162,42,11,57,10,28,14,1,1,6,2
+Single,66,0,Bachelors,80317,1231,536,11,387,149,91,57,1,3,10,1
+Divorced_Widowed,63,3,Postgraduate,30523,13,5,0,3,0,0,5,1,1,2,7
+Married,76,1,Postgraduate,70356,1706,1349,16,249,43,16,33,2,10,9,6
+Married,37,2,Bachelors,23228,121,53,3,49,7,4,5,4,3,4,8
+Single,46,0,Postgraduate,74165,1293,1001,12,240,16,12,12,1,5,10,2
+Married,55,4,Bachelors,43482,88,18,1,32,6,3,28,3,2,4,6
+Single,68,0,Bachelors,62551,421,125,16,98,134,21,27,1,6,4,3
+Single,62,0,Bachelors,52332,259,212,5,33,7,0,2,1,3,6,4
+Single,33,0,Bachelors,66951,1117,277,162,305,173,76,124,1,3,7,1
+Married,64,3,Bachelors,26091,89,15,10,19,8,17,20,3,2,3,5
+Married,56,3,Bachelors,33456,36,7,3,10,8,1,7,2,1,3,7
+Married,39,2,Bachelors,28718,57,12,4,6,11,8,16,2,2,3,8
+Married,51,3,Bachelors,50447,148,85,7,24,2,3,27,1,3,3,6
+Married,62,3,Postgraduate,53537,93,81,0,6,0,0,6,2,2,3,5
+Divorced_Widowed,54,1,Bachelors,52074,119,59,0,12,0,0,48,1,2,2,4
+Married,46,2,Postgraduate,80427,1835,1149,71,449,69,71,26,1,11,8,5
+Married,73,1,Postgraduate,83837,1318,847,66,119,86,89,111,1,9,5,4
+Married,51,3,Postgraduate,38853,45,29,0,14,0,0,2,2,2,3,7
+Married,62,4,Bachelors,38285,10,2,0,5,2,0,1,1,0,3,2
+Married,70,1,High School,78497,978,207,26,447,75,0,223,1,5,12,2
+Married,45,2,Postgraduate,51650,191,152,3,22,2,5,7,1,4,4,5
+Married,33,2,High School,16248,57,12,11,10,3,12,9,3,2,3,6
+Married,75,1,Postgraduate,66835,1033,620,26,195,34,17,141,1,6,13,2
+Married,37,2,Postgraduate,30477,66,47,1,6,0,0,12,1,1,3,6
+Married,60,1,High School,28249,43,1,9,7,2,14,10,1,2,3,6
+Married,38,2,Bachelors,25271,50,10,1,18,10,4,7,1,1,2,9
+Divorced_Widowed,51,1,Postgraduate,32303,39,35,0,2,0,0,2,2,1,4,5
+Married,55,2,Bachelors,61286,608,356,0,107,19,9,117,2,7,8,5
+Married,45,1,Bachelors,74068,1581,783,30,537,140,76,15,1,4,9,2
+Married,57,3,Postgraduate,45759,68,42,1,18,3,0,4,2,2,3,7
+Married,43,2,High School,24882,80,1,4,10,29,0,36,1,1,2,6
+Married,32,1,Postgraduate,66973,1282,466,22,432,147,113,102,1,8,12,3
+Married,33,2,Bachelors,38872,91,23,3,21,3,19,22,2,3,3,8
+Married,48,3,Bachelors,51148,315,235,6,45,8,9,12,4,5,6,6
+Married,44,3,Bachelors,31353,31,10,0,10,3,1,7,2,1,2,8
+Married,41,1,Postgraduate,69661,834,656,16,106,32,16,8,1,7,12,3
+Married,67,1,Bachelors,80067,1600,519,17,813,27,173,51,1,4,6,2
+Married,67,1,Bachelors,86718,1270,344,189,482,50,33,172,1,5,5,2
+Divorced_Widowed,48,2,Postgraduate,46854,263,96,1,79,7,1,79,6,5,3,8
+Divorced_Widowed,69,1,Bachelors,69142,535,448,4,34,6,4,39,3,8,7,5
+Single,53,0,Bachelors,75922,1295,265,138,553,224,23,92,1,4,9,1
+Divorced_Widowed,43,1,Bachelors,63693,1150,587,43,337,42,87,54,3,11,9,6
+Married,44,1,Postgraduate,102160,1240,763,29,138,76,176,58,0,7,10,4
+Divorced_Widowed,56,2,Postgraduate,40637,38,22,0,13,0,0,3,2,1,3,7
+Single,37,0,Postgraduate,18890,35,6,4,1,7,2,15,1,0,2,6
+Married,33,2,Bachelors,29604,53,7,6,13,7,6,14,1,1,3,9
+Divorced_Widowed,58,2,Postgraduate,48721,293,81,18,113,47,13,21,6,4,5,6
+Married,55,2,Bachelors,44794,65,54,0,7,0,0,4,1,2,3,6
+Divorced_Widowed,67,1,Bachelors,64497,1804,1170,48,320,42,32,192,5,11,9,8
+Married,65,2,Bachelors,46097,241,72,24,68,65,4,8,5,3,6,4
+Married,67,1,Bachelors,77972,1101,613,22,319,33,102,12,1,4,9,1
+Married,53,3,Postgraduate,44377,264,224,0,30,0,0,10,8,5,5,8
+Married,47,3,Postgraduate,46014,541,410,0,59,19,9,44,10,7,8,7
+Married,36,1,Bachelors,70951,1198,239,10,554,254,87,54,1,3,9,1
+Married,44,2,Bachelors,41443,482,171,7,171,25,19,89,6,8,5,8
+Divorced_Widowed,43,3,High School,52195,17,12,0,4,0,0,1,1,1,2,8
+Married,73,1,Postgraduate,83790,1615,1076,16,417,42,48,16,1,8,6,3
+Divorced_Widowed,67,1,Postgraduate,44551,285,182,4,33,0,0,66,2,4,5,7
+Married,41,2,Bachelors,69508,1135,824,32,162,42,32,43,2,11,11,6
+Married,33,2,High School,45204,114,30,11,25,29,1,18,1,1,4,3
+Married,52,1,Bachelors,72460,1047,377,10,540,80,30,10,1,3,7,1
+Married,51,3,Postgraduate,77622,714,520,7,154,19,0,14,2,6,11,3
+Married,41,2,Postgraduate,30732,185,155,1,25,0,1,3,4,4,4,8
+Divorced_Widowed,59,1,Bachelors,63887,1245,897,23,207,15,11,92,5,9,12,6
+Married,43,2,Bachelors,42011,189,131,0,16,2,1,39,4,3,4,8
+Married,45,2,Bachelors,51369,576,297,7,79,0,11,182,2,8,4,8
+Divorced_Widowed,69,1,Bachelors,51537,1103,787,20,204,0,0,92,3,2,11,8
+Married,49,1,Postgraduate,79930,1753,792,86,740,67,51,17,1,3,8,2
+Married,35,2,Postgraduate,34320,17,4,1,9,3,0,0,1,1,2,8
+Divorced_Widowed,55,2,Bachelors,37070,433,231,7,137,4,15,39,9,5,8,7
+Divorced_Widowed,59,1,High School,81975,1588,983,76,184,180,138,27,1,6,4,7
+Married,50,2,Bachelors,38590,22,3,1,8,4,3,3,1,1,2,8
+Single,70,0,Bachelors,15033,19,0,4,5,6,0,4,1,1,3,3
+Married,56,2,Postgraduate,62745,1117,562,21,464,28,10,32,3,7,11,5
+Married,46,2,High School,22212,69,5,9,20,6,8,21,2,2,4,6
+Married,39,2,Postgraduate,23661,23,18,0,4,0,0,1,1,1,3,7
+Divorced_Widowed,63,1,Postgraduate,79761,605,415,5,124,15,35,11,1,5,11,3
+Divorced_Widowed,48,1,Bachelors,7500,57,5,3,10,12,7,20,4,3,3,7
+Single,53,0,Bachelors,73455,2088,901,61,757,186,163,20,1,6,10,3
+Married,63,2,Bachelors,64961,1009,382,114,276,75,124,38,2,6,4,3
+Divorced_Widowed,50,1,Bachelors,22804,26,14,1,7,2,1,1,1,2,2,9
+Married,31,1,Bachelors,73687,1627,559,153,503,218,13,181,1,3,9,2
+Married,63,2,Bachelors,61074,1102,789,0,133,0,28,152,7,11,8,7
+Married,57,3,Postgraduate,31686,17,11,0,5,0,0,1,2,1,3,6
+Married,49,2,Bachelors,80134,1690,1218,16,272,104,0,80,2,5,6,6
+Married,68,2,Bachelors,75027,1390,925,64,179,133,12,77,2,9,6,5
+Married,33,1,Postgraduate,67546,2126,864,134,768,150,38,172,1,4,5,3
+Married,52,2,Postgraduate,65176,1531,960,28,183,220,70,70,4,9,6,6
+Divorced_Widowed,46,1,Postgraduate,31160,64,16,3,25,6,1,13,2,2,3,8
+Divorced_Widowed,36,1,Bachelors,29938,26,3,3,7,0,2,11,2,1,3,6
+Single,47,0,Bachelors,102692,1112,168,148,444,32,172,148,1,6,13,2
+Married,63,1,High School,26490,210,45,47,52,21,20,25,2,3,5,6
+Married,54,3,Bachelors,75702,1148,650,28,353,45,42,30,5,4,11,8
+Divorced_Widowed,47,1,Postgraduate,30899,33,24,0,8,0,0,1,2,1,3,6
+Married,60,2,Postgraduate,63342,1101,918,21,118,13,10,21,3,8,5,6
+Divorced_Widowed,57,1,Bachelors,45989,322,138,33,87,28,24,12,4,3,7,3
+Divorced_Widowed,57,2,Bachelors,18701,44,12,4,2,10,6,10,4,2,4,5
+Divorced_Widowed,64,3,Postgraduate,40737,17,11,0,4,0,0,2,1,1,2,8
+Divorced_Widowed,42,1,Bachelors,15287,31,1,2,8,4,3,13,2,1,2,7
+Divorced_Widowed,53,2,Postgraduate,69674,845,554,41,215,11,0,24,3,10,10,5
+Married,51,2,Postgraduate,44159,275,167,2,62,24,13,7,4,4,6,5
+Married,43,2,Postgraduate,37717,25,9,0,6,4,1,5,1,1,2,9
+Married,69,3,Postgraduate,43776,275,177,2,71,3,2,20,6,5,4,8
+Married,55,3,Postgraduate,38179,90,38,4,22,4,2,20,4,3,3,7
+Married,58,1,Bachelors,80124,1495,483,84,398,205,84,241,1,3,8,1
+Married,51,3,Postgraduate,38097,184,77,2,35,0,1,69,4,3,2,7
+Married,51,1,Bachelors,72940,981,182,74,298,162,149,116,1,3,6,1
+Married,51,2,Bachelors,22070,67,10,7,19,8,2,21,2,2,2,6
+Single,68,0,Bachelors,69267,1635,778,44,499,95,73,146,2,3,5,7
+Divorced_Widowed,38,1,Postgraduate,31788,60,16,7,23,0,8,6,3,3,4,5
+Married,46,2,Postgraduate,61905,231,167,0,43,6,2,13,2,4,4,5
+Married,61,3,Bachelors,29315,48,13,2,14,8,7,4,4,2,4,6
+Divorced_Widowed,58,2,Bachelors,33378,99,33,6,40,3,7,10,3,2,4,7
+Married,58,2,Postgraduate,66313,770,625,7,99,10,22,7,2,6,12,4
+Single,65,0,Bachelors,60714,957,216,162,224,101,92,162,2,7,10,5
+Married,40,1,Postgraduate,77882,818,68,129,396,188,22,15,1,3,5,1
+Single,35,0,Postgraduate,69867,925,196,0,512,33,130,54,1,3,8,1
+Divorced_Widowed,53,1,Postgraduate,63841,908,635,15,100,20,7,131,1,9,9,6
+Married,40,2,High School,24480,102,4,19,9,28,25,17,3,3,4,7
+Married,45,2,Bachelors,51369,576,297,7,79,0,11,182,2,8,4,8
+Married,75,1,Bachelors,37760,317,84,5,38,150,12,28,2,4,6,7
+Married,47,2,Postgraduate,65640,461,204,7,149,20,15,66,1,5,8,2
+Married,46,3,Postgraduate,44319,37,26,0,8,0,0,3,2,2,3,5
+Married,47,2,Bachelors,30631,70,15,6,20,4,5,20,1,3,2,7
+Married,69,1,Bachelors,75278,930,304,98,230,150,74,74,1,6,13,3
+Married,65,3,Postgraduate,50898,859,285,28,242,55,114,135,13,6,12,5
+Single,55,0,Bachelors,79946,1478,395,183,565,166,141,28,1,5,5,3
+Single,72,0,Postgraduate,35416,390,248,3,81,4,3,51,3,7,5,8
+Married,37,1,High School,32414,52,20,6,5,0,9,12,1,1,3,7
+Married,52,2,Bachelors,38361,137,39,0,56,20,8,14,3,3,3,7
+Married,41,1,Bachelors,82497,1919,777,129,573,216,21,203,1,2,9,4
+Married,50,3,Bachelors,16626,68,8,3,22,21,1,13,3,3,3,9
+Married,56,3,Bachelors,29672,25,9,1,3,0,4,8,1,0,3,6
+Married,69,2,Postgraduate,55951,1374,1241,0,80,0,13,40,3,3,11,8
+Divorced_Widowed,33,1,High School,35388,32,6,4,7,4,3,8,1,1,3,7
+Married,35,2,Postgraduate,42386,100,65,4,16,0,4,11,1,3,3,8
+Single,39,0,Bachelors,68627,825,395,15,263,60,54,38,1,2,6,1
+Divorced_Widowed,56,1,Postgraduate,57912,916,801,0,80,0,0,35,5,8,12,5
+Divorced_Widowed,63,2,Bachelors,35246,62,36,0,12,2,2,10,4,3,3,5
+Married,65,2,High School,58821,728,513,14,154,19,0,28,1,9,9,6
+Married,43,2,Postgraduate,46377,90,37,0,46,4,3,0,1,2,3,4
+Divorced_Widowed,33,1,Bachelors,39747,273,80,15,93,20,13,52,3,5,4,8
+Married,37,2,Bachelors,23976,66,14,1,21,2,3,25,3,3,3,7
+Married,60,1,Postgraduate,80950,1213,525,147,112,219,147,63,1,6,9,2
+Single,55,0,Bachelors,27038,107,1,26,25,17,23,15,1,3,3,9
+Single,74,0,Bachelors,77457,1157,675,11,400,15,45,11,1,2,10,1
+Married,57,2,Postgraduate,64100,546,509,0,27,0,0,10,1,8,6,7
+Married,29,1,Postgraduate,42670,241,154,2,46,20,4,15,1,4,4,4
+Divorced_Widowed,45,1,Bachelors,12571,53,3,5,14,2,12,17,4,3,3,6
+Married,54,4,Bachelors,22574,37,25,0,8,2,0,2,2,2,3,7
+Single,45,0,Postgraduate,70893,1508,768,44,561,77,44,14,1,6,10,3
+Married,55,3,Bachelors,54198,235,185,0,28,3,2,17,6,3,6,4
+Married,65,3,Postgraduate,28839,32,24,0,7,0,0,1,2,2,3,5
+Married,49,3,Bachelors,40321,102,44,4,21,6,0,27,2,3,3,7
+Divorced_Widowed,36,1,Bachelors,66503,401,91,64,128,65,3,50,2,4,6,3
+Married,70,3,Bachelors,30833,28,11,0,7,3,1,6,2,1,3,5
+Married,50,2,Bachelors,64795,680,412,5,119,38,29,77,3,3,12,2
+Married,47,2,Bachelors,34421,30,3,3,7,6,2,9,1,1,2,7
+Divorced_Widowed,56,2,Postgraduate,47025,20,16,0,3,0,0,1,1,1,2,7
+Divorced_Widowed,60,1,Postgraduate,64325,1307,731,60,353,78,12,73,5,10,5,7
+Divorced_Widowed,68,1,Bachelors,40464,630,424,17,118,7,23,41,6,8,8,8
+Married,64,1,Bachelors,62187,1283,792,0,275,45,45,126,1,4,5,3
+Divorced_Widowed,45,1,Postgraduate,14849,65,21,2,28,3,2,9,3,2,4,8
+Married,37,2,Bachelors,27255,37,22,1,11,0,1,2,1,1,3,7
+Married,71,4,Postgraduate,54432,38,33,0,5,0,0,0,1,1,3,4
+Divorced_Widowed,35,1,Postgraduate,29999,160,68,7,59,10,5,11,4,3,4,8
+Divorced_Widowed,38,1,Bachelors,24072,23,9,1,6,3,0,4,1,1,2,8
+Single,32,0,Postgraduate,33996,71,40,2,15,8,0,6,1,1,3,4
+Married,65,2,Postgraduate,66334,1161,909,11,218,0,0,23,2,9,5,5
+Married,50,2,Postgraduate,35178,59,23,1,13,2,2,18,1,1,2,7
+Married,38,2,Bachelors,22010,33,11,2,9,3,0,8,2,2,3,8
+Divorced_Widowed,61,2,Bachelors,62204,946,317,46,247,151,46,139,1,4,12,3
+Single,53,0,Bachelors,75693,1442,797,153,293,72,97,30,1,11,6,4
+Married,49,2,Bachelors,30675,62,10,2,16,11,2,21,1,1,3,8
+Married,56,1,Bachelors,83003,1674,856,61,570,40,25,122,1,7,8,3
+Single,33,0,Bachelors,68655,1538,456,19,832,75,118,38,1,4,11,3
+Single,35,0,Bachelors,41411,139,37,32,38,11,3,18,1,2,4,6
+Married,52,2,Postgraduate,55212,1182,1103,0,45,0,0,34,3,4,11,8
+Married,71,2,Postgraduate,59292,507,378,14,68,19,14,14,2,3,8,3
+Married,48,2,High School,27190,18,1,6,7,0,1,3,1,1,2,8
+Single,69,0,Bachelors,82623,940,204,34,204,172,153,173,1,2,4,1
+Married,56,3,Bachelors,44300,42,30,0,9,0,0,3,2,1,3,6
+Single,51,0,Bachelors,84835,1190,189,104,379,111,189,218,1,4,6,1
+Divorced_Widowed,50,2,Bachelors,30372,44,15,0,12,7,3,7,3,2,3,7
+Married,45,2,Postgraduate,33181,16,9,0,3,0,0,4,1,1,2,6
+Married,64,2,Bachelors,71113,835,495,33,255,11,33,8,4,6,9,4
+Married,35,2,Bachelors,71952,1443,656,80,455,52,107,93,2,8,8,4
+Single,55,0,Postgraduate,69759,1029,452,20,514,13,30,0,3,4,5,3
+Married,47,1,Bachelors,72099,1188,546,91,410,119,0,22,1,3,10,1
+Divorced_Widowed,45,1,Postgraduate,60000,1277,1048,0,217,0,0,12,5,11,5,6
+Divorced_Widowed,43,2,Bachelors,38643,49,22,2,14,0,1,10,2,2,3,7
+Married,66,2,Bachelors,50737,99,78,0,11,0,0,10,1,2,4,6
+Married,52,1,Postgraduate,68462,1670,561,64,785,84,128,48,1,3,8,1
+Married,78,1,Postgraduate,65073,900,629,17,177,69,0,8,1,5,5,2
+Married,73,3,Postgraduate,46681,425,269,15,69,15,19,38,2,4,4,5
+Married,64,1,Bachelors,78618,2153,736,163,818,212,163,61,1,4,10,2
+Divorced_Widowed,52,1,Postgraduate,62187,636,512,0,83,0,0,41,3,6,10,4
+Married,43,3,Bachelors,28442,57,19,3,10,11,8,6,3,2,4,4
+Married,43,2,Postgraduate,37717,25,9,0,6,4,1,5,1,1,2,9
+Married,54,3,Bachelors,51479,494,247,8,160,6,8,65,7,6,6,7
+Divorced_Widowed,52,1,Bachelors,54803,693,404,0,92,28,27,142,2,6,9,4
+Married,61,1,Bachelors,79530,1348,333,0,815,129,42,29,1,4,11,2
+Divorced_Widowed,45,1,Bachelors,31615,51,2,3,20,6,11,9,2,2,3,7
+Married,59,1,Bachelors,72025,1932,833,33,549,151,133,233,1,4,8,3
+Divorced_Widowed,46,1,Postgraduate,52614,990,789,0,142,12,9,38,2,2,8,8
+Married,37,2,High School,35684,30,10,4,7,0,6,3,1,1,3,6
+Married,46,3,Bachelors,48178,254,159,4,45,6,2,38,6,5,4,8
+Divorced_Widowed,51,1,Postgraduate,29548,29,7,1,6,3,1,11,1,1,2,4
+Divorced_Widowed,55,1,Bachelors,63810,1371,977,12,253,16,12,101,4,4,12,8
+Divorced_Widowed,49,2,Postgraduate,38578,73,38,4,22,3,3,3,3,3,3,8
+Divorced_Widowed,46,2,Postgraduate,46098,120,57,0,27,0,0,36,4,3,2,8
+Single,51,0,Bachelors,22585,81,3,9,15,13,2,39,1,1,2,9
+Divorced_Widowed,32,1,Bachelors,30279,37,10,4,14,4,4,1,1,1,3,8
+Married,60,2,Postgraduate,66426,1377,1043,24,97,32,24,157,2,3,10,6
+Divorced_Widowed,52,1,Bachelors,30822,51,3,9,13,2,12,12,1,1,3,7
+Married,52,3,Postgraduate,33581,17,11,0,5,0,0,1,1,1,2,8
+Married,36,2,Bachelors,19986,22,3,6,5,0,2,6,1,0,3,7
+Single,67,0,Bachelors,27421,324,43,12,96,78,40,55,3,4,6,7
+Married,48,4,High School,35688,211,73,3,90,12,1,32,7,4,4,8
+Divorced_Widowed,40,1,Postgraduate,36143,19,12,0,1,0,0,6,1,0,2,3
+Divorced_Widowed,50,1,Bachelors,10245,41,4,7,7,6,4,13,3,1,2,5
+Married,53,2,Postgraduate,43795,492,314,11,53,4,3,107,3,7,4,7
+Married,61,2,Bachelors,63381,1005,571,50,142,33,50,159,4,4,13,2
+Married,72,2,Bachelors,38823,114,70,0,11,2,8,23,1,2,3,6
+Divorced_Widowed,53,2,Postgraduate,83664,1173,866,21,151,28,21,86,3,2,12,5
+Married,42,1,Bachelors,90300,1738,594,134,786,33,134,57,0,5,8,1
+Married,42,2,Postgraduate,62499,222,140,4,61,0,13,4,2,3,6,4
+Single,28,0,Bachelors,74293,1127,375,152,335,93,91,81,1,5,6,2
+Married,75,1,Postgraduate,51012,209,102,9,63,2,9,24,1,4,4,6
+Married,53,2,Postgraduate,70777,787,554,35,113,0,7,78,3,5,12,3
+Married,30,1,Postgraduate,68682,1598,919,0,505,99,30,45,1,4,10,2
+Married,50,3,Bachelors,43824,186,96,1,42,12,3,32,4,3,4,8
+Married,37,2,Bachelors,15345,47,5,2,16,3,2,19,2,1,2,8
+Divorced_Widowed,34,1,Bachelors,23442,27,2,0,6,8,6,5,1,1,3,7
+Married,41,2,High School,14515,96,6,4,9,6,36,35,4,2,3,7
+Divorced_Widowed,65,2,High School,31395,64,23,1,25,0,8,7,4,2,3,6
+Married,56,1,Bachelors,75276,1040,610,105,125,137,42,21,1,9,9,5
+Divorced_Widowed,47,2,Bachelors,42373,163,67,5,61,3,8,19,5,2,5,5
+Married,61,1,Bachelors,30507,343,65,36,74,38,20,110,1,5,4,7
+Divorced_Widowed,66,3,Postgraduate,55521,446,416,0,26,0,0,4,9,6,6,7
+Married,56,3,Bachelors,48006,41,23,0,11,3,2,2,1,1,3,6
+Divorced_Widowed,49,1,Postgraduate,27213,70,19,3,26,10,9,3,3,2,4,8
+Divorced_Widowed,50,2,Postgraduate,65808,272,155,7,80,13,7,10,3,5,5,6
+Married,47,2,Postgraduate,30351,46,14,0,24,3,3,2,1,3,2,9
+Married,58,3,Bachelors,50437,490,370,9,92,6,9,4,3,7,8,7
+Divorced_Widowed,39,1,High School,23616,79,4,22,11,3,7,32,2,3,3,8
+Married,45,2,Bachelors,53858,915,407,53,221,58,150,26,4,4,6,4
+Married,66,2,Postgraduate,66465,1485,1200,0,204,38,29,14,3,11,12,6
+Divorced_Widowed,34,1,Bachelors,46923,369,85,44,54,102,78,6,3,5,7,7
+Married,59,2,Bachelors,75072,1073,583,34,309,0,22,125,2,5,8,3
+Married,78,1,Postgraduate,75865,1242,483,0,591,156,0,12,1,3,10,1
+Married,46,2,High School,19789,78,2,5,9,28,6,28,3,2,3,5
+Married,27,1,Bachelors,80134,1378,966,26,282,52,26,26,1,2,11,5
+Single,40,0,Bachelors,91065,1474,822,114,108,179,137,114,1,7,9,3
+Married,50,3,Postgraduate,49505,751,604,0,100,19,0,28,9,10,8,8
+Married,48,2,Postgraduate,37401,48,19,3,19,3,1,3,2,2,3,7
+Married,38,2,Bachelors,30096,45,5,3,11,12,5,9,1,2,3,6
+Married,39,2,Postgraduate,18492,10,2,2,2,2,1,1,1,1,2,8
+Married,47,1,Postgraduate,82584,1435,1076,68,103,29,91,68,1,3,8,1
+Married,80,1,Postgraduate,93027,2119,1285,42,716,55,0,21,0,7,5,2
+Married,68,4,Bachelors,48686,20,10,0,7,2,0,1,1,1,2,8
+Married,35,1,Bachelors,92910,1795,551,137,792,179,103,33,1,6,13,1
+Married,32,2,Bachelors,75433,1188,800,0,297,0,34,57,2,2,10,6
+Married,32,2,High School,10404,43,2,2,11,10,6,12,2,1,4,5
+Married,53,2,Bachelors,61314,1008,378,0,189,97,172,172,2,5,12,3
+Single,60,0,Postgraduate,84865,1688,1248,16,349,43,16,16,1,2,9,4
+Married,32,2,Bachelors,42387,684,235,0,235,19,4,191,5,8,7,8
+Married,54,3,High School,67309,1082,515,47,181,149,95,95,15,9,9,7
+Married,57,2,Bachelors,75236,1068,438,66,400,12,38,114,1,8,13,4
+Divorced_Widowed,51,1,Bachelors,30015,57,25,0,22,2,3,5,2,1,4,5
+Married,65,2,Postgraduate,50943,46,31,0,7,2,0,6,1,1,3,5
+Divorced_Widowed,55,1,Bachelors,67272,733,357,35,271,28,28,14,3,6,12,5
+Divorced_Widowed,72,1,Postgraduate,51529,467,400,4,35,6,0,22,2,9,5,8
+Married,50,2,Postgraduate,32011,122,99,0,15,2,1,5,3,2,4,7
+Married,35,2,High School,7500,36,1,11,5,4,6,9,2,2,3,8
+Married,32,2,Bachelors,28691,34,5,4,13,8,0,4,1,1,3,8
+Married,73,2,Postgraduate,56223,156,77,28,31,16,0,4,2,2,5,4
+Married,75,1,Bachelors,18100,14,3,1,2,4,3,1,1,0,3,5
+Divorced_Widowed,32,1,Bachelors,30279,37,10,4,14,4,4,1,1,1,3,8
+Married,47,1,High School,20130,34,0,6,3,7,6,12,1,1,3,8
+Single,62,0,Bachelors,23295,20,0,0,1,2,12,5,1,1,2,8
+Divorced_Widowed,49,1,Postgraduate,42618,192,76,14,74,13,5,10,2,5,4,8
+Single,57,0,Bachelors,81246,1379,398,190,537,61,156,37,1,4,7,1
+Married,45,2,Bachelors,24027,48,14,7,11,11,0,5,2,2,3,8
+Married,68,2,Postgraduate,55707,428,208,7,82,30,66,35,2,3,9,3
+Divorced_Widowed,66,1,Bachelors,57959,868,430,16,322,43,24,33,5,4,11,3
+Married,52,2,Bachelors,56796,1001,656,38,161,62,47,37,3,8,7,7
+Divorced_Widowed,50,1,Postgraduate,36230,59,14,2,30,8,2,3,1,2,4,5
+Married,41,3,High School,70829,431,141,70,106,72,19,23,2,4,8,3
+Married,45,2,Bachelors,65991,971,507,19,364,25,47,9,3,9,10,7
+Married,49,4,Bachelors,38988,348,164,24,103,12,3,42,7,5,6,8
+Single,55,0,High School,89572,2059,606,24,974,197,194,64,1,7,9,4
+Married,37,2,Postgraduate,42207,265,116,11,72,3,17,46,4,4,5,6
+Married,69,2,Bachelors,50300,270,143,15,60,24,23,5,2,2,8,2
+Married,39,1,High School,66664,1289,398,96,447,220,96,32,1,5,6,3
+Married,57,2,Bachelors,60597,893,522,0,257,32,16,66,4,2,8,7
+Single,72,0,Bachelors,70165,926,161,0,253,199,191,122,1,3,11,1
+Divorced_Widowed,63,1,Postgraduate,50520,135,112,0,6,2,1,14,2,3,3,6
+Married,58,1,Bachelors,80124,1495,483,84,398,205,84,241,1,3,8,1
+Married,46,2,Bachelors,33183,120,7,5,39,17,15,37,2,4,3,7
+Single,52,0,Postgraduate,66582,1288,789,25,420,16,38,0,1,2,9,1
+Married,66,1,Postgraduate,75261,1743,1239,17,413,23,34,17,1,5,5,2
+Divorced_Widowed,51,1,Bachelors,31880,15,4,1,5,2,0,3,1,1,2,8
+Married,70,3,Bachelors,53790,542,335,42,127,28,5,5,3,7,8,6
+Married,50,2,Postgraduate,49269,890,639,8,166,11,8,58,3,7,12,7
+Married,46,2,Bachelors,61456,1388,563,76,384,84,192,89,4,6,13,4
+Married,41,2,Bachelors,37406,17,2,0,8,2,2,3,1,1,2,8
+Married,40,2,Postgraduate,56937,906,746,8,125,11,8,8,7,8,9,6
+Married,43,3,Bachelors,38415,44,22,1,13,4,0,4,2,1,3,7
+Divorced_Widowed,33,1,Bachelors,20518,25,4,1,6,4,1,9,1,1,2,5
+Married,65,2,Bachelors,62503,973,478,0,193,110,75,117,4,8,11,5
+Divorced_Widowed,49,2,Postgraduate,41644,31,20,3,4,2,0,2,2,1,3,3
+Married,44,2,Postgraduate,55842,518,451,0,39,0,4,24,1,7,8,5
+Married,49,2,Postgraduate,62010,530,371,22,39,6,0,92,4,6,7,5
+Married,44,2,Bachelors,41124,506,281,7,84,15,0,119,7,7,4,8
+Married,48,2,Postgraduate,38961,70,19,7,19,0,1,24,1,2,2,7
+Divorced_Widowed,49,1,Postgraduate,37760,54,26,3,13,2,10,0,1,2,3,6
+Divorced_Widowed,47,1,Bachelors,32233,296,138,15,35,25,11,72,2,6,2,9
+Married,46,2,Bachelors,43057,266,213,2,44,0,2,5,4,4,5,5
+Married,61,1,Postgraduate,83151,747,407,28,100,120,74,18,1,5,4,3
+Single,57,0,Postgraduate,78825,895,483,74,114,169,37,18,1,5,13,3
+Married,45,2,Postgraduate,65104,1053,738,0,232,13,20,50,2,3,7,7
+Married,47,2,Bachelors,60093,735,502,12,109,16,6,90,2,7,10,6
+Married,52,2,Bachelors,14045,20,11,0,5,2,1,1,1,1,3,7
+Single,69,0,High School,28457,205,24,1,108,29,29,14,1,4,4,8
+Married,63,2,Postgraduate,78952,2092,1170,19,594,99,76,134,2,2,12,6
+Divorced_Widowed,45,1,Bachelors,46310,309,185,2,88,15,5,14,2,6,5,8
+Married,66,1,Bachelors,76005,1722,983,20,389,240,50,40,1,3,13,6
+Divorced_Widowed,57,1,Postgraduate,58308,900,691,0,69,10,0,130,4,2,3,8
+Single,77,0,Postgraduate,55614,682,504,13,131,8,0,26,1,9,6,7
+Divorced_Widowed,59,1,Postgraduate,59432,663,317,25,265,25,19,12,3,5,11,5
+Divorced_Widowed,43,1,Bachelors,55563,43,29,1,9,2,0,2,1,2,3,3
+Married,50,2,Postgraduate,78642,1816,1396,0,322,46,35,17,1,4,4,6
+Married,72,2,Postgraduate,67911,976,529,0,356,63,28,0,3,6,11,3
+Married,77,1,Bachelors,65275,746,388,14,218,91,14,21,1,4,13,2
+Married,71,3,Bachelors,27203,64,13,2,21,4,0,24,2,1,2,8
+Married,60,2,Postgraduate,48330,32,28,0,4,0,0,0,1,1,3,5
+Married,31,1,High School,24279,263,16,36,21,20,62,108,1,4,3,8
+Married,36,2,Postgraduate,64355,1445,1047,0,140,67,38,153,2,4,12,8
+Married,65,2,Postgraduate,50943,46,31,0,7,2,0,6,1,1,3,5
+Single,68,0,Bachelors,53653,1210,815,10,239,28,10,108,2,10,12,6
+Married,45,2,Bachelors,65665,945,225,162,387,106,36,29,1,5,8,3
+Single,32,0,Bachelors,81217,1157,493,70,324,146,40,84,1,3,11,1
+Married,29,1,Bachelors,34935,137,34,4,66,3,10,20,1,2,4,7
+Divorced_Widowed,62,1,Bachelors,61250,730,382,138,65,60,26,59,6,5,12,5
+Married,40,2,Postgraduate,39665,216,127,1,56,0,1,31,3,4,3,7
+Divorced_Widowed,42,1,Bachelors,60152,943,325,83,300,86,58,91,1,6,12,3
+Married,57,3,Bachelors,48920,347,238,17,68,8,10,6,3,6,5,7
+Married,62,1,Postgraduate,89120,1924,1168,92,408,72,129,55,1,5,7,1
+Married,75,2,Postgraduate,44124,397,284,0,55,0,6,52,4,6,5,8
+Single,46,0,Postgraduate,81169,2089,1288,20,613,80,61,27,1,5,9,2
+Married,60,3,Bachelors,36443,138,65,0,46,4,3,20,4,3,3,8
+Divorced_Widowed,31,1,Bachelors,26095,42,11,7,9,3,1,11,1,1,3,7
+Married,62,1,Bachelors,71367,777,227,23,389,42,21,75,1,4,7,2
+Married,77,1,Postgraduate,80184,1902,1035,134,670,25,38,0,1,6,10,3
+Divorced_Widowed,56,2,Bachelors,30630,52,27,1,12,2,0,10,2,2,3,7
+Single,34,0,Postgraduate,73454,1651,982,73,351,56,14,175,1,2,6,5
+Married,30,1,Bachelors,42691,358,179,2,64,38,17,58,1,5,6,5
+Married,68,1,Bachelors,70503,1727,1379,33,216,0,33,66,1,2,9,6
+Married,34,2,Bachelors,25545,210,32,1,64,16,12,85,3,2,3,6
+Married,35,2,Bachelors,32880,42,8,4,15,7,6,2,1,1,3,8
+Married,63,1,Postgraduate,77863,1291,881,38,319,16,25,12,1,4,10,2
+Married,44,1,Postgraduate,50353,442,141,15,153,67,31,35,1,4,6,3
+Single,57,0,Bachelors,61839,1895,1000,155,379,224,17,120,1,4,4,8
+Married,61,3,Postgraduate,49154,411,206,10,67,30,27,71,6,4,8,6
+Divorced_Widowed,46,1,High School,47682,521,162,61,83,97,57,61,4,4,8,5
+Divorced_Widowed,52,1,Bachelors,72679,1168,619,54,260,127,54,54,1,4,5,1
+Married,44,3,Postgraduate,57954,493,456,4,24,0,0,9,7,8,6,7
+Married,59,3,Bachelors,65316,260,112,6,92,3,9,38,2,3,5,4
+Divorced_Widowed,39,1,Bachelors,28567,46,11,3,22,2,2,6,2,2,3,6
+Married,70,2,Postgraduate,47352,319,172,12,112,8,0,15,4,6,5,7
+Married,54,2,Bachelors,44931,96,78,0,11,0,0,7,1,2,3,5
+Single,54,0,Bachelors,76982,1062,464,151,292,65,60,30,1,8,4,4
+Married,69,2,High School,57247,232,99,4,32,37,54,6,2,2,7,2
+Divorced_Widowed,40,1,Postgraduate,22944,76,19,3,19,4,5,26,3,3,3,7
+Married,44,2,High School,25315,54,1,9,8,11,3,22,3,3,3,8
+Divorced_Widowed,52,1,Bachelors,43638,201,63,10,83,7,19,19,2,4,4,7
+Divorced_Widowed,37,1,Postgraduate,42710,406,252,3,42,4,3,102,2,4,3,6
+Married,39,1,Postgraduate,84169,1919,1478,19,403,0,19,0,1,7,6,3
+Married,45,2,Bachelors,54058,662,198,18,252,32,108,54,2,4,8,3
+Married,31,2,High School,24683,41,8,4,10,6,7,6,2,2,4,5
+Single,57,0,Bachelors,85620,1600,416,46,925,60,107,46,1,3,4,1
+Married,41,2,Bachelors,47850,134,42,7,43,20,12,10,1,3,4,6
+Married,53,3,Bachelors,19514,69,14,3,21,2,1,28,4,3,2,8
+Married,48,3,Postgraduate,27159,21,17,0,3,0,0,1,2,1,3,6
+Divorced_Widowed,58,2,High School,39548,54,15,4,10,3,4,18,2,1,3,3
+Divorced_Widowed,32,1,Bachelors,21474,91,6,16,24,11,0,34,2,3,2,7
+Divorced_Widowed,50,1,Postgraduate,60504,526,458,0,24,6,4,34,2,6,8,6
+Married,58,1,Bachelors,22419,162,30,3,47,19,21,42,1,3,2,8
+Married,72,1,Postgraduate,81698,1008,179,28,520,111,123,47,1,3,13,1
+Married,69,3,Bachelors,43462,240,90,17,97,15,6,15,6,4,5,8
+Divorced_Widowed,43,1,Postgraduate,54880,795,308,85,137,102,45,118,2,6,11,5
+Married,39,1,Bachelors,79908,1772,557,129,761,29,185,111,1,5,7,2
+Married,51,1,High School,15315,64,7,4,13,15,8,17,2,2,4,5
+Married,62,2,Bachelors,87771,1957,1492,38,287,50,57,33,1,5,4,6
+Married,43,2,Bachelors,33039,78,30,8,12,8,8,12,1,2,4,5
+Single,41,0,Bachelors,81741,1572,249,153,940,58,134,38,0,6,7,2
+Married,50,2,Postgraduate,71499,795,465,25,132,136,0,37,2,8,13,4
+Married,51,2,High School,62466,889,129,129,259,168,121,83,5,6,12,4
+Divorced_Widowed,58,1,Postgraduate,48799,331,174,18,81,28,6,24,3,3,7,3
+Married,71,2,Postgraduate,52157,265,189,2,29,3,2,40,2,3,5,4
+Divorced_Widowed,59,1,Bachelors,66565,1065,747,10,161,65,40,42,4,4,9,8
+Married,70,3,Postgraduate,29298,11,6,0,2,2,0,1,1,1,2,5
+Divorced_Widowed,42,1,Bachelors,47691,21,14,0,3,0,0,4,1,1,2,6
+Married,51,3,Bachelors,38200,17,12,0,4,0,0,1,1,1,2,7
+Married,47,2,Bachelors,44989,369,98,0,106,49,10,106,5,5,5,6
+Married,53,3,Postgraduate,38443,38,32,0,5,0,0,1,2,1,3,7
+Divorced_Widowed,43,1,High School,38593,177,51,12,49,17,24,24,3,4,3,8
+Married,51,2,Postgraduate,64413,279,200,5,44,0,10,20,1,5,5,5
+Married,40,2,Postgraduate,36959,62,25,6,25,6,0,0,2,2,3,8
+Married,44,2,Postgraduate,61996,1230,1050,12,144,0,0,24,3,6,8,5
+Married,53,3,Bachelors,51287,182,117,0,22,13,0,30,3,4,3,7
+Married,51,3,Bachelors,13260,49,9,4,17,10,2,7,4,3,3,8
+Married,55,3,Postgraduate,47472,75,56,0,11,0,0,8,2,2,4,5
+Married,65,3,Postgraduate,54603,227,145,13,46,17,2,4,6,4,4,7
+Married,47,3,Postgraduate,45207,215,203,0,10,0,0,2,5,3,6,6
+Married,70,2,Bachelors,40689,444,270,3,27,39,6,99,7,7,5,8
+Married,54,3,High School,47821,47,9,0,16,6,6,10,1,1,3,8
+Married,70,1,Postgraduate,27450,143,37,12,23,8,11,52,1,2,3,7
+Married,38,2,Bachelors,39453,55,46,0,7,0,0,2,2,2,3,6
+Married,50,3,High School,26850,63,31,1,13,7,2,9,4,2,4,4
+Single,66,0,Bachelors,79800,1867,1060,21,530,32,0,224,1,5,5,3
+Married,60,2,Postgraduate,61794,611,264,47,188,54,47,11,2,4,10,2
+Married,66,2,Bachelors,53863,473,399,4,30,6,4,30,3,7,7,7
+Married,62,1,Bachelors,24221,55,8,9,9,2,5,22,1,1,3,4
+Divorced_Widowed,37,1,Postgraduate,39684,81,19,0,35,6,4,17,2,2,2,7
+Married,46,1,Postgraduate,92163,2086,817,183,797,106,163,20,0,5,5,2
+Single,56,0,Postgraduate,69882,1478,292,127,635,132,127,165,1,3,9,1
+Married,44,2,Bachelors,33178,49,12,6,2,11,2,16,1,1,3,4
+Married,49,1,Postgraduate,59973,382,130,30,168,20,34,0,1,3,7,1
+Married,46,2,Postgraduate,17459,69,6,4,16,3,10,30,3,3,2,7
+Divorced_Widowed,52,1,Bachelors,23910,67,16,12,18,7,1,13,1,2,3,7
+Married,52,3,Postgraduate,42169,30,19,0,9,0,0,2,2,1,3,8
+Married,43,2,High School,26224,63,4,7,15,13,9,15,3,2,3,6
+Married,40,2,Bachelors,31089,79,31,3,31,2,8,4,3,3,4,8
+Divorced_Widowed,60,1,Bachelors,30081,42,36,0,2,0,0,4,1,1,3,7
+Married,61,2,Bachelors,62807,819,526,28,135,10,21,99,3,5,12,5
+Single,66,0,Bachelors,72906,1151,400,32,519,71,75,54,1,3,9,1
+Married,73,3,Postgraduate,61467,594,410,16,114,0,5,49,3,5,10,5
+Married,55,3,Postgraduate,49618,129,80,3,26,4,2,14,4,3,3,7
+Divorced_Widowed,35,1,Postgraduate,21888,213,88,10,46,2,3,64,4,5,2,10
+Divorced_Widowed,48,1,Bachelors,42429,67,55,0,6,2,0,4,2,1,3,5
+Divorced_Widowed,65,3,Bachelors,26150,28,5,1,13,3,5,1,1,1,3,7
+Married,46,2,High School,30801,45,8,4,5,15,2,11,2,1,3,7
+Married,56,1,Bachelors,81168,1193,410,0,592,147,22,22,1,6,7,3
+Single,52,0,Postgraduate,26877,268,101,13,76,20,18,40,2,3,6,6
+Single,77,0,Postgraduate,45006,266,162,25,53,16,0,10,1,3,7,3
+Married,48,2,High School,18978,37,2,8,1,4,7,15,1,1,3,8
+Married,54,4,Bachelors,22574,37,25,0,8,2,0,2,2,2,3,7
+Single,52,0,Postgraduate,48240,882,389,91,248,64,49,41,3,6,13,5
+Married,47,3,Bachelors,45837,373,215,13,87,17,17,24,5,6,5,7
+Divorced_Widowed,56,3,Postgraduate,35791,35,27,0,5,0,0,3,2,1,3,8
+Divorced_Widowed,43,2,Bachelors,54162,42,5,6,10,6,5,10,1,1,3,4
+Married,61,2,Postgraduate,30522,326,179,8,83,19,11,26,5,1,9,2
+Married,60,2,Postgraduate,54456,404,352,0,27,10,0,15,3,6,7,6
+Single,50,0,Bachelors,31632,95,17,8,12,11,15,32,1,2,2,7
+Single,72,0,Bachelors,72298,939,625,35,169,58,17,35,1,4,6,1
+Divorced_Widowed,43,1,High School,36975,33,10,6,11,0,4,2,1,1,3,7
+Married,66,1,High School,72635,981,390,22,323,104,35,107,1,6,6,3
+Married,45,2,Bachelors,13624,36,10,2,15,2,1,6,2,2,3,6
+Divorced_Widowed,46,1,Bachelors,84196,1237,215,63,507,231,31,190,1,8,7,3
+Married,61,2,Bachelors,70971,1825,1001,17,572,93,125,17,7,11,5,7
+Divorced_Widowed,44,2,Postgraduate,34487,103,19,18,33,24,1,8,3,3,3,9
+Divorced_Widowed,44,1,Bachelors,28769,191,41,5,129,10,3,3,3,4,4,9
+Married,51,2,Postgraduate,69084,1586,1181,107,199,39,30,30,2,7,13,8
+Married,63,1,Postgraduate,65488,963,603,45,207,36,18,54,1,3,6,1
+Married,51,2,High School,62466,889,129,129,259,168,121,83,5,6,12,4
+Single,61,0,High School,32218,93,10,24,15,13,1,30,1,2,3,7
+Single,48,0,Bachelors,83917,1587,514,22,732,42,198,79,1,6,7,3
+Divorced_Widowed,59,3,Bachelors,46102,16,14,0,1,0,0,1,1,1,2,7
+Single,69,0,Bachelors,84574,1375,387,20,713,38,54,163,1,9,11,5
+Married,59,2,Bachelors,56181,393,121,103,69,8,44,48,1,4,7,4
+Divorced_Widowed,71,1,Postgraduate,63120,1477,965,69,279,54,41,69,5,8,9,7
+Married,50,2,Bachelors,73691,1179,707,21,250,85,43,73,2,6,8,2
+Married,61,2,Bachelors,63381,1005,571,50,142,33,50,159,4,4,13,2
+Married,73,1,Postgraduate,76140,1348,586,66,653,17,0,26,1,5,6,2
+Divorced_Widowed,62,1,Postgraduate,62859,1307,1063,89,102,16,12,25,4,9,6,6
+Divorced_Widowed,57,1,Bachelors,45906,486,305,3,27,4,3,144,2,5,4,5
+Married,74,1,Postgraduate,77632,2252,1200,105,758,0,42,147,1,4,6,2
+Married,50,3,Postgraduate,46463,235,163,2,40,8,11,11,7,3,6,6
+Married,51,1,Bachelors,105471,1724,1009,181,104,202,21,207,0,9,13,3
+Divorced_Widowed,51,1,Postgraduate,55282,235,125,6,73,8,4,19,1,3,6,4
+Married,44,2,Postgraduate,78710,1092,721,0,152,119,50,50,3,7,12,4
+Married,63,2,Bachelors,66886,599,315,4,62,41,31,146,2,7,7,5
+Single,61,0,Postgraduate,98777,2008,1000,19,711,125,115,38,0,4,9,1
+Married,36,2,Bachelors,29103,48,16,0,17,6,3,6,2,1,3,9
+Married,47,2,Bachelors,67445,1174,757,80,217,29,80,11,5,9,12,6
+Married,71,2,Postgraduate,50616,67,30,2,25,0,1,9,1,1,4,2
+Divorced_Widowed,66,1,Bachelors,49431,365,219,3,100,26,0,17,2,7,5,8
+Married,68,2,Bachelors,61278,165,111,3,28,2,6,15,2,3,4,6
+Married,63,1,High School,26490,210,45,47,52,21,20,25,2,3,5,6
+Married,74,2,Postgraduate,73059,1095,410,112,420,0,82,71,1,9,13,4
+Divorced_Widowed,55,3,Postgraduate,46734,223,100,1,39,6,1,76,4,3,3,6
+Married,58,2,Bachelors,56253,597,509,0,65,7,11,5,4,7,9,6
+Married,36,2,Bachelors,19986,22,3,6,5,0,2,6,1,0,3,7
+Divorced_Widowed,46,1,Bachelors,58330,1064,445,53,213,104,98,151,1,6,13,4
+Married,41,1,High School,25965,74,2,2,11,41,7,11,1,2,3,8
+Married,65,1,Postgraduate,14661,26,4,1,11,6,2,2,1,1,3,6
+Married,62,1,Bachelors,18690,60,6,1,7,23,4,19,1,1,2,8
+Married,47,2,Postgraduate,45068,20,14,0,3,0,0,3,1,1,2,7
+Divorced_Widowed,34,1,High School,21063,59,1,10,11,19,3,15,2,2,3,6
+Married,53,2,Postgraduate,29187,34,26,0,6,0,0,2,1,1,3,8
+Married,50,3,High School,54690,198,111,16,37,7,9,18,3,3,5,3
+Married,57,2,Postgraduate,59304,1048,418,61,428,80,51,10,3,7,10,5
+Divorced_Widowed,59,2,Postgraduate,59247,574,327,9,122,19,14,83,5,5,9,6
+Divorced_Widowed,51,1,Bachelors,66731,1029,371,159,194,58,106,141,4,4,6,3
+Married,41,2,Bachelors,77353,670,275,59,107,69,101,59,2,6,8,4
+Divorced_Widowed,46,1,Postgraduate,52614,990,789,0,142,12,9,38,2,2,8,8
+Married,47,3,Bachelors,26751,11,1,1,5,0,3,1,1,1,2,8
+Married,58,2,Postgraduate,81300,1241,1004,12,145,32,12,36,3,10,5,5
+Single,42,0,Bachelors,70337,576,187,81,149,25,43,91,1,2,12,1
+Married,36,2,High School,36145,172,56,4,76,17,1,18,4,4,3,9
+Single,41,0,Postgraduate,65295,664,365,32,117,34,110,6,1,3,13,2
+Divorced_Widowed,58,1,Bachelors,68118,928,595,23,123,10,23,154,2,8,4,6
+Single,54,0,Bachelors,68743,2074,1132,134,384,175,134,115,1,11,13,7
+Married,39,1,High School,41039,467,34,11,137,179,61,45,1,8,5,8
+Married,66,2,Bachelors,38946,257,116,6,82,6,6,41,2,3,6,5
+Married,54,1,Bachelors,65777,1146,565,32,435,28,32,54,1,2,6,1
+Divorced_Widowed,45,1,Postgraduate,66476,689,372,18,126,47,48,78,2,5,11,4
+Single,49,0,Postgraduate,86857,2114,899,102,838,133,102,40,1,5,10,2
+Married,32,1,Postgraduate,77845,1346,760,40,480,0,40,26,1,3,12,1
+Married,52,1,Postgraduate,69476,1044,260,86,559,63,9,67,1,4,4,2
+Divorced_Widowed,61,1,Postgraduate,50611,493,459,0,24,6,0,4,6,4,7,6
+Single,51,0,Bachelors,61209,957,466,0,224,119,49,99,1,5,4,2
+Married,63,2,Postgraduate,42315,270,67,15,80,17,11,80,3,1,4,3
+Married,69,1,High School,13084,29,2,0,7,3,7,10,1,1,3,6
+Divorced_Widowed,72,2,Postgraduate,47570,121,67,1,20,0,2,31,3,2,2,7
+Married,60,3,Postgraduate,61923,126,92,4,18,3,3,6,1,2,4,3
+Single,26,0,Bachelors,34824,23,4,2,11,2,0,4,1,1,2,6
+Divorced_Widowed,72,2,Postgraduate,26518,57,20,1,28,3,3,2,3,2,3,8
+Single,60,0,Bachelors,45938,636,273,11,178,62,83,29,2,8,6,6
+Married,61,1,Bachelors,78468,1004,434,22,388,104,22,34,1,10,10,4
+Divorced_Widowed,48,1,Bachelors,78901,734,321,11,309,33,26,34,3,9,5,4
+Married,43,3,Bachelors,71427,614,212,123,177,15,64,23,2,8,8,4
+Divorced_Widowed,43,1,Bachelors,71022,1453,909,12,278,0,12,242,3,5,11,8
+Single,33,0,Postgraduate,90247,1621,1184,32,352,21,16,16,1,3,7,1
+Divorced_Widowed,53,1,Postgraduate,41335,187,112,19,21,16,14,5,3,4,4,7
+Married,35,2,Bachelors,71952,1443,656,80,455,52,107,93,2,8,8,4
+Divorced_Widowed,51,1,Postgraduate,35682,57,23,0,8,6,2,18,1,1,3,2
+Divorced_Widowed,70,1,Bachelors,43185,637,537,6,42,16,6,30,2,9,6,8
+Married,73,2,Postgraduate,66375,948,712,0,45,0,0,191,3,2,5,7
+Married,50,2,Postgraduate,35178,59,23,1,13,2,2,18,1,1,2,7
+Married,35,2,Bachelors,25252,18,1,3,4,2,2,6,1,1,2,8
+Divorced_Widowed,56,1,Postgraduate,55250,903,664,58,83,32,0,66,4,7,10,5
+Divorced_Widowed,46,1,Bachelors,33249,112,6,10,21,19,14,42,2,2,3,6
+Married,68,1,Bachelors,58398,596,299,5,201,21,21,49,3,5,8,4
+Married,39,2,Bachelors,50272,233,99,13,66,43,8,4,3,4,5,7
+Married,46,1,Postgraduate,76618,1511,749,40,294,121,160,147,1,3,5,1
+Single,61,0,High School,87305,1152,345,25,501,63,138,80,1,5,8,2
+Married,43,2,Bachelors,25851,48,9,4,18,7,5,5,2,2,3,7
+Divorced_Widowed,51,1,Bachelors,58710,1185,440,81,368,0,122,174,6,11,9,6
+Divorced_Widowed,63,2,Bachelors,45160,21,8,2,5,3,0,3,1,1,2,7
+Married,56,2,Postgraduate,74806,965,670,9,249,0,28,9,2,5,5,4
+Married,67,1,Bachelors,59111,869,524,0,134,28,28,155,1,11,8,7
+Married,37,2,Postgraduate,18988,16,6,0,6,2,1,1,2,1,3,7
+Married,56,1,Bachelors,72190,1947,597,166,597,172,166,249,1,5,4,3
+Married,45,2,Bachelors,7500,71,7,0,12,13,7,32,5,4,2,9
+Married,55,2,Bachelors,44794,65,54,0,7,0,0,4,1,2,3,6
+Married,66,1,Bachelors,80395,1380,445,25,706,80,76,48,1,6,12,2
+Single,45,0,Postgraduate,75012,1027,294,142,218,164,58,151,1,3,11,1
+Married,56,4,Postgraduate,56962,411,292,3,77,10,3,26,7,6,5,7
+Married,30,1,Bachelors,89891,836,412,22,132,59,28,183,1,11,8,4
+Divorced_Widowed,72,2,Postgraduate,35946,11,8,0,3,0,0,0,1,0,3,5
+Married,68,3,Postgraduate,53593,480,349,4,78,6,0,43,8,7,6,8
+Married,43,3,Bachelors,66373,606,328,9,124,12,24,109,7,4,10,3
+Divorced_Widowed,73,3,Postgraduate,45072,284,144,2,99,7,2,30,5,6,4,8
+Divorced_Widowed,48,2,Bachelors,89694,1472,1126,28,211,37,28,42,3,4,4,5
+Married,72,1,Bachelors,72025,1677,967,0,617,43,50,0,1,4,13,2
+Married,48,2,Bachelors,67432,1335,432,79,341,177,136,170,2,8,4,4
+Married,69,2,Postgraduate,70545,334,138,39,63,55,18,21,1,4,7,2
+Married,32,2,High School,17487,18,0,0,1,7,4,6,1,1,2,7
+Married,52,2,Bachelors,62882,1338,509,133,497,78,24,97,2,7,6,4
+Divorced_Widowed,68,1,Postgraduate,64108,1099,948,10,86,13,21,21,4,6,11,5
+Married,65,3,Postgraduate,34941,97,39,2,25,4,3,24,2,3,3,8
+Divorced_Widowed,71,3,Postgraduate,48767,63,28,1,21,3,0,10,3,2,3,5
+Married,43,2,High School,38702,109,13,11,24,13,8,40,2,3,4,6
+Married,57,1,Bachelors,82224,902,307,26,360,138,31,40,1,6,5,3
+Married,69,1,Bachelors,83844,1574,901,31,345,75,31,191,1,4,11,1
+Married,46,2,High School,17003,38,2,5,12,4,8,7,3,2,4,5
+Single,26,0,Bachelors,71163,960,283,17,372,138,106,44,1,3,12,1
+Divorced_Widowed,51,1,Bachelors,33697,28,4,3,7,0,3,11,1,1,2,7
+Married,67,1,High School,63564,1215,769,80,252,15,34,65,1,10,7,6
+Married,49,1,Postgraduate,83443,1497,518,42,742,55,56,84,1,6,5,2
+Married,63,2,Postgraduate,51518,449,350,8,66,17,4,4,2,3,10,3
+Divorced_Widowed,46,1,Bachelors,58330,1064,445,53,213,104,98,151,1,6,13,4
+Married,52,1,Bachelors,80952,1757,778,178,689,41,27,44,1,8,11,8
+Married,42,1,Bachelors,75507,1440,709,93,374,104,80,80,1,8,6,3
+Married,43,1,High School,63855,1006,359,35,314,93,116,89,1,7,13,4
+Married,49,2,Postgraduate,62220,1226,799,12,375,16,12,12,5,7,5,6
+Married,57,2,Bachelors,58512,1171,895,10,101,13,0,152,5,3,8,8
+Married,42,2,Postgraduate,40662,92,40,2,23,0,4,23,2,2,3,4
+Married,62,2,Postgraduate,38829,99,76,0,7,0,0,16,1,3,2,5
+Married,40,2,High School,35523,66,11,5,22,12,5,11,2,3,3,7
+Divorced_Widowed,54,2,Bachelors,79146,564,245,16,223,21,43,16,2,8,8,6
+Married,33,1,Postgraduate,78285,1427,647,107,391,175,67,40,1,6,10,3
+Divorced_Widowed,43,1,Postgraduate,31626,86,39,1,9,2,1,34,1,2,2,7
+Single,69,0,Bachelors,75127,833,203,35,305,46,17,227,1,2,5,1
+Married,66,2,Bachelors,48726,242,138,3,38,4,0,59,3,3,4,6
+Married,44,1,Bachelors,74985,1869,587,51,898,247,0,86,1,3,7,2
+Married,34,1,Bachelors,67430,1364,595,97,291,127,133,121,1,11,12,6
+Married,56,2,High School,46891,183,43,12,23,29,15,61,1,2,4,4
+Married,65,2,Postgraduate,62058,450,301,7,74,10,0,58,4,6,7,6
+Married,42,2,Bachelors,72063,758,180,32,348,76,32,90,2,5,12,2
+Married,70,1,Postgraduate,78939,1507,794,115,243,150,0,205,1,8,6,3
+Divorced_Widowed,56,2,Bachelors,42720,654,392,5,91,28,26,112,8,7,7,8
+Married,49,3,Bachelors,33622,81,39,1,22,3,4,12,3,2,4,7
+Married,64,2,Postgraduate,6835,137,107,2,12,2,2,12,0,0,1,20
+Married,68,3,Bachelors,41452,16,13,0,3,0,0,0,1,1,2,7
+Divorced_Widowed,56,1,Postgraduate,40760,93,70,0,17,0,0,6,2,2,3,6
+Married,63,1,Postgraduate,74250,1158,680,11,392,75,0,0,1,2,4,1
+Divorced_Widowed,66,2,Postgraduate,51124,43,26,1,11,0,1,4,2,1,3,3
+Divorced_Widowed,50,1,Bachelors,72258,1525,522,0,522,227,120,134,2,6,5,2
+Single,47,0,Postgraduate,71466,1230,412,12,546,78,182,0,1,4,10,1
+Married,45,3,Bachelors,36283,29,6,5,5,8,0,5,2,1,3,4
+Divorced_Widowed,51,1,Bachelors,20587,25,2,3,6,4,1,9,1,1,2,7
+Married,49,2,Bachelors,30467,24,1,3,8,2,5,5,1,1,2,7
+Married,49,2,Bachelors,31590,38,6,2,15,6,6,3,1,1,3,8
+Married,35,2,High School,20425,57,4,12,5,3,16,17,2,2,3,7
+Married,61,3,Postgraduate,17144,47,18,2,19,0,2,6,5,3,4,7
+Divorced_Widowed,53,1,Postgraduate,42564,813,324,48,186,39,18,198,6,6,4,7
+Married,43,2,Postgraduate,43783,629,327,9,125,25,4,139,6,7,8,7
+Divorced_Widowed,45,1,Bachelors,40780,377,229,27,71,13,3,34,4,7,5,9
+Married,76,1,Postgraduate,62847,1612,521,168,706,80,76,61,1,3,4,2
+Married,64,1,Postgraduate,82017,729,184,23,446,30,23,23,1,5,7,2
+Single,71,0,Bachelors,16813,50,4,8,11,12,2,13,1,2,3,7
+Married,43,3,Bachelors,51267,270,183,2,64,7,2,12,4,3,5,4
+Divorced_Widowed,60,1,Bachelors,46524,177,31,19,35,26,14,52,2,1,5,3
+Single,59,0,Postgraduate,45183,315,219,3,60,12,9,12,1,4,7,7
+Married,67,2,Postgraduate,70421,767,479,28,136,75,14,35,3,10,7,6
+Divorced_Widowed,56,1,High School,60161,1071,584,44,212,46,8,177,3,11,8,8
+Married,48,1,Bachelors,73926,1580,627,91,597,159,91,15,1,6,12,3
+Married,53,2,Bachelors,19329,60,24,1,16,12,2,5,3,4,3,8
+Married,51,2,Postgraduate,61872,573,330,5,159,36,27,16,4,4,9,4
+Divorced_Widowed,65,2,Bachelors,46984,41,19,1,10,2,1,8,1,1,3,5
+Married,70,3,Bachelors,34838,170,28,23,29,29,14,47,3,2,4,6
+Single,77,0,Postgraduate,82716,1167,606,148,228,15,148,22,1,6,13,2
+Married,63,1,Bachelors,48192,1526,1039,43,204,153,58,29,3,2,12,8
+Married,45,3,Postgraduate,49681,458,411,0,26,0,0,21,6,7,7,7
+Married,50,2,Postgraduate,56850,63,34,1,19,2,7,0,1,1,3,2
+Married,64,2,Bachelors,55267,405,161,28,136,32,3,45,4,3,6,3
+Married,49,3,Bachelors,59666,1027,623,53,178,23,17,133,7,3,8,8
+Divorced_Widowed,49,1,Bachelors,72504,1478,604,26,470,123,161,94,2,5,6,2
+Married,40,1,Bachelors,26872,72,3,10,8,3,16,32,1,1,2,6
+Divorced_Widowed,49,1,Bachelors,21359,48,12,2,17,6,1,10,2,2,3,8
+Single,46,0,Bachelors,73170,726,184,174,256,50,30,32,1,5,6,2
+Married,66,2,Postgraduate,52750,860,393,0,239,90,69,69,6,5,9,4
+Married,35,1,Postgraduate,91820,1497,410,73,747,76,161,30,0,5,12,1
+Married,51,2,Postgraduate,65968,495,376,9,83,19,4,4,2,5,7,3
+Married,45,3,Bachelors,30772,20,7,2,4,2,1,4,1,1,2,6
+Single,67,0,Bachelors,22507,570,68,0,226,51,157,68,3,10,4,9
+Married,49,2,Bachelors,65685,769,642,14,49,0,7,57,1,9,9,5
+Married,43,2,High School,25804,55,8,7,9,13,6,12,2,2,3,8
+Single,41,0,Postgraduate,76412,1808,840,53,804,23,71,17,1,5,8,3
+Married,49,2,Bachelors,22063,55,7,10,13,3,11,11,2,2,3,7
+Single,60,0,Bachelors,57091,577,464,5,64,7,0,37,1,7,7,5
+Married,58,1,Bachelors,22419,162,30,3,47,19,21,42,1,3,2,8
+Married,62,2,Bachelors,87771,1957,1492,38,287,50,57,33,1,5,4,6
+Divorced_Widowed,62,1,High School,78353,1576,752,122,476,39,153,34,1,10,11,8
+Married,67,4,Bachelors,93404,1616,1279,15,287,20,0,15,3,3,7,5
+Divorced_Widowed,59,3,Bachelors,37859,36,22,1,8,2,1,2,2,1,3,8
+Divorced_Widowed,63,1,Postgraduate,80995,1482,860,28,409,73,56,56,1,8,4,4
+Married,37,2,Bachelors,16529,22,3,0,5,13,0,1,1,1,3,6
+Divorced_Widowed,45,2,Postgraduate,55412,63,10,5,28,11,1,8,1,2,3,5
+Single,29,0,Bachelors,48789,680,351,16,156,7,5,145,1,6,7,6
+Married,54,3,Postgraduate,56575,542,421,5,90,0,16,10,3,7,7,5
+Married,41,2,High School,25130,50,2,5,7,0,18,18,2,2,3,7
+Married,54,3,Bachelors,35441,39,25,1,9,2,1,1,2,1,3,8
+Married,65,2,Bachelors,71391,1043,336,123,274,46,123,141,5,6,12,3
+Divorced_Widowed,49,1,Postgraduate,49494,385,191,9,97,0,6,82,2,6,5,7
+Single,41,0,Bachelors,81702,1633,563,50,774,28,31,187,1,7,12,3
+Divorced_Widowed,41,1,High School,45889,46,31,0,6,0,1,8,1,1,3,6
+Divorced_Widowed,44,1,Bachelors,56628,761,479,5,82,7,17,171,2,7,5,5
+Married,71,3,Bachelors,34026,76,18,6,15,12,8,17,3,2,3,5
+Married,47,2,Bachelors,40049,290,91,65,52,10,44,28,3,3,6,5
+Divorced_Widowed,33,1,Bachelors,34176,89,5,7,24,19,14,20,4,3,4,6
+Married,40,2,Bachelors,19419,70,2,14,28,16,3,7,4,4,3,9
+Married,61,1,High School,82504,1066,362,50,431,134,35,54,1,3,7,1
+Married,51,1,Bachelors,81205,2009,724,74,929,97,55,130,1,5,7,2
+Single,30,0,High School,61618,1345,605,91,399,0,45,205,2,3,8,3
+Divorced_Widowed,65,1,Postgraduate,55284,764,547,7,140,0,7,63,3,7,8,5
+Divorced_Widowed,58,1,Bachelors,49980,195,104,1,54,13,9,14,2,3,5,5
+Married,41,3,Bachelors,15072,53,8,2,15,0,10,18,4,3,3,5
+Divorced_Widowed,47,1,Bachelors,49166,368,224,2,25,7,0,110,2,5,3,6
+Married,67,2,Postgraduate,65324,544,384,0,102,21,32,5,3,6,9,4
+Married,64,1,High School,82347,1853,556,54,845,202,133,63,1,7,10,3
+Married,55,3,Postgraduate,30843,35,24,0,2,0,0,9,2,1,2,5
+Married,47,2,Postgraduate,46374,446,408,0,21,0,0,17,3,7,7,8
+Divorced_Widowed,42,1,Bachelors,60474,1180,265,199,303,234,9,170,7,10,12,7
+Married,48,2,Postgraduate,38576,41,34,0,7,0,0,0,1,1,3,7
+Married,36,3,Bachelors,55357,727,374,64,116,84,25,64,3,6,11,5
+Married,55,3,Bachelors,37758,40,27,2,10,0,0,1,2,1,3,8
+Married,32,1,High School,85710,1062,600,20,350,29,30,33,1,6,10,2
+Married,52,2,Bachelors,23228,40,13,2,18,6,1,0,2,2,3,8
+Married,52,3,Postgraduate,44602,292,167,2,89,0,0,34,6,6,4,8
+Married,34,1,Bachelors,7500,15,0,2,3,4,1,5,1,0,3,6
+Married,32,2,High School,38683,341,46,35,69,84,41,66,6,4,6,7
+Divorced_Widowed,46,1,High School,49514,369,88,39,78,58,13,93,2,6,4,7
+Married,48,2,Postgraduate,57906,401,243,11,119,10,3,15,3,4,8,4
+Divorced_Widowed,55,1,Postgraduate,43456,393,275,11,68,25,7,7,3,5,8,5
+Divorced_Widowed,35,2,Postgraduate,19485,10,6,0,4,0,0,0,1,1,2,7
+Married,43,2,Bachelors,53172,486,121,62,90,68,20,125,3,2,8,3
+Married,42,2,Bachelors,30545,69,4,12,15,19,7,12,2,2,3,7
+Married,38,1,Postgraduate,70123,1727,1308,0,396,23,0,0,1,5,4,3
+Divorced_Widowed,62,1,Bachelors,62450,995,515,47,267,62,66,38,2,5,4,3
+Married,45,2,Bachelors,21675,45,4,0,16,17,4,4,3,4,3,7
+Divorced_Widowed,40,2,High School,42395,182,48,13,57,24,15,25,4,3,4,7
+Married,43,2,Postgraduate,61346,989,562,58,168,43,16,142,1,5,10,3
+Married,68,1,Bachelors,80812,1677,769,22,500,210,143,33,1,4,5,2
+Divorced_Widowed,50,2,Postgraduate,42835,595,379,4,93,12,9,98,7,6,4,6
+Married,38,2,Bachelors,39922,156,29,12,59,19,1,36,2,3,4,8
+Single,65,0,Postgraduate,86424,1226,387,68,569,89,45,68,1,6,12,1
+Married,43,2,High School,17117,128,12,23,38,30,18,7,4,3,3,9
+Divorced_Widowed,49,1,Bachelors,24762,86,6,10,12,3,15,40,3,3,2,8
+Married,46,2,Bachelors,35797,68,27,1,14,4,1,21,2,2,3,8
+Divorced_Widowed,46,2,Bachelors,36627,16,9,1,5,0,0,1,1,0,3,5
+Married,40,3,High School,51111,55,22,0,19,6,5,3,2,2,3,6
+Single,49,0,Postgraduate,86857,2114,899,102,838,133,102,40,1,5,10,2
+Married,51,1,Postgraduate,82072,2018,889,55,685,168,92,129,1,3,13,1
+Divorced_Widowed,68,3,Postgraduate,46231,263,189,2,55,0,5,12,4,6,4,9
+Married,62,3,Bachelors,42243,55,48,0,2,0,0,5,2,2,3,7
+Married,59,3,Bachelors,51195,564,230,14,156,82,24,58,8,9,5,8
+Single,43,0,Postgraduate,68092,1281,852,60,207,78,36,48,2,2,10,5
+Married,48,2,Bachelors,31814,83,35,3,20,4,1,20,2,2,3,9
+Divorced_Widowed,56,2,Postgraduate,51390,353,205,20,47,23,2,56,6,5,5,5
+Married,38,1,Bachelors,76630,1003,255,31,446,40,56,175,1,3,11,1
+Divorced_Widowed,30,1,High School,26868,14,0,0,1,8,3,2,1,1,2,7
+Single,78,0,Postgraduate,48948,902,437,8,206,160,49,42,2,7,5,6
+Divorced_Widowed,49,1,Postgraduate,55260,1139,825,8,53,11,0,242,2,8,5,6
+Married,65,2,Bachelors,64090,797,316,58,161,76,51,135,1,6,4,5
+Divorced_Widowed,63,1,Bachelors,78331,1638,756,138,354,160,169,61,2,10,7,4
+Married,47,2,Postgraduate,37087,401,194,55,134,15,0,3,3,4,8,6
+Divorced_Widowed,35,1,Bachelors,21846,84,7,17,18,6,10,26,4,4,3,8
+Married,63,1,Bachelors,81320,928,183,33,493,59,103,57,1,4,10,2
+Divorced_Widowed,51,1,Bachelors,54137,203,171,0,11,0,1,20,2,4,4,6
+Married,54,1,Bachelors,66825,858,243,101,405,29,40,40,1,4,6,2
+Married,48,1,Bachelors,57100,409,181,21,69,39,3,96,1,3,6,3
+Married,52,4,Bachelors,58917,282,151,7,89,0,7,28,5,4,6,5
+Single,44,0,Bachelors,85072,1423,494,92,391,194,11,241,1,3,10,0
+Single,60,0,Bachelors,86429,1449,464,28,873,29,18,37,0,7,7,2
+Divorced_Widowed,50,1,Bachelors,45684,28,5,1,5,10,0,7,1,1,2,7
+Married,47,2,Bachelors,47889,67,29,0,29,0,5,4,1,2,3,5
+Married,35,1,Postgraduate,45921,199,102,9,49,24,3,12,1,2,6,4
+Single,55,0,Postgraduate,78420,1453,604,28,674,91,28,28,1,3,8,1
+Married,29,1,Bachelors,75114,1253,571,12,523,63,60,24,1,3,5,2
+Divorced_Widowed,58,1,Postgraduate,52278,1198,953,0,71,0,0,174,6,10,10,8
+Married,49,2,Postgraduate,35641,178,63,3,67,8,9,28,2,3,4,7
+Single,27,0,Bachelors,95529,1990,770,29,890,250,27,24,1,7,7,3
+Married,67,1,Bachelors,62820,976,398,61,265,138,61,53,1,3,6,1
+Married,61,1,Postgraduate,73113,1001,741,19,154,50,9,28,1,3,7,2
+Married,39,1,Postgraduate,84169,1919,1478,19,403,0,19,0,1,7,6,3
+Divorced_Widowed,67,1,High School,42607,350,156,29,56,30,32,47,2,3,7,3
+Single,67,0,Postgraduate,74637,1650,960,64,464,146,0,16,1,6,9,3
+Married,66,3,Postgraduate,46015,46,38,0,2,0,0,6,1,1,3,7
+Single,28,0,Bachelors,72354,1228,315,26,473,220,12,182,1,2,6,1
+Divorced_Widowed,52,1,Postgraduate,39858,95,15,20,25,2,7,26,1,2,4,6
+Married,73,3,Postgraduate,34469,62,19,6,20,0,5,12,3,1,4,4
+Married,35,2,Bachelors,83033,1761,812,99,431,237,149,33,1,11,10,5
+Married,42,1,Postgraduate,24401,467,73,28,217,10,24,115,3,6,6,8
+Married,43,1,Bachelors,77583,1149,372,23,384,250,12,108,1,4,9,2
+Single,39,0,High School,74116,2052,871,111,704,145,55,166,1,4,10,2
+Single,28,0,Bachelors,74293,1127,375,152,335,93,91,81,1,5,6,2
+Married,45,2,Postgraduate,68397,1416,760,80,466,17,13,80,1,6,5,3
+Married,47,1,Postgraduate,79632,1113,471,0,510,99,21,12,1,6,9,2
+Divorced_Widowed,32,1,Bachelors,46107,125,31,9,27,16,9,33,1,1,4,3
+Divorced_Widowed,70,1,Postgraduate,64950,966,819,0,72,12,0,63,2,11,10,7
+Married,32,2,High School,25443,32,1,4,3,8,9,7,1,1,3,8
+Single,69,0,Bachelors,75127,833,203,35,305,46,17,227,1,2,5,1
+Married,50,2,Postgraduate,32892,46,26,0,15,2,1,2,2,3,3,8
+Married,50,1,Bachelors,71796,960,354,21,311,167,75,32,1,9,4,4
+Married,51,2,Postgraduate,67536,1829,1253,0,447,23,71,35,3,11,11,8
+Divorced_Widowed,50,1,Bachelors,55239,779,371,17,238,23,24,106,3,7,11,5
+Divorced_Widowed,46,1,Postgraduate,60554,811,588,7,76,110,15,15,2,8,9,6
+Divorced_Widowed,69,2,High School,64831,1120,480,86,249,75,86,144,8,6,5,6
+Married,59,2,Postgraduate,56067,725,517,12,54,16,6,120,2,7,7,5
+Single,38,0,Bachelors,82025,1187,267,98,606,48,70,98,1,3,6,1
+Married,68,1,Bachelors,94384,2302,1111,24,790,160,45,172,0,5,5,2
+Single,35,0,High School,14906,66,7,7,14,7,16,15,3,2,3,7
+Married,34,1,Postgraduate,51563,1250,1166,0,48,0,0,36,1,4,10,8
+Married,39,2,High School,57937,683,261,42,144,55,48,133,3,4,9,3
+Divorced_Widowed,42,2,Bachelors,68274,305,135,25,51,23,25,46,2,4,5,3
+Married,44,2,Bachelors,39771,50,6,2,18,2,8,14,1,2,3,4
+Divorced_Widowed,46,1,High School,67893,995,711,28,142,49,18,47,2,3,9,8
+Married,42,2,Postgraduate,27922,41,11,0,13,2,4,11,1,2,3,4
+Married,45,3,Postgraduate,52190,77,42,0,17,0,0,18,3,2,3,5
+Divorced_Widowed,48,2,Postgraduate,44051,171,79,7,58,6,3,18,4,3,4,6
+Divorced_Widowed,50,2,Postgraduate,42767,131,20,6,43,19,5,38,1,3,2,8
+Married,45,3,Postgraduate,46106,54,30,0,8,2,0,14,1,1,2,6
+Married,45,3,Postgraduate,16927,53,20,2,23,3,1,4,5,3,4,8
+Married,56,2,Bachelors,59754,475,115,27,44,4,146,139,3,5,6,5
+Divorced_Widowed,69,1,Bachelors,53700,694,263,5,233,69,41,83,4,5,8,5
+Married,48,3,Bachelors,59041,96,69,2,15,2,2,6,2,2,4,5
+Divorced_Widowed,64,1,Postgraduate,54237,361,267,3,30,4,0,57,4,5,5,6
+Divorced_Widowed,54,1,Bachelors,70647,1079,561,85,171,25,123,114,2,4,13,2
+Divorced_Widowed,59,1,Postgraduate,52597,578,492,0,37,7,0,42,3,6,8,5
+Married,52,2,Postgraduate,41021,64,14,7,9,6,16,12,2,2,3,6
+Married,46,2,Postgraduate,40233,149,80,4,46,0,17,2,5,2,5,6
+Married,41,3,Bachelors,50183,231,97,12,84,13,10,15,7,3,6,5
+Married,62,2,Bachelors,54753,728,197,107,227,7,59,131,3,5,11,4
+Married,48,1,Bachelors,92955,1778,693,21,925,31,24,84,1,6,9,2
+Married,48,2,Bachelors,33471,93,43,2,27,0,9,12,3,3,4,7
+Married,47,2,Postgraduate,34596,23,14,0,2,0,0,7,1,1,2,8
+Married,41,2,Bachelors,44010,662,186,36,234,86,72,48,6,10,6,9
+Married,33,1,Bachelors,84219,1198,434,137,400,45,137,45,1,3,10,1
+Married,53,4,Postgraduate,40706,81,59,0,11,4,2,5,4,3,4,7
+Married,33,2,High School,15716,92,16,5,30,8,7,26,3,3,4,8
+Divorced_Widowed,62,1,High School,59052,491,230,35,75,63,57,31,3,7,7,5
+Married,50,1,Postgraduate,80573,1564,829,138,430,60,92,15,1,4,13,2
+Married,59,1,Bachelors,83715,926,318,8,407,150,35,8,1,2,13,0
+Married,62,1,Postgraduate,82576,1910,1206,55,445,168,18,18,1,2,12,1
+Married,56,4,Postgraduate,56962,411,292,3,77,10,3,26,7,6,5,7
+Married,69,3,Bachelors,35704,94,30,9,12,2,11,30,3,2,4,4
+Married,67,2,Bachelors,53103,1085,729,17,133,11,0,195,5,10,7,7
+Divorced_Widowed,61,2,High School,46779,23,12,1,3,0,0,7,1,0,2,4
+Single,56,0,Bachelors,4861,6,2,1,1,1,0,1,0,0,0,14
+Divorced_Widowed,42,1,Postgraduate,33462,54,22,3,18,0,0,11,1,2,3,7
+Divorced_Widowed,43,1,Bachelors,63693,1150,587,43,337,42,87,54,3,11,9,6
+Married,71,1,Bachelors,80763,1415,674,168,108,192,42,231,1,5,6,3
+Married,47,2,Postgraduate,65352,405,284,3,84,4,7,23,2,4,8,4
+Married,43,1,Postgraduate,82170,1908,1023,93,651,49,55,37,1,5,7,2
+Married,52,1,Bachelors,75759,2486,1394,22,708,89,91,182,1,9,9,5
+Single,45,0,High School,79689,1315,311,26,640,180,37,121,1,4,13,2
+Divorced_Widowed,65,2,Postgraduate,35340,45,27,0,12,0,1,5,2,2,3,5
+Single,67,0,Bachelors,85683,1789,1296,17,311,45,69,51,1,2,10,1
+Married,49,2,High School,24884,19,3,6,7,0,0,3,1,0,3,7
+Married,40,2,Postgraduate,42021,573,393,5,136,7,5,27,5,10,6,9
+Divorced_Widowed,32,1,Bachelors,64449,805,218,63,282,137,35,70,4,5,12,4
+Divorced_Widowed,67,2,Bachelors,64587,108,66,0,16,0,6,20,2,1,4,3
+Single,26,0,Bachelors,34824,23,4,2,11,2,0,4,1,1,2,6
+Married,43,1,Bachelors,75437,1493,795,0,545,95,58,0,1,8,10,6
+Married,64,3,Bachelors,26091,89,15,10,19,8,17,20,3,2,3,5
+Married,48,2,Bachelors,52845,936,384,25,292,130,41,64,3,8,6,6
+Divorced_Widowed,65,1,Bachelors,46086,343,244,8,32,7,2,50,4,3,8,4
+Divorced_Widowed,65,1,Postgraduate,78028,528,158,19,288,25,0,38,1,6,9,7
+Single,34,0,Postgraduate,95169,1901,1285,21,449,106,20,20,1,4,4,1
+Married,40,3,High School,56337,724,349,16,144,28,5,182,5,8,4,8
+Married,34,2,Bachelors,22434,58,4,12,11,3,13,15,2,2,3,8
+Married,67,2,Postgraduate,36930,297,223,2,31,0,2,39,5,5,4,8
+Divorced_Widowed,67,1,Bachelors,36130,488,157,43,127,68,56,37,6,3,4,4
+Married,68,2,Postgraduate,65569,859,397,46,288,20,38,70,2,6,10,3
+Married,69,1,Bachelors,83844,1574,901,31,345,75,31,191,1,4,11,1
+Married,53,3,Bachelors,19514,69,14,3,21,2,1,28,4,3,2,8
+Divorced_Widowed,58,2,Postgraduate,36736,17,10,0,3,0,0,4,1,1,2,6
+Married,42,2,Bachelors,77568,2194,1230,0,396,232,178,158,1,10,8,5
+Married,45,2,Postgraduate,49187,116,81,1,31,2,1,0,1,1,5,2
+Divorced_Widowed,43,1,Bachelors,30168,279,154,20,66,0,12,27,7,6,4,9
+Married,53,2,Postgraduate,34053,103,63,0,21,7,0,12,1,3,3,8
+Married,50,3,Postgraduate,38196,44,30,0,11,0,0,3,3,2,4,5
+Married,70,1,Postgraduate,59412,406,90,67,165,30,43,11,1,4,8,3
+Married,56,1,High School,70924,1363,635,114,254,132,152,76,1,6,7,3
+Married,52,1,Bachelors,54165,236,127,4,73,15,6,11,1,2,7,2
+Married,48,2,Bachelors,32300,39,13,3,6,6,5,6,1,1,3,8
+Single,45,0,Bachelors,20180,137,18,42,24,15,20,18,1,2,4,7
+Married,48,2,Bachelors,34961,79,45,2,26,4,1,1,3,3,3,7
+Married,47,2,Postgraduate,28440,63,38,1,24,0,0,0,1,2,3,8
+Married,68,4,Postgraduate,64504,1314,986,36,168,16,0,108,7,11,4,7
+Married,55,2,Postgraduate,33564,71,61,0,3,0,0,7,1,1,3,5
+Married,43,2,Bachelors,17345,58,4,9,16,17,0,12,2,2,2,8
+Married,54,2,Postgraduate,56320,702,201,53,172,116,77,83,3,5,9,4
+Divorced_Widowed,43,1,Bachelors,28647,94,19,8,29,0,12,26,1,2,2,7
+Divorced_Widowed,34,1,High School,15038,80,4,8,11,19,12,26,2,2,2,9
+Divorced_Widowed,63,1,Postgraduate,32173,22,18,0,2,0,0,2,1,1,3,4
+Married,57,2,High School,68316,1211,806,80,161,120,11,33,5,10,10,6
+Married,50,1,Bachelors,74538,1461,380,98,733,110,112,28,1,8,5,3
+Single,50,0,Bachelors,91700,1968,576,172,961,125,115,19,1,8,5,3
+Married,52,1,Bachelors,68695,1091,458,81,356,106,50,40,1,4,7,2
+Married,44,2,High School,31056,55,5,10,13,3,8,16,1,1,3,8
+Married,48,1,Bachelors,79593,1366,350,60,568,110,133,145,1,5,7,2
+Single,41,0,Bachelors,28071,313,39,33,130,41,26,44,2,5,5,8
+Married,63,3,Postgraduate,37334,62,26,1,16,2,2,15,4,3,4,4
+Divorced_Widowed,49,2,Postgraduate,46423,92,68,0,16,0,0,8,3,2,4,7
+Married,50,2,Postgraduate,37126,72,45,3,9,4,4,7,1,1,2,6
+Married,68,2,Bachelors,47703,655,359,0,134,13,26,123,4,6,8,5
+Married,62,2,Bachelors,61180,704,403,24,29,6,24,218,2,5,6,3
+Married,67,3,Bachelors,38998,54,34,1,14,0,0,5,3,2,3,8
+Single,30,0,Bachelors,8028,178,73,18,66,7,12,2,15,0,0,19
+Married,59,1,Bachelors,76081,1033,292,30,415,63,33,200,1,4,4,2
+Married,35,2,Bachelors,34728,36,14,0,16,0,0,6,1,1,2,6
+Divorced_Widowed,56,1,Postgraduate,33168,122,80,1,37,0,1,3,3,2,4,7
+Married,55,2,Postgraduate,33585,122,30,11,33,13,6,29,1,2,4,4
+Married,61,2,Postgraduate,77037,1123,463,96,333,168,53,10,1,7,12,3
+Married,37,2,Bachelors,35196,497,75,12,141,43,39,187,6,6,5,8
+Married,55,2,Bachelors,44529,691,538,13,91,17,6,26,6,6,11,5
+Married,56,1,High School,70924,1363,635,114,254,132,152,76,1,6,7,3
+Married,55,3,Postgraduate,28764,12,8,0,3,0,0,1,1,1,2,8
+Married,72,1,Postgraduate,69098,2440,1315,22,780,145,0,178,1,7,9,5
+Divorced_Widowed,51,2,High School,25959,56,4,2,12,7,5,26,2,1,2,6
+Married,38,2,Postgraduate,27100,37,12,0,13,2,0,10,1,1,3,7
+Single,36,0,Bachelors,70596,968,347,44,534,17,0,26,1,3,12,2
+Married,47,2,Bachelors,42557,270,192,5,53,0,5,15,4,6,4,8
+Married,70,1,Postgraduate,53312,278,241,0,12,0,0,25,1,5,5,7
+Single,69,0,Bachelors,72228,1250,631,28,491,30,14,56,1,6,8,3
+Married,34,1,Bachelors,67605,938,336,28,282,184,54,54,1,2,6,1
+Married,72,3,Postgraduate,62845,1178,1099,0,45,0,0,34,11,3,10,8
+Married,63,3,Bachelors,65196,1155,743,19,181,12,0,200,2,7,11,5
+Single,34,0,Postgraduate,42000,653,124,83,267,85,59,35,2,5,11,5
+Divorced_Widowed,48,2,Postgraduate,35860,49,15,0,8,4,2,20,2,1,2,5
+Married,57,2,Postgraduate,65526,506,397,19,69,12,0,9,1,4,8,2
+Married,60,3,Bachelors,16860,38,10,4,4,3,3,14,3,1,3,7
+Single,29,0,Bachelors,83528,1650,530,117,678,134,44,147,1,4,8,1
+Divorced_Widowed,56,1,High School,64176,1826,1215,33,249,64,116,149,8,8,8,6
+Single,65,0,Bachelors,22304,18,3,2,7,0,4,2,1,1,2,8
+Married,43,1,Bachelors,67023,906,444,44,382,11,8,17,1,3,13,2
+Married,50,2,Postgraduate,32892,46,26,0,15,2,1,2,2,3,3,8
+Married,55,2,Bachelors,70713,1477,736,114,279,82,76,190,6,5,8,3
+Married,66,2,Bachelors,59925,766,473,21,176,19,21,56,3,9,9,6
+Married,68,2,Bachelors,39722,47,32,0,5,2,0,8,2,2,3,5
+Married,63,1,Bachelors,46610,467,288,10,30,4,10,125,1,6,6,6
+Married,60,1,Bachelors,88347,2116,1050,178,555,77,138,118,1,4,9,1
+Married,40,1,Postgraduate,87171,1298,1001,44,107,58,44,44,1,6,11,2
+Married,45,3,High School,26907,22,9,1,7,0,3,2,2,1,3,7
+Divorced_Widowed,53,1,Postgraduate,50014,396,234,14,77,19,10,42,2,4,8,5
+Married,43,2,Postgraduate,41014,20,7,2,6,2,0,3,1,1,2,7
+Single,56,0,Bachelors,66294,967,251,108,334,65,92,117,1,4,5,2
+Married,50,2,Bachelors,36715,357,172,10,125,21,13,16,6,7,4,9
+Married,65,1,Bachelors,79456,1401,565,42,548,64,83,99,1,5,4,3
+Married,39,2,Bachelors,40479,15,5,0,8,2,0,0,1,0,3,4
+Single,51,0,Postgraduate,75345,2087,918,57,842,99,38,133,1,5,6,3
+Married,44,2,Bachelors,54233,981,652,8,158,21,0,142,4,11,5,8
+Divorced_Widowed,51,2,Bachelors,24163,17,4,1,7,2,1,2,2,1,3,4
+Married,63,1,Postgraduate,84460,523,152,27,103,106,54,81,0,9,4,5
+Married,38,2,Bachelors,43776,23,8,0,9,2,1,3,1,1,2,6
+Single,63,0,Postgraduate,71691,1192,336,130,411,240,32,43,1,4,5,2
+Married,48,1,Postgraduate,85844,1958,938,19,843,25,95,38,1,6,7,2
+Divorced_Widowed,47,1,Postgraduate,39190,133,68,8,18,19,8,12,2,2,4,5
+Married,62,1,Bachelors,71367,777,227,23,389,42,21,75,1,4,7,2
+Divorced_Widowed,49,2,Postgraduate,38578,73,38,4,22,3,3,3,3,3,3,8
+Married,56,3,Postgraduate,57236,121,105,0,9,2,1,4,3,2,4,3
+Divorced_Widowed,42,1,Bachelors,61825,424,162,50,100,55,30,27,1,4,8,4
+Divorced_Widowed,63,1,Bachelors,79803,868,574,8,216,21,16,33,1,4,5,1
+Single,35,0,High School,80910,756,160,80,369,67,39,41,1,3,8,1
+Married,39,2,Postgraduate,27590,12,6,0,5,0,0,1,1,1,2,7
+Married,42,2,Bachelors,56775,937,614,35,160,58,35,35,2,5,10,5
+Single,46,0,Bachelors,83829,1862,897,161,430,186,161,27,0,4,6,1
+Married,42,2,High School,54210,367,70,54,109,80,9,45,2,4,7,5
+Married,35,2,Bachelors,38508,443,120,19,206,25,19,54,6,7,5,8
+Married,51,2,Bachelors,53187,267,211,2,30,7,7,10,2,4,6,5
+Married,49,2,Bachelors,30023,61,11,0,16,7,6,21,1,2,3,8
+Single,61,0,Postgraduate,76045,1323,760,53,400,17,93,0,1,4,11,2
+Married,69,2,Postgraduate,50870,63,53,0,8,0,0,2,1,2,3,5
+Married,51,1,High School,15315,64,7,4,13,15,8,17,2,2,4,5
+Married,47,2,High School,65463,562,391,32,70,21,32,16,2,6,9,5
+Married,56,3,Bachelors,66480,312,199,9,57,20,21,6,7,4,7,4
+Single,67,0,Bachelors,76773,1156,516,56,449,86,33,16,1,2,11,1
+Single,38,0,High School,81698,1104,709,45,115,30,160,45,1,8,5,5
+Divorced_Widowed,48,2,Postgraduate,54466,16,12,0,4,0,0,0,1,1,2,5
+Single,61,0,Postgraduate,98777,2008,1000,19,711,125,115,38,0,4,9,1
+Divorced_Widowed,37,1,Postgraduate,16269,44,19,3,18,3,1,0,3,3,3,8
+Married,50,2,Bachelors,71819,1574,1224,28,140,0,14,168,3,3,5,6
+Married,38,2,Postgraduate,33569,63,16,2,18,3,0,24,1,1,2,8
+Married,38,1,Postgraduate,36262,426,88,39,54,64,28,153,1,3,3,6
+Married,55,1,High School,22634,96,2,23,11,8,6,46,1,2,2,8
+Married,43,2,High School,47025,635,508,11,59,23,5,29,5,11,6,9
+Divorced_Widowed,53,1,Bachelors,70566,757,381,28,215,84,28,21,2,6,9,3
+Married,42,2,Postgraduate,31605,125,74,0,42,2,1,6,2,2,4,7
+Divorced_Widowed,48,2,Postgraduate,52034,332,146,0,93,7,13,73,5,4,5,7
+Divorced_Widowed,42,1,Bachelors,48526,135,23,17,23,43,20,9,1,2,4,3
+Married,67,2,Bachelors,46734,330,110,5,137,26,23,29,2,6,5,7
+Divorced_Widowed,59,2,Bachelors,39552,384,165,3,147,4,24,41,7,6,5,8
+Divorced_Widowed,55,2,Bachelors,86358,1722,957,47,494,82,47,95,4,5,6,8
+Married,44,4,Bachelors,46931,78,41,0,17,3,1,16,2,1,3,3
+Single,36,0,High School,16581,24,1,3,4,2,3,11,1,0,3,4
+Single,69,0,High School,63998,1168,176,29,818,0,33,112,1,7,11,4
+Married,70,2,Postgraduate,67381,957,815,8,53,11,0,70,4,2,9,7
+Divorced_Widowed,54,2,Bachelors,25930,15,6,1,2,2,0,4,1,1,2,7
+Married,43,2,Bachelors,42693,57,8,4,20,6,3,16,1,1,3,5
+Married,45,2,Bachelors,85606,1956,717,42,864,219,30,84,2,6,9,3
+Single,36,0,Bachelors,72903,2013,1067,138,750,0,19,39,1,7,8,4
+Married,47,2,High School,49669,326,166,5,107,11,8,29,2,5,6,6
+Married,53,3,Postgraduate,36778,77,29,4,34,2,4,4,3,3,3,9
+Single,59,0,Postgraduate,85696,1313,714,76,395,116,0,12,1,4,9,1
+Single,32,0,Postgraduate,10979,30,8,4,10,2,2,4,2,3,3,5
+Married,60,2,Bachelors,49678,315,229,5,56,3,2,20,2,6,4,7
+Married,68,2,Postgraduate,56129,660,320,48,133,39,72,48,4,6,10,4
+Married,32,2,Bachelors,37155,74,23,0,26,7,15,3,1,2,4,5
+Divorced_Widowed,43,1,High School,21282,46,1,5,8,4,8,20,2,2,2,6
+Divorced_Widowed,59,1,Postgraduate,33419,86,56,0,12,0,0,18,2,2,4,7
+Single,76,0,Bachelors,63285,1103,508,124,249,50,38,134,1,6,13,3
+Married,47,2,Postgraduate,21255,61,29,0,25,2,2,3,4,2,4,4
+Married,40,2,Bachelors,42162,145,46,7,59,2,4,27,2,3,3,6
+Married,65,3,Bachelors,54450,684,454,0,171,8,19,32,12,9,8,8
+Married,67,2,Postgraduate,57744,411,350,3,39,0,0,19,2,9,4,8
+Divorced_Widowed,35,1,Bachelors,26576,27,10,0,8,0,0,9,1,1,2,9
+Single,78,0,Postgraduate,57513,1060,735,40,183,52,20,30,2,9,13,6
+Married,57,2,Bachelors,68142,1459,897,126,196,91,112,37,3,10,7,6
+Married,42,2,Bachelors,7500,18,5,2,3,3,0,5,1,1,2,8
+Married,47,1,Bachelors,83145,1833,777,35,731,39,137,114,1,5,11,2
+Married,61,2,Postgraduate,54197,237,162,6,37,6,13,13,2,1,6,1
+Divorced_Widowed,58,2,Postgraduate,23091,48,35,0,11,0,0,2,4,2,3,7
+Married,45,3,Bachelors,46049,515,342,9,112,19,14,19,10,5,9,7
+Married,47,1,Bachelors,56715,1020,258,105,239,237,172,9,1,7,4,4
+Married,60,1,Bachelors,79410,1370,658,80,483,123,13,13,1,3,5,1
+Married,70,2,Bachelors,57304,1026,356,80,329,138,17,106,2,7,10,5
+Married,56,2,Bachelors,44375,301,213,5,28,7,7,41,1,4,6,5
+Married,65,3,Bachelors,54450,684,454,0,171,8,19,32,12,9,8,8
+Married,56,2,Bachelors,59594,499,457,4,29,0,0,9,1,8,7,7
+Married,27,1,Bachelors,80685,1004,241,45,604,34,26,54,1,6,10,2
+Married,47,2,Postgraduate,40344,218,210,0,6,0,0,2,2,4,5,7
+Married,49,2,Bachelors,62710,606,441,35,83,7,29,11,4,4,12,4
+Married,53,2,High School,48985,75,19,13,18,10,7,8,1,1,3,3
+Married,53,4,Bachelors,35322,106,28,9,37,12,7,13,3,2,4,8
+Married,73,1,Bachelors,77142,990,476,75,162,29,151,97,1,4,8,2
+Single,52,0,Bachelors,81657,1097,364,40,425,158,60,50,1,3,8,1
+Married,25,1,High School,14421,16,0,0,2,3,3,8,1,1,2,5
+Married,47,1,High School,20130,34,0,6,3,7,6,12,1,1,3,8
+Married,31,1,Postgraduate,74214,1711,863,83,547,86,99,33,1,8,5,5
+Married,64,3,Postgraduate,66726,438,349,7,35,0,0,47,3,8,4,7
+Married,42,2,High School,23724,75,5,23,15,0,18,14,2,2,3,8
+Married,61,2,Postgraduate,47353,225,184,2,19,8,8,4,3,2,6,5
+Married,69,3,Postgraduate,33444,18,8,0,8,0,0,2,1,1,2,8
+Married,40,2,Bachelors,54386,470,277,21,64,62,21,25,2,3,10,3
+Divorced_Widowed,40,2,Bachelors,28510,91,44,5,19,0,4,19,3,2,4,5
+Single,30,0,Postgraduate,90638,2525,1156,120,915,94,144,96,1,3,10,1
+Married,71,2,Bachelors,48070,504,373,14,83,6,9,19,3,8,6,7
+Married,64,2,Bachelors,43140,235,134,8,76,6,0,11,1,4,5,6
+Divorced_Widowed,60,1,Postgraduate,54959,1232,1148,0,60,0,0,24,3,9,4,7
+Divorced_Widowed,63,2,High School,15056,88,6,12,3,21,6,40,5,2,3,5
+Divorced_Widowed,50,1,Bachelors,26954,17,4,1,11,0,0,1,1,1,2,7
+Divorced_Widowed,36,1,Bachelors,22327,24,5,4,8,2,0,5,1,1,3,5
+Married,56,3,Bachelors,44393,60,24,2,20,2,2,10,2,1,4,4
+Divorced_Widowed,69,1,Postgraduate,62000,1020,899,0,101,0,0,20,1,6,13,4
+Married,59,2,Postgraduate,31497,155,108,1,28,13,1,4,2,3,4,8
+Married,47,3,High School,45894,51,27,2,7,0,2,13,1,1,3,5
+Single,51,0,Postgraduate,78579,1812,816,66,549,216,66,99,1,5,4,3
+Divorced_Widowed,52,1,Postgraduate,67369,1461,1298,0,70,37,14,42,4,7,10,4
+Divorced_Widowed,61,1,Bachelors,58401,96,10,0,11,17,29,29,1,1,2,4
+Divorced_Widowed,69,1,Bachelors,62307,160,87,13,34,10,6,10,1,4,4,5
+Married,52,3,Postgraduate,43641,139,57,2,51,4,2,23,3,2,4,6
+Divorced_Widowed,53,1,Postgraduate,63841,908,635,15,100,20,7,131,1,9,9,6
+Married,56,2,High School,46891,183,43,12,23,29,15,61,1,2,4,4
+Married,52,2,Postgraduate,70091,1161,964,34,137,15,0,11,2,5,10,8
+Married,49,1,Postgraduate,78075,988,572,8,259,34,35,80,1,3,5,1
+Divorced_Widowed,60,1,High School,59184,1072,341,142,113,259,151,66,3,6,12,5
+Married,44,3,Bachelors,54809,174,63,6,57,13,13,22,4,2,5,4
+Married,62,2,Bachelors,58113,758,221,104,169,102,78,84,3,9,8,7
+Married,63,2,Postgraduate,51412,195,140,3,29,4,5,14,2,3,4,4
+Divorced_Widowed,42,1,Bachelors,15287,31,1,2,8,4,3,13,2,1,2,7
+Married,64,1,Postgraduate,66636,1084,291,10,689,84,10,0,1,3,9,1
+Married,65,2,Postgraduate,50965,685,544,13,85,8,6,29,3,10,5,8
+Married,56,1,Postgraduate,84618,1672,684,100,801,21,66,0,1,6,10,2
+Married,31,1,Bachelors,18351,43,1,12,9,0,14,7,1,2,3,7
+Married,64,3,Postgraduate,40451,49,35,0,4,0,0,10,1,1,2,5
+Married,56,2,Bachelors,36317,133,87,3,25,3,2,13,2,3,4,7
+Married,64,2,Bachelors,42213,363,309,3,24,4,3,20,2,5,7,7
+Married,66,2,Bachelors,65748,545,172,73,93,95,78,34,2,2,10,1
+Married,49,2,Bachelors,77044,1065,625,38,242,50,34,76,2,7,11,4
+Married,52,1,Bachelors,74918,2047,972,59,913,25,19,59,1,5,6,3
+Married,49,3,Bachelors,56721,296,157,6,39,6,13,75,5,4,5,6
+Divorced_Widowed,46,2,Bachelors,42160,140,48,9,45,3,15,20,4,2,4,6
+Divorced_Widowed,56,1,Bachelors,61559,530,279,83,88,32,14,34,1,4,10,3
+Married,58,3,Postgraduate,33629,152,132,0,16,0,0,4,5,3,4,9
+Married,30,1,Postgraduate,68682,1598,919,0,505,99,30,45,1,4,10,2
+Divorced_Widowed,58,1,Bachelors,34377,114,62,0,22,3,1,26,2,2,2,7
+Divorced_Widowed,35,1,High School,8940,101,1,45,3,4,6,42,3,3,3,8
+Married,48,2,Bachelors,26228,25,2,6,4,3,1,9,1,1,2,8
+Single,64,0,High School,77297,789,408,61,109,48,122,41,1,5,9,4
+Married,40,3,Bachelors,40211,87,51,1,7,2,1,25,2,2,2,8
+Divorced_Widowed,63,2,Postgraduate,33438,90,62,1,16,3,2,6,4,2,4,5
+Married,62,2,Postgraduate,75032,1215,952,12,180,47,12,12,2,5,9,3
+Single,66,0,Postgraduate,61284,811,618,15,106,20,7,45,1,11,8,6
+Married,35,2,Bachelors,22518,61,11,7,12,2,2,27,2,2,2,5
+Married,46,2,Postgraduate,54730,405,318,3,17,4,7,56,5,4,8,4
+Married,66,3,Postgraduate,38452,72,56,0,14,0,0,2,3,3,3,7
+Divorced_Widowed,50,2,Bachelors,44421,189,110,5,59,7,1,7,5,5,4,8
+Married,35,2,Postgraduate,38197,40,23,0,11,2,1,3,1,1,3,5
+Divorced_Widowed,43,1,Bachelors,41986,63,27,5,8,8,3,12,3,3,4,4
+Married,38,2,Bachelors,28427,52,18,3,19,3,3,6,2,2,3,8
+Married,45,2,Postgraduate,37395,39,18,0,9,0,1,11,1,1,3,6
+Married,50,2,Bachelors,64722,805,303,0,280,60,147,15,4,8,11,6
+Married,65,2,Postgraduate,55249,130,97,1,19,2,0,11,1,2,4,3
+Married,49,1,Bachelors,84906,1631,997,15,414,99,30,76,1,5,12,2
+Married,32,2,Bachelors,28691,34,5,4,13,8,0,4,1,1,3,8
+Divorced_Widowed,69,2,Bachelors,44213,152,95,11,35,0,4,7,4,2,5,6
+Divorced_Widowed,37,1,High School,25707,21,1,6,2,3,6,3,1,1,3,7
+Married,54,4,Postgraduate,59062,71,46,1,12,3,0,9,2,2,3,4
+Divorced_Widowed,59,1,Bachelors,76624,899,411,106,147,54,115,66,1,5,7,1
+Married,74,1,Postgraduate,66000,711,244,51,270,101,0,45,1,1,5,1
+Married,43,2,Postgraduate,27683,351,152,9,121,12,12,45,4,6,4,8
+Single,50,0,Bachelors,1730,8,1,1,3,1,1,1,15,0,0,20
+Divorced_Widowed,29,1,High School,7500,119,10,17,18,8,26,40,4,3,2,9
+Married,53,3,Bachelors,40521,21,12,0,5,0,0,4,1,0,2,5
+Married,48,2,Postgraduate,20427,10,5,0,4,0,0,1,1,1,2,8
+Married,46,2,Bachelors,65106,973,790,19,133,12,0,19,3,8,13,6
+Married,56,1,Postgraduate,69969,1536,882,29,514,38,29,44,1,4,6,3
+Married,69,3,Bachelors,67433,992,615,28,259,12,48,30,4,6,13,4
+Married,54,2,Postgraduate,77766,1529,1004,59,265,115,59,27,2,11,11,6
+Married,49,2,Bachelors,74716,860,133,27,421,13,195,71,2,7,5,4
+Divorced_Widowed,58,1,Bachelors,68118,928,595,23,123,10,23,154,2,8,4,6
+Married,51,3,Postgraduate,55158,418,293,0,87,4,11,23,4,7,5,7
+Married,66,2,High School,62972,587,313,15,47,20,0,192,2,7,3,6
+Married,46,2,Bachelors,74190,641,151,81,86,168,91,64,2,4,11,2
+Married,45,3,Bachelors,39356,23,15,0,2,0,0,6,1,1,2,6
+Married,52,1,Bachelors,76653,2279,736,63,946,219,189,126,1,4,11,2
+Divorced_Widowed,48,2,Postgraduate,35860,49,15,0,8,4,2,20,2,1,2,5
+Single,38,0,Postgraduate,90687,1779,982,17,672,23,34,51,1,6,8,2
+Married,39,1,Postgraduate,73450,1804,1142,51,415,90,69,37,1,7,11,3
+Married,61,3,Bachelors,31454,48,28,0,11,0,0,9,3,2,3,8
+Divorced_Widowed,69,2,Bachelors,47139,83,46,0,12,0,2,23,2,2,2,7
+Single,46,0,Bachelors,83829,1862,897,161,430,186,161,27,0,4,6,1
+Married,58,3,Postgraduate,53378,793,489,6,152,8,6,132,10,9,6,8
+Married,51,2,Bachelors,19656,84,25,4,9,6,8,32,3,2,3,7
+Married,73,2,Postgraduate,45579,183,145,1,33,2,1,1,1,4,4,6
+Single,63,0,High School,85485,1383,630,26,611,44,18,54,1,6,6,2
+Married,77,1,Bachelors,55956,999,760,38,104,50,9,38,2,7,4,4
+Divorced_Widowed,58,1,Postgraduate,64191,825,420,15,186,151,38,15,3,5,13,3
+Divorced_Widowed,49,1,Bachelors,38808,246,125,17,52,3,19,30,4,5,4,8
+Married,55,3,Postgraduate,57183,610,464,5,64,7,0,70,8,9,7,8
+Divorced_Widowed,53,1,Postgraduate,23748,76,6,6,29,12,15,8,3,2,3,8
+Married,50,2,Bachelors,66303,1286,1090,12,96,16,12,60,4,3,11,8
+Married,46,2,Postgraduate,37368,30,3,2,11,2,2,10,1,1,2,6
+Married,57,4,Bachelors,40800,99,24,0,27,8,30,10,2,3,3,7
+Single,43,0,Bachelors,71847,1192,737,21,106,55,63,210,0,6,9,3
+Married,46,2,Bachelors,46149,362,254,6,71,4,0,27,5,5,7,5
+Married,38,1,Bachelors,78687,2130,817,185,687,145,55,241,1,4,8,2
+Single,50,0,High School,49118,1229,620,54,239,99,98,119,2,9,10,7
+Married,64,3,Postgraduate,37633,38,13,4,20,0,0,1,2,1,3,9
+Married,70,1,Postgraduate,39767,485,113,61,204,34,26,47,2,7,7,8
+Married,70,1,High School,26997,434,7,23,78,133,49,144,2,4,5,7
+Divorced_Widowed,51,1,Bachelors,33986,44,16,2,18,2,1,5,1,1,3,7
+Married,49,2,Postgraduate,57091,496,462,0,24,6,0,4,2,9,5,7
+Married,52,3,High School,46831,78,22,2,10,6,4,34,2,1,2,4
+Married,49,1,Postgraduate,83151,2346,968,147,842,137,42,210,1,5,10,2
+Married,50,1,Bachelors,52531,794,283,112,151,51,72,125,2,7,10,6
+Married,65,1,Bachelors,15759,17,1,2,5,6,0,3,1,1,2,7
+Divorced_Widowed,50,1,Bachelors,22804,26,14,1,7,2,1,1,1,2,2,9
+Married,48,2,High School,43050,76,30,5,24,6,3,8,2,2,4,5
+Divorced_Widowed,44,2,Postgraduate,42997,15,4,0,5,0,1,5,1,1,2,7
+Divorced_Widowed,58,2,Postgraduate,48918,62,52,0,9,0,0,1,2,1,4,4
+Married,67,2,Postgraduate,60033,198,62,1,57,19,11,48,2,2,5,2
+Married,43,2,Postgraduate,34043,49,20,2,14,3,0,10,1,2,2,9
+Married,55,2,Bachelors,57811,802,545,7,114,37,21,78,5,7,11,5
+Married,75,1,Bachelors,78569,1736,558,79,622,207,175,95,1,4,4,1
+Divorced_Widowed,43,2,Bachelors,7500,57,6,5,4,13,4,25,4,2,3,6
+Married,68,1,Bachelors,94384,2302,1111,24,790,160,45,172,0,5,5,2
+Married,36,1,High School,23148,37,4,6,8,6,3,10,1,2,3,7
+Divorced_Widowed,51,2,Bachelors,44267,310,183,5,65,3,5,49,5,5,4,9
+Married,42,1,Bachelors,71626,1305,546,72,376,94,145,72,1,5,8,3
+Married,55,2,Bachelors,60894,832,606,7,155,10,0,54,5,10,8,7
+Married,45,3,Bachelors,50200,401,266,6,51,8,6,64,6,7,5,8
+Married,56,1,Postgraduate,81051,1501,1142,29,249,38,29,14,1,5,12,2
+Married,39,1,Bachelors,65169,1189,1074,0,69,0,0,46,1,10,13,6
+Married,49,2,Bachelors,59868,1194,771,51,154,54,10,154,7,11,12,6
+Married,61,2,Postgraduate,65695,656,371,32,189,0,58,6,2,5,10,4
+Single,65,0,Postgraduate,64857,1540,556,14,717,210,0,43,1,7,10,4
+Married,56,2,Postgraduate,45143,311,202,5,74,11,5,14,3,6,5,7
+Married,66,2,High School,74805,820,209,162,209,41,162,37,5,4,10,2
+Married,32,2,High School,59060,274,35,40,111,36,40,12,3,3,7,4
+Divorced_Widowed,59,2,Postgraduate,27238,57,37,0,17,0,0,3,3,3,3,9
+Married,56,2,Bachelors,47009,448,171,45,73,59,10,90,4,3,8,4
+Married,48,3,High School,46094,44,12,2,20,3,2,5,1,1,3,7
+Married,49,3,Bachelors,40321,102,44,4,21,6,0,27,2,3,3,7
+Married,37,2,Bachelors,37235,61,20,2,9,4,6,20,1,1,2,4
+Married,61,1,Postgraduate,81843,1643,779,86,537,34,69,138,1,5,12,3
+Married,63,2,Postgraduate,46692,397,170,6,97,24,12,88,3,6,5,6
+Married,53,2,Bachelors,77382,1121,491,48,231,112,105,134,2,5,12,1
+Divorced_Widowed,44,2,Bachelors,37774,473,173,8,107,7,2,176,4,7,3,9
+Married,47,2,High School,18393,50,7,10,13,16,0,4,2,3,3,8
+Married,59,2,Postgraduate,72828,1678,1205,0,235,19,14,205,6,6,13,7
+Married,39,1,Bachelors,24711,58,10,7,25,6,3,7,1,3,3,7
+Married,46,2,Postgraduate,45503,170,97,4,44,6,1,18,1,3,4,5
+Single,39,0,Postgraduate,6560,373,67,11,26,4,3,262,0,1,1,17
+Married,76,1,Postgraduate,71604,1196,345,53,528,98,75,97,1,8,5,4
+Married,42,2,Bachelors,27244,101,6,5,17,3,24,46,2,2,2,7
+Married,52,3,Bachelors,48752,316,73,57,100,71,15,0,5,6,5,9
+Married,59,2,Bachelors,71434,1400,711,36,217,172,96,168,3,7,7,4
+Single,73,0,Bachelors,90842,1424,774,70,118,182,187,93,1,4,13,1
+Married,43,2,Postgraduate,88097,844,163,0,480,0,126,75,1,6,8,9
+Married,46,2,Bachelors,51948,311,82,33,54,71,30,41,2,5,4,5
+Married,39,1,Bachelors,71853,1149,358,108,413,141,97,32,1,2,6,1
+Married,38,1,Postgraduate,35876,129,66,2,40,4,3,14,1,3,3,6
+Divorced_Widowed,69,1,Bachelors,40049,32,13,6,7,0,3,3,1,1,3,6
+Divorced_Widowed,39,1,Bachelors,39660,299,139,13,78,20,13,36,3,7,3,9
+Married,59,2,Bachelors,50127,320,274,0,21,4,6,15,1,5,6,6
+Married,44,2,Postgraduate,43263,441,262,6,61,0,10,102,3,5,6,5
+Married,72,3,Postgraduate,62845,1178,1099,0,45,0,0,34,11,3,10,8
+Married,31,1,Bachelors,18929,85,32,0,8,23,4,18,1,1,4,6
+Divorced_Widowed,39,1,High School,24367,24,2,4,2,0,11,5,1,1,2,9
+Divorced_Widowed,46,1,Bachelors,33249,112,6,10,21,19,14,42,2,2,3,6
+Married,62,2,High School,26887,30,6,7,4,3,4,6,1,1,3,6
+Married,38,1,Postgraduate,50150,410,135,46,92,65,61,11,2,5,7,5
+Married,45,2,Bachelors,62061,800,641,7,84,0,30,38,3,10,7,6
+Single,59,0,Postgraduate,85696,1313,714,76,395,116,0,12,1,4,9,1
+Married,65,1,Postgraduate,76542,1483,794,73,573,0,29,14,1,4,10,2
+Single,28,0,Bachelors,70515,1258,420,0,452,182,64,140,1,6,4,2
+Married,34,2,Bachelors,18227,28,1,2,7,4,3,11,1,0,2,8
+Married,56,2,Bachelors,69139,227,86,12,75,33,15,6,1,4,5,4
+Married,39,1,Bachelors,69109,1555,823,25,459,124,29,95,1,6,7,4
+Divorced_Widowed,59,1,Bachelors,69627,861,231,161,215,171,30,53,2,8,11,5
+Married,43,2,Bachelors,38136,103,8,15,27,0,20,33,2,3,2,8
+Single,75,0,Postgraduate,62159,634,182,17,259,77,70,29,1,6,10,4
+Single,58,0,Bachelors,80695,1918,557,129,984,193,37,18,1,5,5,2
+Divorced_Widowed,50,2,Postgraduate,33316,131,79,1,31,4,4,12,3,2,4,6
+Married,53,3,Bachelors,58554,586,368,24,68,38,0,88,6,8,6,7
+Married,29,2,High School,17256,62,6,4,14,8,8,22,2,2,2,8
+Divorced_Widowed,47,2,Bachelors,53034,447,160,15,196,15,11,50,8,6,7,8
+Married,71,1,High School,52203,939,488,21,238,56,108,28,1,8,11,6
+Divorced_Widowed,44,1,High School,59601,797,691,7,69,0,7,23,4,2,7,8
+Divorced_Widowed,63,1,Postgraduate,75154,1143,543,10,205,160,143,82,1,6,6,3
+Divorced_Widowed,45,1,Bachelors,47025,415,254,7,108,20,0,26,3,6,5,6
+Married,48,2,Bachelors,37971,30,5,4,10,2,2,7,1,1,3,8
+Divorced_Widowed,53,1,Postgraduate,41335,187,112,19,21,16,14,5,3,4,4,7
+Married,63,2,Bachelors,67267,251,134,11,59,15,2,30,1,3,5,2
+Divorced_Widowed,46,1,Bachelors,57338,237,143,6,52,11,8,17,2,4,5,5
+Married,61,3,High School,50523,91,51,4,24,4,7,1,2,2,4,6
+Divorced_Widowed,56,3,Postgraduate,35791,35,27,0,5,0,0,3,2,1,3,8
+Divorced_Widowed,61,1,Postgraduate,50611,493,459,0,24,6,0,4,6,4,7,6
+Married,52,2,Postgraduate,56242,971,689,8,167,11,8,88,5,8,11,6
+Divorced_Widowed,61,1,Bachelors,48904,371,283,10,38,0,13,27,4,7,4,8
+Divorced_Widowed,46,3,Bachelors,56243,396,347,0,35,4,3,7,6,4,8,5
+Married,36,2,Bachelors,21355,68,5,13,14,0,5,31,2,2,2,6
+Married,50,2,Postgraduate,57420,322,280,0,18,0,0,24,3,5,6,7
+Divorced_Widowed,66,1,Postgraduate,46390,222,95,14,64,2,9,38,1,4,3,7
+Married,65,3,High School,54342,177,84,10,34,11,10,28,4,3,4,6
+Married,48,2,Bachelors,20895,45,18,3,17,3,0,4,1,2,3,9
+Married,73,1,Bachelors,92344,1899,992,24,694,51,19,119,0,5,5,1
+Married,45,3,High School,26907,22,9,1,7,0,3,2,2,1,3,7
+Married,41,3,Bachelors,44964,41,19,1,17,2,0,2,1,1,3,8
+Married,42,1,Bachelors,75507,1440,709,93,374,104,80,80,1,8,6,3
+Married,49,3,Postgraduate,53761,325,158,0,76,13,7,71,6,4,3,5
+Married,48,2,Bachelors,22682,95,10,14,29,4,2,36,3,2,4,4
+Married,49,2,Postgraduate,38887,42,25,1,13,0,0,3,1,1,3,7
+Divorced_Widowed,46,2,High School,41658,72,8,4,12,15,4,29,2,1,2,4
+Married,49,2,Postgraduate,29791,20,14,0,6,0,0,0,2,2,3,5
+Married,65,3,Postgraduate,63915,789,622,7,115,30,0,15,2,6,12,5
+Divorced_Widowed,47,2,Bachelors,39996,15,11,0,3,0,0,1,1,1,2,6
+Divorced_Widowed,49,1,Bachelors,26759,59,25,3,16,8,5,2,2,2,3,6
+Divorced_Widowed,53,1,Postgraduate,63841,908,635,15,100,20,7,131,1,9,9,6
+Married,52,3,Postgraduate,51039,417,100,64,79,65,0,109,2,6,4,7
+Married,60,3,Bachelors,60544,289,201,2,43,3,5,35,4,5,5,6
+Married,49,2,Bachelors,65685,769,642,14,49,0,7,57,1,9,9,5
+Married,68,2,Bachelors,37716,188,97,1,41,6,2,41,2,4,3,7
+Divorced_Widowed,64,1,Bachelors,36864,354,204,5,39,17,0,89,3,5,4,8
+Married,51,2,Postgraduate,44511,727,513,7,133,46,14,14,6,8,8,8
+Married,54,3,Postgraduate,36947,146,88,3,21,4,1,29,4,3,4,9
+Married,70,2,Postgraduate,47352,319,172,12,112,8,0,15,4,6,5,7
+Married,68,2,Postgraduate,67087,794,329,35,222,130,35,43,2,7,8,4
+Married,71,2,Bachelors,57045,454,296,13,104,11,13,17,3,4,9,3
+Divorced_Widowed,68,2,Postgraduate,36957,152,100,2,16,2,1,31,4,3,2,9
+Married,44,2,Postgraduate,69389,797,422,7,238,69,46,15,1,7,12,4
+Married,49,2,Bachelors,80134,1690,1218,16,272,104,0,80,2,5,6,6
+Married,52,3,Postgraduate,43142,20,5,1,7,2,1,4,1,1,2,7
+Married,77,1,Bachelors,80589,1428,507,93,520,242,40,26,1,5,5,1
+Divorced_Widowed,31,1,Bachelors,34412,209,52,12,50,4,36,55,3,5,3,9
+Divorced_Widowed,42,1,Bachelors,57537,545,191,56,139,51,8,100,4,4,8,4
+Married,55,1,High School,22634,96,2,23,11,8,6,46,1,2,2,8
+Married,73,1,Bachelors,51315,222,68,28,39,16,30,41,1,2,5,2
+Married,49,4,Bachelors,36026,61,20,4,10,6,4,17,2,2,3,6
+Married,48,3,Bachelors,24639,44,20,3,16,0,4,1,3,2,4,6
+Married,49,4,Postgraduate,34578,8,7,0,1,0,0,0,1,1,2,6
+Single,49,0,High School,65704,817,279,172,74,38,8,246,1,2,10,1
+Divorced_Widowed,55,1,Bachelors,63810,1371,977,12,253,16,12,101,4,4,12,8
+Married,52,2,Postgraduate,54132,42,30,1,8,0,0,3,1,1,3,7
+Married,62,1,Bachelors,18690,60,6,1,7,23,4,19,1,1,2,8
+Married,51,2,Bachelors,28164,78,3,18,26,11,8,12,3,2,4,7
+Married,47,2,Postgraduate,34596,23,14,0,2,0,0,7,1,1,2,8
+Married,49,2,Postgraduate,43269,19,10,1,7,0,0,1,1,1,2,8
+Divorced_Widowed,63,2,High School,38741,61,7,10,17,8,6,13,2,2,3,7
+Single,49,0,Bachelors,31907,449,33,87,64,175,16,74,1,6,6,7
+Married,38,2,Postgraduate,27100,37,12,0,13,2,0,10,1,1,3,7
+Divorced_Widowed,48,1,High School,31163,38,2,3,10,11,2,10,1,1,3,6
+Married,36,1,Bachelors,92533,1131,693,21,118,110,147,42,1,6,11,2
+Divorced_Widowed,48,2,Bachelors,34853,34,9,3,15,2,3,2,2,2,3,6
+Divorced_Widowed,54,2,Bachelors,70844,294,129,26,67,3,67,2,5,6,5,7
+Married,42,3,High School,31086,48,16,2,11,3,0,16,2,1,2,8
+Married,60,3,Bachelors,60544,289,201,2,43,3,5,35,4,5,5,6
+Married,35,1,High School,20491,30,5,4,5,4,2,10,1,0,2,7
+Married,57,1,Bachelors,42523,125,14,36,11,3,26,35,1,1,4,2
+Married,38,2,Bachelors,39922,156,29,12,59,19,1,36,2,3,4,8
+Married,69,3,Bachelors,33402,70,26,2,19,10,5,8,3,2,3,8
+Married,72,3,Postgraduate,36408,22,9,1,4,3,2,3,1,1,2,6
+Married,42,2,Bachelors,21645,65,14,0,23,4,5,19,3,3,3,9
+Single,73,0,Postgraduate,78427,1930,972,19,595,180,26,138,3,3,10,3
+Married,75,1,Bachelors,82657,2283,966,168,672,246,105,126,1,7,10,4
+Married,63,1,Bachelors,51876,310,99,27,102,28,48,6,1,2,8,1
+Married,50,1,High School,78041,1319,482,35,553,72,160,17,1,4,9,2
+Married,64,2,Bachelors,52852,879,714,8,99,11,0,47,4,10,5,8
+Married,39,1,Postgraduate,70038,1244,587,54,348,71,54,130,1,4,8,2
+Married,48,2,High School,69401,690,399,27,159,58,8,39,4,4,5,2
+Married,49,2,Bachelors,46053,209,56,10,92,19,7,25,3,3,4,5
+Married,56,1,Bachelors,77343,1134,227,151,573,98,54,31,1,3,9,1
+Single,68,0,Bachelors,73892,1507,703,102,601,0,58,43,1,3,8,1
+Divorced_Widowed,54,1,Postgraduate,40304,57,37,0,17,0,0,3,1,2,3,7
+Married,56,1,Postgraduate,32727,529,167,13,180,86,13,70,2,7,5,8
+Married,52,1,Bachelors,68695,1091,458,81,356,106,50,40,1,4,7,2
+Divorced_Widowed,50,1,Bachelors,43300,180,91,3,52,2,1,31,3,4,4,8
+Married,49,3,Bachelors,26290,77,15,8,16,11,5,22,4,2,4,6
+Single,51,0,Bachelors,93790,2349,1302,68,731,89,114,45,0,6,12,2
+Married,47,1,Postgraduate,38410,534,153,64,123,116,64,14,2,5,9,6
+Divorced_Widowed,71,1,Postgraduate,64866,556,508,5,21,7,5,10,4,7,7,5
+Married,62,2,Bachelors,57957,637,290,59,177,77,5,29,7,4,8,3
+Married,66,3,Postgraduate,46015,46,38,0,2,0,0,6,1,1,3,7
+Married,43,2,Bachelors,16531,44,2,13,6,7,5,11,3,3,3,7
+Married,35,2,Postgraduate,28072,47,30,0,10,2,0,5,1,1,3,7
+Divorced_Widowed,58,1,Postgraduate,49476,795,386,23,95,54,41,196,4,2,5,2
+Married,68,2,Bachelors,50725,586,443,10,75,0,10,48,4,8,8,8
+Married,69,1,Bachelors,83844,1574,901,31,345,75,31,191,1,4,11,1
+Married,71,3,Postgraduate,41145,13,9,0,3,0,0,1,1,0,3,3
+Married,51,2,Bachelors,67419,1471,846,84,352,91,56,42,4,9,8,5
+Married,51,3,High School,23162,65,8,3,9,19,4,22,3,1,3,6
+Married,44,2,Bachelors,34380,175,72,7,58,13,1,24,4,4,3,8
+Divorced_Widowed,55,1,Bachelors,34704,40,29,0,5,0,1,5,1,1,3,5
+Married,52,3,Postgraduate,94871,1078,169,24,553,188,0,144,1,8,4,7
+Married,63,2,Bachelors,65148,1115,460,35,422,33,12,153,2,6,7,4
+Married,67,2,Bachelors,39898,134,69,8,26,12,7,12,2,3,4,7
+Single,65,0,Postgraduate,64857,1540,556,14,717,210,0,43,1,7,10,4
+Married,51,2,Postgraduate,59892,87,73,0,13,0,1,0,1,2,3,3
+Single,34,0,Postgraduate,41020,217,112,1,54,7,7,36,1,3,4,3
+Married,60,2,Postgraduate,57072,1034,944,0,60,0,0,30,2,7,13,5
+Divorced_Widowed,42,1,Bachelors,60474,1180,265,199,303,234,9,170,7,10,12,7
+Married,61,2,Bachelors,62807,819,526,28,135,10,21,99,3,5,12,5
+Married,40,2,High School,19414,32,2,3,12,3,5,7,1,1,3,8
+Married,41,2,Bachelors,19107,46,2,4,9,10,5,16,2,1,3,7
+Married,45,2,High School,75484,1159,378,97,259,197,194,34,2,7,6,4
+Divorced_Widowed,45,1,Postgraduate,70379,860,553,25,142,65,67,8,3,6,13,4
+Married,51,1,Postgraduate,79419,1631,751,127,687,20,15,31,1,4,4,2
+Married,75,4,Postgraduate,64014,444,406,0,30,0,0,8,7,8,5,7
+Married,66,2,Bachelors,76998,1910,1449,89,161,69,35,107,2,11,8,6
+Married,49,2,Postgraduate,49854,380,123,17,171,39,0,30,5,6,5,6
+Married,50,3,Postgraduate,60585,736,267,42,309,55,42,21,10,7,9,5
+Divorced_Widowed,71,2,Postgraduate,42873,269,209,0,40,3,2,15,4,6,4,8
+Married,33,1,Bachelors,87679,2524,1259,172,815,97,148,33,1,7,10,4
+Married,43,2,Bachelors,57867,612,344,35,178,15,23,17,7,7,9,6
+Married,31,2,Bachelors,35765,75,22,3,30,0,5,15,2,2,4,6
+Married,62,1,Bachelors,65492,1045,247,161,295,210,85,47,2,4,13,2
+Divorced_Widowed,44,1,Bachelors,32952,55,38,0,12,3,1,1,1,2,3,7
+Married,52,2,Postgraduate,53374,1064,896,10,101,13,10,34,6,4,9,9
+Married,62,2,Bachelors,71706,1443,931,56,253,91,98,14,4,9,7,5
+Married,33,1,Bachelors,68487,1366,758,12,385,33,89,89,1,9,13,4
+Married,46,3,Postgraduate,53253,436,216,9,57,20,9,125,7,4,5,5
+Divorced_Widowed,48,1,High School,31163,38,2,3,10,11,2,10,1,1,3,6
+Married,44,2,Bachelors,42014,436,244,15,108,4,15,50,6,7,6,8
+Married,48,3,Postgraduate,54108,747,539,6,91,8,6,97,13,8,9,8
+Single,66,0,Postgraduate,49667,1396,1181,26,120,17,13,39,2,5,5,8
+Married,47,1,Postgraduate,63206,928,750,8,125,11,8,26,1,4,6,2
+Married,49,3,Postgraduate,57136,642,306,5,109,21,109,92,9,5,10,6
+Married,46,2,High School,46772,1048,350,104,189,197,151,57,6,11,5,8
+Married,50,1,Postgraduate,78931,943,331,197,170,58,152,35,1,2,13,1
+Married,63,2,Bachelors,53977,907,620,16,165,0,24,82,5,5,12,5
+Married,33,1,Bachelors,84219,1198,434,137,400,45,137,45,1,3,10,1
+Divorced_Widowed,46,2,Postgraduate,46098,120,57,0,27,0,0,36,4,3,2,8
+Married,56,2,Bachelors,73538,1658,811,76,428,99,137,107,3,10,9,7
+Married,35,1,Bachelors,79529,1638,423,42,706,73,197,197,1,4,9,2
+Married,44,1,High School,20981,73,2,12,10,6,13,30,1,3,2,8
+Divorced_Widowed,41,1,Bachelors,51766,275,60,51,87,6,20,51,2,4,4,5
+Married,59,2,Bachelors,55759,854,675,0,85,10,7,77,5,10,8,8
+Married,43,2,Bachelors,33039,78,30,8,12,8,8,12,1,2,4,5
+Married,49,2,Postgraduate,37787,106,40,1,40,4,3,18,1,3,3,8
+Divorced_Widowed,51,1,Bachelors,27242,106,3,17,26,20,1,39,2,2,3,9
+Single,38,0,Postgraduate,87188,1923,910,111,724,49,74,55,1,10,6,3
+Married,50,1,Bachelors,69930,1662,252,98,827,219,70,196,1,4,12,3
+Divorced_Widowed,45,1,Bachelors,37697,84,34,6,21,11,4,8,1,2,3,6
+Married,48,2,Postgraduate,37401,48,19,3,19,3,1,3,2,2,3,7
+Divorced_Widowed,48,1,Bachelors,3502,5,2,1,1,0,0,1,0,0,0,14
+Married,45,3,Bachelors,58597,733,490,0,184,10,28,21,12,7,9,7
+Single,73,0,Postgraduate,82032,1234,332,194,377,149,125,57,0,4,7,1
+Married,63,3,Bachelors,28087,112,53,8,17,13,0,21,3,2,2,7
+Single,34,0,Postgraduate,74004,1658,784,48,560,42,176,48,1,4,4,3
+Married,61,2,Bachelors,19740,55,7,11,3,10,4,20,2,1,3,5
+Married,46,2,High School,57036,1513,1171,43,219,19,14,47,4,6,13,9
+Married,63,3,High School,53083,271,215,7,33,3,0,13,6,5,5,7
+Married,46,2,Postgraduate,69283,904,674,62,134,0,26,8,4,7,13,5
+Divorced_Widowed,46,2,Postgraduate,46098,120,57,0,27,0,0,36,4,3,2,8
+Married,33,2,High School,23331,103,5,36,7,0,10,45,2,3,3,8
+Divorced_Widowed,33,1,High School,23331,269,104,20,101,24,15,5,6,5,5,9
+Divorced_Widowed,32,1,Bachelors,9255,22,9,0,7,2,0,4,1,1,2,8
+Single,62,0,Postgraduate,67786,1156,431,82,441,80,20,102,1,3,6,1
+Married,50,2,Postgraduate,71969,1086,1000,0,76,0,0,10,3,3,9,8
+Divorced_Widowed,54,1,Postgraduate,59235,1128,448,40,469,80,0,91,3,11,12,7
+Married,32,2,Bachelors,31928,72,33,4,24,4,2,5,2,3,4,7
+Married,60,3,Postgraduate,74881,964,505,72,270,36,27,54,4,9,12,5
+Married,43,1,Bachelors,65819,1383,267,38,701,149,165,63,1,5,10,3
+Divorced_Widowed,68,3,Postgraduate,51411,18,14,0,3,0,0,1,1,0,3,5
+Divorced_Widowed,57,1,Bachelors,51983,793,631,0,115,10,7,30,3,9,10,7
+Married,35,2,Postgraduate,42386,100,65,4,16,0,4,11,1,3,3,8
+Married,34,1,High School,30390,80,10,12,12,25,1,20,1,2,3,6
+Single,58,0,Bachelors,30983,167,51,4,50,12,1,49,1,4,3,8
+Divorced_Widowed,64,1,Bachelors,66033,677,293,35,179,46,59,65,2,8,7,7
+Married,46,3,High School,37284,23,11,1,2,2,1,6,1,0,3,6
+Divorced_Widowed,70,1,Postgraduate,57530,92,50,1,27,6,7,1,1,1,4,1
+Married,56,1,High School,76800,641,173,26,255,35,71,81,1,4,7,1
+Married,65,2,Bachelors,63943,1106,423,184,368,13,97,21,1,6,6,5
+Married,59,1,Bachelors,76081,1033,292,30,415,63,33,200,1,4,4,2
+Married,47,2,Bachelors,67445,1174,757,80,217,29,80,11,5,9,12,6
+Married,54,3,Postgraduate,37054,25,12,1,6,0,1,5,2,1,3,7
+Married,59,3,Postgraduate,47175,240,167,2,44,6,2,19,7,4,4,8
+Divorced_Widowed,45,1,Bachelors,31859,20,3,1,3,8,0,5,1,1,2,7
+Divorced_Widowed,60,3,Bachelors,27215,102,30,5,22,8,9,28,4,2,4,6
+Divorced_Widowed,45,1,Postgraduate,70179,1034,532,88,168,69,44,133,3,7,13,5
+Married,38,2,Bachelors,39922,156,29,12,59,19,1,36,2,3,4,8
+Married,45,3,Postgraduate,49681,458,411,0,26,0,0,21,6,7,7,7
+Married,33,2,Bachelors,24645,17,5,3,4,4,1,0,1,1,2,8
+Divorced_Widowed,67,1,Bachelors,79865,792,71,99,278,185,121,38,1,5,5,1
+Married,36,2,Bachelors,44322,92,46,0,40,3,0,3,2,3,3,8
+Divorced_Widowed,69,1,Bachelors,47958,407,268,11,88,15,3,22,2,6,5,5
+Divorced_Widowed,57,1,Postgraduate,63972,1269,928,63,254,0,12,12,4,5,10,4
+Married,67,2,Bachelors,75315,841,459,15,171,142,23,31,2,5,12,2
+Married,71,3,Postgraduate,55517,633,483,0,108,0,6,36,5,11,6,9
+Married,64,4,Postgraduate,75283,1019,733,9,180,12,19,66,11,6,5,4
+Single,75,0,Postgraduate,82800,1315,1006,22,115,59,68,45,1,7,12,3
+Married,67,3,Bachelors,38998,54,34,1,14,0,0,5,3,2,3,8
+Single,30,0,Postgraduate,90638,2525,1156,120,915,94,144,96,1,3,10,1
+Married,35,2,Postgraduate,27161,52,7,4,23,7,0,11,1,1,3,7
+Married,44,2,Bachelors,42014,436,244,15,108,4,15,50,6,7,6,8
+Married,61,2,Postgraduate,38201,268,233,0,23,0,0,12,4,5,5,8
+Married,39,3,Bachelors,45203,147,35,3,67,10,8,24,1,3,3,6
+Married,74,1,Postgraduate,81574,1798,1252,0,465,46,35,0,1,4,8,1
+Married,29,1,Bachelors,34935,137,34,4,66,3,10,20,1,2,4,7
+Divorced_Widowed,45,1,Postgraduate,60482,507,255,43,134,37,14,24,1,7,7,7
+Married,65,4,Bachelors,34633,15,8,1,5,0,0,1,1,1,2,6
+Married,74,1,Postgraduate,78093,1105,368,32,639,13,43,10,1,4,5,1
+Single,71,0,Bachelors,82460,974,255,47,573,52,32,15,1,5,6,1
+Married,55,2,Postgraduate,45903,66,33,8,10,2,10,3,2,2,3,4
+Single,34,0,Bachelors,81361,778,163,23,424,27,65,76,1,3,13,1
+Divorced_Widowed,48,2,Postgraduate,35860,49,15,0,8,4,2,20,2,1,2,5
+Married,69,3,Postgraduate,40442,169,45,12,52,25,22,13,4,3,4,7
+Married,56,1,Bachelors,61482,299,48,58,68,16,66,43,1,3,6,2
+Married,41,2,Bachelors,34968,221,158,6,45,8,2,2,7,3,5,7
+Married,34,1,Bachelors,75794,1682,754,160,625,63,32,48,1,7,12,3
+Married,59,2,Postgraduate,31497,155,108,1,28,13,1,4,2,3,4,8
+Married,66,1,Bachelors,74268,892,199,66,315,97,174,41,1,4,5,2
+Married,33,2,High School,13724,58,2,7,5,2,15,27,1,2,2,9
+Married,56,2,Postgraduate,45143,311,202,5,74,11,5,14,3,6,5,7
+Divorced_Widowed,54,1,Postgraduate,52569,95,85,0,3,0,0,7,1,2,4,3
+Divorced_Widowed,48,1,Postgraduate,48432,424,322,3,50,4,3,42,5,7,6,8
+Married,61,3,Postgraduate,17144,47,18,2,19,0,2,6,5,3,4,7
+Divorced_Widowed,37,1,Bachelors,36108,339,141,8,129,3,11,47,3,7,4,9
+Married,50,2,Bachelors,76445,1410,739,107,309,140,80,35,1,2,13,6
+Married,46,2,Postgraduate,36663,35,18,0,6,3,3,5,1,1,3,2
+Married,56,2,Postgraduate,53843,562,378,0,88,19,4,73,4,8,3,7
+Married,65,1,Postgraduate,90226,2352,1083,108,649,253,151,108,1,4,12,2
+Single,66,0,Postgraduate,70638,1334,1016,12,215,16,12,63,1,4,10,3
+Married,61,3,Bachelors,44512,32,23,1,6,0,0,2,2,1,3,4
+Married,60,3,Bachelors,27116,41,12,1,21,2,2,3,2,2,3,7
+Married,58,3,Postgraduate,54072,39,35,0,4,0,0,0,1,2,2,8
+Married,44,2,Bachelors,71855,1141,548,31,422,0,112,28,4,5,11,3
+Divorced_Widowed,31,1,High School,51250,710,342,32,230,34,32,40,5,10,4,9
+Married,48,2,Postgraduate,60432,401,365,3,15,4,3,11,5,7,5,6
+Married,57,2,Postgraduate,65526,506,397,19,69,12,0,9,1,4,8,2
+Single,33,0,Bachelors,68655,1538,456,19,832,75,118,38,1,4,11,3
+Married,43,1,High School,12393,57,5,6,15,11,7,13,1,2,3,9
+Single,31,0,Bachelors,64509,1722,836,185,575,24,25,77,1,6,9,4
+Divorced_Widowed,46,1,Bachelors,33955,270,100,2,128,23,7,10,4,5,5,8
+Married,44,3,Bachelors,31353,31,10,0,10,3,1,7,2,1,2,8
+Married,37,2,Bachelors,55434,882,238,115,215,169,69,76,3,5,13,4
+Married,38,2,Bachelors,28359,16,6,0,5,2,1,2,1,1,2,7
+Divorced_Widowed,34,1,Bachelors,57100,311,158,11,99,15,11,17,2,3,7,3
+Married,56,2,Bachelors,69139,227,86,12,75,33,15,6,1,4,5,4
+Married,65,2,Postgraduate,52973,1152,856,0,76,12,9,199,7,9,9,8
+Married,56,2,Postgraduate,51717,122,98,1,17,0,1,5,1,3,4,7
+Married,50,2,Bachelors,18793,77,4,16,20,0,17,20,3,2,4,8
+Married,39,1,High School,66664,1289,398,96,447,220,96,32,1,5,6,3
+Divorced_Widowed,62,2,Bachelors,50664,561,313,8,104,6,4,126,9,8,6,9
+Married,58,3,Bachelors,54414,211,109,18,16,24,26,18,4,3,5,4
+Married,69,2,Postgraduate,54549,233,216,2,6,0,0,9,2,5,4,7
+Divorced_Widowed,50,1,Postgraduate,47111,1092,595,71,153,120,112,41,6,3,10,9
+Single,58,0,Postgraduate,41003,601,123,133,142,71,44,88,1,6,8,6
+Married,39,2,Bachelors,19444,54,16,0,23,3,2,10,3,4,2,7
+Married,45,2,High School,36301,78,11,12,35,3,5,12,1,3,3,7
+Married,74,2,Postgraduate,73059,1095,410,112,420,0,82,71,1,9,13,4
+Married,52,2,Postgraduate,42731,244,159,2,51,6,2,24,3,4,5,5
+Married,62,3,Postgraduate,52854,116,105,0,10,0,1,0,2,2,4,5
+Married,43,2,Bachelors,22775,15,5,1,8,0,0,1,1,1,2,8
+Married,73,3,Postgraduate,46681,425,269,15,69,15,19,38,2,4,4,5
+Married,66,2,Postgraduate,59821,734,629,0,70,0,0,35,6,11,7,8
+Divorced_Widowed,67,1,Bachelors,50002,638,443,5,71,21,16,82,2,8,7,7
+Married,76,1,Bachelors,69755,894,217,77,373,111,23,93,1,3,12,1
+Married,52,3,Bachelors,44078,41,24,1,10,2,0,4,2,2,3,5
+Married,45,2,Postgraduate,30560,31,9,1,5,4,5,7,1,1,3,7
+Married,52,3,Postgraduate,35924,34,8,0,14,2,3,7,1,1,3,5
+Divorced_Widowed,57,2,Postgraduate,64140,1750,1459,0,61,0,15,215,5,2,6,5
+Married,40,3,Bachelors,56386,612,230,48,214,13,32,75,8,9,7,9
+Married,42,2,High School,24594,29,1,3,6,10,0,9,1,1,3,5
+Married,40,2,High School,75774,823,340,21,134,258,14,56,1,7,8,4
+Single,61,0,Postgraduate,39228,20,7,1,6,0,3,3,1,0,3,4
+Married,47,2,Postgraduate,58494,396,298,7,68,4,0,19,2,6,6,6
+Single,40,0,Bachelors,58684,813,479,35,179,28,7,85,1,5,12,2
+Single,54,0,Bachelors,57136,1179,267,140,599,34,12,127,1,7,7,6
+Divorced_Widowed,71,2,Postgraduate,56551,138,67,4,32,17,2,16,3,2,4,4
+Married,39,2,Bachelors,22448,55,3,1,8,23,2,18,3,2,3,3
+Single,60,0,Bachelors,82014,1511,980,37,265,35,163,31,1,3,12,6
+Divorced_Widowed,58,2,Bachelors,34213,117,50,4,28,6,3,26,3,3,2,9
+Divorced_Widowed,74,1,Postgraduate,25358,32,19,0,5,0,0,8,2,1,3,6
+Divorced_Widowed,43,1,Postgraduate,35544,67,30,5,23,4,1,4,1,2,3,7
+Married,67,2,Postgraduate,36634,335,213,9,76,4,3,30,3,5,5,7
+Married,67,2,Postgraduate,62670,825,539,30,92,80,46,38,1,5,13,3
+Married,49,2,High School,50334,694,284,16,160,84,16,134,6,7,6,6
+Single,40,0,Bachelors,72066,1792,1003,34,536,134,51,34,1,4,6,2
+Divorced_Widowed,63,2,Postgraduate,50729,496,239,13,143,45,4,52,9,6,7,6
+Married,53,3,Bachelors,34916,231,51,23,82,33,0,42,4,5,3,9
+Divorced_Widowed,45,1,Bachelors,64892,902,527,24,230,32,24,65,2,6,12,4
+Divorced_Widowed,55,2,Bachelors,43602,68,19,5,12,10,3,19,3,3,2,6
+Single,32,0,Postgraduate,33996,71,40,2,15,8,0,6,1,1,3,4
+Divorced_Widowed,36,1,High School,41473,76,21,8,20,15,3,9,1,2,3,7
+Married,54,3,Postgraduate,63246,772,593,30,91,29,22,7,1,6,12,4
+Married,62,3,Postgraduate,36732,47,21,5,3,10,1,7,3,1,4,2
+Married,51,2,Postgraduate,69084,1586,1181,107,199,39,30,30,2,7,13,8
+Married,54,2,Postgraduate,77766,1529,1004,59,265,115,59,27,2,11,11,6
+Single,36,0,Postgraduate,37929,265,202,2,46,3,2,10,2,4,5,7
+Married,70,1,Bachelors,86610,1603,446,107,768,33,196,53,1,5,6,2
+Married,35,1,Postgraduate,80141,2091,1184,102,673,52,40,40,1,7,10,6
+Married,66,1,High School,72635,981,390,22,323,104,35,107,1,6,6,3
+Married,51,2,Bachelors,69016,1533,726,53,363,123,107,161,4,8,13,5
+Married,30,1,High School,20193,82,8,8,22,24,11,9,1,1,4,4
+Married,46,2,Bachelors,27573,244,50,15,110,39,15,15,4,5,4,8
+Divorced_Widowed,42,1,High School,15862,36,1,1,4,11,9,10,1,1,3,8
+Married,45,2,Postgraduate,49544,404,308,0,73,0,0,23,2,5,8,7
+Married,41,2,Bachelors,33228,71,22,2,31,7,4,5,1,2,3,7
+Married,43,1,Bachelors,70440,1572,690,117,499,76,102,88,1,5,7,3
+Married,50,3,Bachelors,38232,122,43,5,28,7,6,33,4,3,3,5
+Married,66,3,Postgraduate,22554,41,27,0,10,0,0,4,4,2,4,5
+Married,38,2,Postgraduate,23536,10,6,0,3,0,0,1,1,0,3,3
+Married,69,2,Bachelors,49413,304,205,7,41,3,2,46,2,4,5,5
+Married,52,3,Bachelors,42231,37,24,0,8,0,1,4,1,1,3,5
+Single,41,0,Postgraduate,78789,1754,667,50,850,21,83,83,1,4,5,2
+Married,53,2,Bachelors,56534,815,691,7,61,10,0,46,4,10,7,8
+Divorced_Widowed,50,1,Bachelors,58350,1001,493,26,206,116,80,80,4,8,12,6
+Single,32,0,Bachelors,81217,1157,493,70,324,146,40,84,1,3,11,1
+Divorced_Widowed,70,1,Bachelors,49090,688,494,5,82,7,0,100,3,7,9,7
+Single,34,0,Postgraduate,61787,1319,621,73,414,78,48,85,1,8,6,5
+Married,36,2,Postgraduate,18169,21,9,0,5,0,0,7,1,1,2,8
+Divorced_Widowed,40,1,High School,24336,31,1,6,2,8,2,12,1,1,2,7
+Married,31,1,Bachelors,18222,67,12,4,19,12,6,14,1,2,3,8
+Divorced_Widowed,69,1,Bachelors,62335,708,243,131,217,85,6,26,2,3,13,2
+Married,50,3,High School,42033,25,11,1,4,2,0,7,1,1,2,7
+Married,38,1,Postgraduate,86580,746,532,21,127,26,20,20,0,4,5,1
+Divorced_Widowed,64,2,Postgraduate,41437,32,29,0,2,0,0,1,1,1,3,7
+Divorced_Widowed,70,2,Postgraduate,73705,1695,612,91,520,258,107,107,2,9,8,5
+Married,45,2,Bachelors,61064,1080,387,126,342,0,45,180,5,8,11,6
+Married,66,3,Postgraduate,38452,72,56,0,14,0,0,2,3,3,3,7
+Divorced_Widowed,32,1,Bachelors,18358,57,6,8,19,16,4,4,3,3,4,7
+Married,48,2,Postgraduate,55012,660,582,0,65,0,0,13,6,8,9,5
+Married,48,2,High School,9722,103,6,17,16,6,16,42,4,3,3,8
+Married,37,2,Postgraduate,38175,153,70,6,69,2,3,3,3,3,4,7
+Married,65,2,Postgraduate,58656,1220,962,12,194,16,24,12,4,7,13,6
+Married,56,2,Bachelors,52117,279,112,10,107,30,0,20,2,5,4,7
+Married,43,2,Bachelors,64813,745,293,0,124,179,97,52,1,7,10,5
+Married,48,2,Postgraduate,54222,264,199,12,31,3,12,7,1,3,5,3
+Married,35,1,Bachelors,83512,2157,1060,61,835,80,20,101,1,4,10,1
+Married,62,2,Postgraduate,77520,1526,940,44,396,0,88,58,1,8,7,4
+Married,43,2,Bachelors,41154,69,44,2,11,2,3,7,1,1,4,5
+Married,55,1,Bachelors,80398,1597,342,51,936,207,35,26,1,5,12,3
+Divorced_Widowed,29,1,High School,18746,64,2,10,11,12,9,20,2,3,3,6
+Married,37,2,Bachelors,35196,497,75,12,141,43,39,187,6,6,5,8
+Divorced_Widowed,65,1,Bachelors,60230,1067,520,20,367,39,81,40,2,6,6,5
+Married,44,3,Bachelors,22108,31,5,3,9,6,2,6,2,2,3,7
+Married,47,3,Bachelors,44392,211,87,5,71,7,12,29,5,4,4,7
+Married,45,2,Postgraduate,55424,877,462,61,184,10,53,107,4,7,9,6
+Married,42,2,Bachelors,17688,11,2,2,1,3,1,2,1,1,2,8
+Married,38,1,Postgraduate,92491,2034,979,44,935,29,25,22,1,7,12,3
+Single,30,0,Bachelors,90273,1991,704,129,853,120,74,111,1,5,7,2
+Single,59,0,Postgraduate,82571,1686,861,31,558,62,95,79,0,6,13,2
+Divorced_Widowed,39,1,Postgraduate,38513,324,172,3,115,16,0,18,5,6,5,8
+Divorced_Widowed,42,1,Postgraduate,16653,69,5,7,31,15,4,7,3,2,3,6
+Married,66,3,Bachelors,42586,252,194,2,56,0,0,0,5,4,6,8
+Divorced_Widowed,56,1,High School,23529,54,9,7,13,3,2,20,1,1,2,6
+Married,60,3,Postgraduate,74881,964,505,72,270,36,27,54,4,9,12,5
+Married,70,2,Bachelors,71107,1327,533,10,217,198,174,195,2,7,13,4
+Married,57,3,Postgraduate,46910,68,48,0,14,0,0,6,2,2,3,6
+Married,62,1,Bachelors,18690,60,6,1,7,23,4,19,1,1,2,8
+Divorced_Widowed,66,2,Bachelors,37244,55,18,2,10,0,0,25,1,1,2,7
+Married,55,1,Bachelors,82427,1456,482,147,509,104,107,107,1,3,12,1
+Divorced_Widowed,63,1,High School,75342,563,204,97,97,21,118,26,1,5,10,4
+Divorced_Widowed,67,1,Bachelors,70044,1504,1073,0,250,153,14,14,4,7,5,5
+Divorced_Widowed,54,2,Bachelors,79146,564,245,16,223,21,43,16,2,8,8,6
+Married,58,1,Bachelors,77437,1125,560,21,442,29,44,29,1,4,13,1
+Married,62,2,Bachelors,54984,358,173,13,131,32,3,6,4,6,6,7
+Married,50,2,Postgraduate,42403,42,22,1,11,0,5,3,1,1,3,8
+Married,57,2,Bachelors,55761,184,136,1,12,0,3,32,2,4,3,6
+Married,38,2,Bachelors,37292,460,275,0,86,10,23,66,5,6,5,8
+Single,76,0,Postgraduate,45576,145,56,19,29,2,14,25,1,3,3,8
+Married,74,1,Bachelors,70321,1376,303,23,751,82,26,191,1,6,13,4
+Divorced_Widowed,52,1,Postgraduate,58086,792,708,7,62,0,0,15,2,11,7,8
+Married,69,1,Bachelors,81795,1382,324,132,693,27,118,88,1,4,7,2
+Married,74,1,High School,28389,28,1,5,3,7,4,8,1,1,2,7
+Married,75,1,Postgraduate,66835,1033,620,26,195,34,17,141,1,6,13,2
+Divorced_Widowed,52,1,Bachelors,69901,882,312,21,206,102,92,149,3,7,10,5
+Married,72,1,Postgraduate,80360,2231,1493,86,454,112,43,43,2,4,5,2
+Married,60,2,Postgraduate,63342,1101,918,21,118,13,10,21,3,8,5,6
+Married,47,2,Bachelors,44989,369,98,0,106,49,10,106,5,5,5,6
+Divorced_Widowed,41,1,High School,31859,48,3,4,7,15,8,11,1,1,3,7
+Divorced_Widowed,72,1,Postgraduate,51569,467,380,0,47,6,0,34,4,7,7,8
+Divorced_Widowed,50,2,Bachelors,30372,44,15,0,12,7,3,7,3,2,3,7
+Divorced_Widowed,42,2,High School,16014,38,3,9,4,7,8,7,4,1,4,3
+Married,53,3,Bachelors,41120,81,24,2,23,0,8,24,3,2,3,6
+Divorced_Widowed,50,1,Postgraduate,39763,167,80,1,60,4,6,16,2,5,2,9
+Married,66,3,Postgraduate,38725,45,31,0,6,2,1,5,2,1,4,4
+Married,49,2,Bachelors,77981,664,138,120,204,16,126,60,3,7,7,5
+Married,57,2,High School,62905,622,166,75,96,119,107,59,3,7,8,4
+Divorced_Widowed,42,1,High School,13533,48,12,3,8,8,0,17,2,2,3,7
+Married,46,2,Bachelors,59481,461,178,3,85,71,66,58,2,3,8,2
+Married,44,2,Bachelors,72117,1073,707,20,171,65,60,50,1,9,9,5
+Married,35,2,High School,21955,55,5,1,7,17,14,11,2,2,3,6
+Married,65,2,Bachelors,67131,976,465,71,250,93,35,62,3,9,12,6
+Divorced_Widowed,41,1,Postgraduate,36802,20,16,1,2,0,0,1,1,1,3,5
+Married,39,1,Bachelors,71853,1149,358,108,413,141,97,32,1,2,6,1
+Married,60,1,High School,28249,43,1,9,7,2,14,10,1,2,3,6
+Married,46,2,Postgraduate,47808,224,123,1,26,2,0,72,2,3,3,7
+Divorced_Widowed,47,1,Postgraduate,25509,101,40,3,30,10,7,11,3,3,3,9
+Married,75,1,Postgraduate,51012,209,102,9,63,2,9,24,1,4,4,6
+Single,36,0,Bachelors,70596,968,347,44,534,17,0,26,1,3,12,2
+Married,69,1,Postgraduate,85431,1165,376,53,462,168,53,53,1,2,7,0
+Married,54,2,Bachelors,42664,24,21,0,3,0,0,0,1,1,3,6
+Married,66,3,Bachelors,42586,252,194,2,56,0,0,0,5,4,6,8
+Divorced_Widowed,36,1,Bachelors,29760,165,64,4,68,7,5,17,4,3,4,8
+Married,44,1,Postgraduate,28973,269,206,0,46,3,2,12,2,5,5,8
+Married,48,2,Postgraduate,39435,102,71,0,18,0,0,13,1,3,2,7
+Married,37,1,High School,65370,461,71,22,112,138,89,29,1,2,13,1
+Divorced_Widowed,42,1,High School,20194,47,0,4,7,11,10,15,2,2,3,6
+Divorced_Widowed,45,2,Postgraduate,42473,144,93,1,21,0,4,25,3,2,4,5
+Married,53,1,Bachelors,64590,1338,920,138,168,36,46,30,1,9,10,6
+Married,62,2,Bachelors,71232,917,653,17,170,34,26,17,2,11,10,7
+Married,50,3,Bachelors,34600,318,199,33,60,8,3,15,5,5,5,8
+Divorced_Widowed,54,2,Bachelors,46904,253,153,4,56,0,9,31,4,5,4,8
+Married,48,2,Bachelors,49094,502,376,0,38,11,8,69,5,6,6,6
+Married,38,2,Bachelors,36075,119,46,0,30,12,1,30,1,2,4,6
+Married,42,3,High School,60839,1250,600,21,128,223,150,128,13,2,12,8
+Married,42,2,Bachelors,77298,969,425,115,292,23,35,79,1,6,11,3
+Married,71,3,Bachelors,34026,76,18,6,15,12,8,17,3,2,3,5
+Divorced_Widowed,58,2,Postgraduate,48918,62,52,0,9,0,0,1,2,1,4,4
+Married,59,1,High School,82122,1382,734,22,350,151,25,100,1,3,13,1
+Divorced_Widowed,45,1,Bachelors,37697,84,34,6,21,11,4,8,1,2,3,6
+Married,69,3,Bachelors,34074,255,135,1,41,10,1,67,5,3,3,6
+Married,61,3,Postgraduate,28520,43,11,0,10,0,2,20,1,1,2,6
+Divorced_Widowed,66,1,Bachelors,62535,398,163,48,90,0,45,52,1,3,8,3
+Divorced_Widowed,44,1,Postgraduate,36273,76,29,3,30,3,2,9,2,3,3,6
+Married,57,3,Bachelors,63404,902,734,26,70,11,44,17,2,6,4,4
+Married,40,2,High School,75774,823,340,21,134,258,14,56,1,7,8,4
+Married,45,2,Bachelors,78416,1179,453,38,279,188,38,183,2,7,10,3
+Married,47,2,Bachelors,75702,1921,1073,0,629,145,37,37,1,10,13,6
+Married,70,3,Postgraduate,59385,185,135,0,10,0,4,36,2,3,4,5
+Divorced_Widowed,55,2,Bachelors,37070,433,231,7,137,4,15,39,9,5,8,7
+Married,70,3,Bachelors,44689,34,18,0,5,0,0,11,2,1,2,7
+Married,63,2,Bachelors,53977,907,620,16,165,0,24,82,5,5,12,5
+Divorced_Widowed,55,2,Postgraduate,7144,416,81,4,33,5,2,291,0,23,1,0
+Divorced_Widowed,57,2,Bachelors,18701,44,12,4,2,10,6,10,4,2,4,5
+Married,65,1,Bachelors,90369,1588,292,51,981,224,23,17,1,4,6,1
+Single,47,0,Postgraduate,63159,1797,965,34,586,89,86,37,1,3,8,3
+Married,55,3,Bachelors,37758,40,27,2,10,0,0,1,2,1,3,8
+Divorced_Widowed,58,1,Postgraduate,46757,1143,777,30,163,0,51,122,6,4,7,9
+Married,52,1,Postgraduate,79734,914,572,8,232,23,62,17,1,4,6,1
+Married,29,1,Bachelors,63207,1502,438,169,565,91,169,70,1,2,6,7
+Divorced_Widowed,67,1,Bachelors,72071,1338,531,69,300,150,138,150,3,5,8,2
+Married,38,2,Postgraduate,21840,27,17,0,9,0,0,1,1,1,3,9
+Married,39,2,High School,58582,763,402,35,106,101,77,42,2,9,9,5
+Single,70,0,Bachelors,72282,1331,503,27,419,90,139,153,1,5,9,7
+Married,65,3,Bachelors,50387,525,369,9,87,12,14,34,3,6,8,5
+Married,60,3,Postgraduate,32583,9,5,0,3,0,0,1,1,1,2,7
+Married,59,2,Bachelors,62568,953,362,17,398,80,35,61,3,5,5,4
+Divorced_Widowed,50,2,Postgraduate,44635,68,56,0,9,0,0,3,2,2,3,7
+Divorced_Widowed,50,2,Postgraduate,33316,131,79,1,31,4,4,12,3,2,4,6
+Married,53,2,Bachelors,63967,882,387,84,141,73,35,162,3,4,12,2
+Married,43,1,High School,52513,1149,367,17,241,104,188,232,2,9,9,7
+Married,52,2,Bachelors,25293,37,15,0,11,0,2,9,1,1,2,8
+Divorced_Widowed,56,1,Postgraduate,54111,388,267,6,54,8,3,50,2,5,6,5
+Married,35,1,Bachelors,78394,1428,298,27,697,216,24,166,1,4,5,2
+Married,63,1,Postgraduate,80739,1633,674,92,736,39,0,92,1,3,9,1
+Married,46,2,Postgraduate,22669,173,16,14,36,37,22,48,3,4,2,9
+Divorced_Widowed,34,1,Bachelors,29236,99,37,4,24,16,9,9,2,4,3,9
+Married,62,2,Bachelors,44911,215,159,0,22,2,1,31,3,4,4,7
+Married,59,2,Postgraduate,54693,929,686,17,142,23,26,35,8,6,13,6
+Married,47,2,Bachelors,48186,219,97,3,66,12,7,34,3,4,4,7
+Married,44,3,Bachelors,54809,174,63,6,57,13,13,22,4,2,5,4
+Married,43,3,Bachelors,41580,92,56,5,24,4,0,3,3,2,3,5
+Married,51,1,Postgraduate,80336,1052,209,19,456,160,142,66,1,2,13,1
+Married,64,2,Bachelors,47743,275,198,2,43,0,12,20,3,4,6,6
+Married,66,2,High School,62972,587,313,15,47,20,0,192,2,7,3,6
+Divorced_Widowed,67,1,Postgraduate,57333,1662,941,14,397,76,58,176,11,8,9,6
+Married,39,2,Postgraduate,32313,159,86,4,56,2,4,7,3,4,4,9
+Single,68,0,Postgraduate,84953,1024,167,48,602,63,72,72,1,3,4,2
+Divorced_Widowed,53,1,Postgraduate,27071,35,8,3,19,0,2,3,2,2,3,6
+Married,64,1,Postgraduate,68148,1042,389,66,408,37,57,85,1,4,6,2
+Married,56,3,Postgraduate,65735,395,239,7,119,4,15,11,5,6,6,7
+Married,46,1,Postgraduate,86836,557,179,21,273,0,21,63,1,6,6,5
+Married,58,3,Postgraduate,4023,9,5,0,1,1,1,1,15,0,0,19
+Married,31,1,Bachelors,30093,69,2,6,28,13,4,16,1,2,3,7
+Married,55,2,Postgraduate,57705,486,383,0,53,6,4,40,3,8,6,6
+Divorced_Widowed,33,1,Bachelors,25008,34,2,8,8,6,1,9,2,1,3,8
+Single,26,0,High School,83257,1365,536,27,590,38,107,67,1,5,12,6
+Married,46,2,Bachelors,22280,13,2,1,4,3,1,2,1,1,2,8
+Married,43,1,Postgraduate,72159,1401,322,53,899,34,40,53,1,4,10,2
+Married,60,1,Bachelors,64260,1574,539,169,816,20,0,30,1,4,4,3
+Single,37,0,Postgraduate,82733,1323,712,50,420,65,38,38,1,8,7,4
+Divorced_Widowed,50,1,Postgraduate,74290,1217,1121,0,72,0,12,12,4,10,10,6
+Divorced_Widowed,70,3,Postgraduate,58217,103,68,1,13,3,5,13,1,2,4,6
+Married,45,1,Postgraduate,21024,84,36,4,18,6,2,18,1,2,4,7
+Married,49,1,Postgraduate,70116,1536,707,44,603,95,58,29,1,2,12,1
+Married,36,2,Bachelors,54006,581,174,77,203,6,24,97,2,8,7,7
+Married,55,2,Postgraduate,69063,928,666,35,124,69,8,26,1,5,5,3
+Single,46,0,High School,11448,14,0,0,0,6,2,6,1,1,2,6
+Divorced_Widowed,42,1,Bachelors,61825,424,162,50,100,55,30,27,1,4,8,4
+Married,50,2,Bachelors,70886,960,407,70,239,103,88,53,1,5,4,2
+Married,39,1,Bachelors,69109,1555,823,25,459,124,29,95,1,6,7,4
+Divorced_Widowed,48,2,Bachelors,60208,656,488,23,71,15,0,59,11,8,7,7
+Married,53,3,Postgraduate,32889,55,28,0,13,4,2,8,3,2,3,5
+Divorced_Widowed,37,1,Bachelors,34738,20,3,2,10,3,0,2,1,1,3,6
+Married,50,2,Postgraduate,30538,367,284,0,52,8,3,20,4,9,4,10
+Married,44,1,High School,82326,2257,938,142,754,159,81,183,1,5,6,2
+Divorced_Widowed,54,1,Postgraduate,26642,42,13,2,15,2,2,8,2,2,3,6
+Divorced_Widowed,57,1,Bachelors,69932,1049,412,172,153,150,105,57,2,7,11,4
+Divorced_Widowed,49,2,Bachelors,44503,48,31,1,8,0,0,8,2,2,3,6
+Divorced_Widowed,73,1,Postgraduate,60200,685,502,19,132,0,6,26,6,6,11,6
+Divorced_Widowed,69,1,Bachelors,49638,39,18,10,3,3,5,0,1,1,3,2
+Single,34,0,High School,23830,43,1,8,6,4,8,16,1,1,3,7
+Single,62,0,Postgraduate,33051,835,100,71,243,108,94,219,3,9,8,9
+Married,63,1,Bachelors,72905,1515,407,114,445,181,165,203,1,3,9,1
+Married,70,2,Postgraduate,69702,1039,664,9,240,50,19,57,2,7,10,4
+Divorced_Widowed,46,1,Bachelors,70300,1596,1045,61,338,60,46,46,3,5,13,8
+Married,37,1,Postgraduate,70643,1828,1218,107,304,23,143,33,1,5,4,6
+Married,52,2,Postgraduate,30396,34,15,0,6,0,1,12,2,1,2,7
+Divorced_Widowed,53,1,Postgraduate,50616,149,128,0,16,0,1,4,2,4,4,7
+Divorced_Widowed,52,1,Postgraduate,62772,946,581,49,157,43,8,108,1,5,11,2
+Single,36,0,Postgraduate,30298,28,6,3,12,6,1,0,1,1,3,3
+Divorced_Widowed,37,1,Bachelors,52413,450,185,8,133,56,56,12,2,7,7,7
+Married,64,3,Postgraduate,44155,46,22,1,9,0,0,14,1,1,2,4
+Single,50,0,Postgraduate,86979,1702,584,100,835,65,83,35,1,5,5,2
+Married,46,3,Bachelors,76532,820,355,30,177,90,138,30,4,9,7,5
+Married,39,2,Bachelors,42081,382,175,10,110,54,6,27,2,6,4,6
+Married,33,1,Postgraduate,67546,2126,864,134,768,150,38,172,1,4,5,3
+Married,32,1,Postgraduate,88420,2069,957,153,612,99,95,153,1,4,8,1
+Married,36,2,Bachelors,31158,72,25,6,16,20,0,5,2,2,3,8
+Divorced_Widowed,53,1,Bachelors,61671,732,641,7,56,0,0,28,8,10,6,8
+Single,47,0,Bachelors,69719,801,273,86,208,177,14,43,1,2,5,1
+Divorced_Widowed,72,1,Bachelors,49160,236,122,21,43,25,10,15,2,3,6,6
+Married,43,2,High School,24882,80,1,4,10,29,0,36,1,1,2,6
+Single,67,0,Postgraduate,90933,1685,1020,31,430,62,63,79,1,4,4,1
+Single,76,0,Postgraduate,113734,277,6,2,3,1,262,3,0,27,0,1
+Married,71,2,Postgraduate,59292,507,378,14,68,19,14,14,2,3,8,3
+Married,57,3,Postgraduate,45759,68,42,1,18,3,0,4,2,2,3,7
+Single,38,0,Bachelors,22148,49,15,5,14,0,4,11,1,1,3,7
+Married,34,1,Postgraduate,73395,397,272,7,80,20,7,11,1,4,6,2
+Divorced_Widowed,50,1,Bachelors,29819,39,9,1,24,2,1,2,3,3,3,6
+Married,53,2,Bachelors,45688,306,279,0,18,0,0,9,2,3,8,4
+Married,67,1,Bachelors,62820,976,398,61,265,138,61,53,1,3,6,1
+Married,50,2,Postgraduate,60491,1028,637,47,237,12,19,76,4,6,7,5
+Married,35,2,Bachelors,33235,70,45,0,16,2,1,6,1,3,3,7
+Married,62,1,Bachelors,35701,46,21,1,9,7,3,5,1,1,3,6
+Married,41,2,Postgraduate,31535,51,15,4,13,0,0,19,1,1,2,7
+Married,61,1,High School,92556,1263,493,183,352,184,23,28,0,3,13,0
+Divorced_Widowed,51,1,Bachelors,67384,1490,957,40,175,158,53,107,2,7,5,5
+Married,50,1,Postgraduate,80573,1564,829,138,430,60,92,15,1,4,13,2
+Married,54,2,Bachelors,77870,1815,1017,50,500,65,50,133,3,5,5,8
+Divorced_Widowed,58,1,Postgraduate,52278,1198,953,0,71,0,0,174,6,10,10,8
+Divorced_Widowed,53,1,Bachelors,57107,416,159,0,120,0,0,137,7,4,8,8
+Married,31,1,Bachelors,18929,85,32,0,8,23,4,18,1,1,4,6
+Divorced_Widowed,40,1,Postgraduate,36038,47,23,0,15,0,2,7,2,3,3,6
+Single,45,0,Bachelors,20180,137,18,42,24,15,20,18,1,2,4,7
+Married,56,3,Postgraduate,34230,21,15,0,4,0,0,2,1,1,2,7
+Divorced_Widowed,44,1,High School,31878,70,23,4,5,10,5,23,1,1,4,3
+Married,49,2,High School,70932,909,200,193,100,46,185,185,2,6,12,3
+Single,65,0,Bachelors,91249,1676,1324,27,119,71,108,27,0,7,6,4
+Single,78,0,Postgraduate,77598,1735,1193,33,281,129,66,33,1,7,13,3
+Divorced_Widowed,62,2,Bachelors,80982,1191,505,137,401,104,22,22,3,11,11,5
+Married,44,2,Postgraduate,22701,24,2,4,9,0,4,5,1,1,3,5
+Married,52,2,Postgraduate,55212,1182,1103,0,45,0,0,34,3,4,11,8
+Married,51,1,Bachelors,70617,1280,353,61,753,40,46,27,1,3,7,2
+Single,64,0,Bachelors,64849,1336,652,48,350,94,84,108,1,9,6,5
+Married,56,3,Postgraduate,62694,749,379,6,157,25,91,91,5,9,7,7
+Married,47,3,Postgraduate,61917,91,46,4,36,2,2,1,1,2,4,5
+Married,74,2,Postgraduate,67472,414,162,31,127,8,17,69,2,4,7,3
+Married,39,2,Postgraduate,21059,44,8,3,19,3,3,8,3,3,3,6
+Married,53,3,Postgraduate,29543,63,17,3,18,3,4,18,2,3,2,7
+Married,70,2,Bachelors,75903,901,340,108,185,130,38,100,2,6,9,3
+Married,46,3,High School,34984,38,8,4,15,3,5,3,2,1,3,7
+Divorced_Widowed,65,1,Postgraduate,54998,455,154,22,202,39,30,8,5,4,9,4
+Divorced_Widowed,72,1,Postgraduate,54356,775,710,15,30,20,0,0,3,11,8,8
+Married,62,2,Postgraduate,34242,15,8,2,4,0,0,1,1,0,3,5
+Married,48,2,Bachelors,25410,38,2,2,4,13,13,4,1,1,4,4
+Married,37,1,Postgraduate,73356,1512,1050,14,322,0,14,112,1,5,5,2
+Married,71,2,Bachelors,28320,43,19,1,14,3,2,4,1,1,3,8
+Divorced_Widowed,44,1,Bachelors,23763,42,22,0,6,6,2,6,1,1,3,7
+Married,37,1,Bachelors,72570,1089,274,83,216,151,141,224,1,4,12,1
+Married,45,2,Postgraduate,34529,162,68,6,38,3,6,41,2,2,3,7
+Single,70,0,Bachelors,70792,1272,344,45,654,104,11,114,2,3,10,3
+Married,39,1,Bachelors,63211,1173,145,193,459,205,26,145,2,3,7,2
+Married,47,2,Postgraduate,83891,816,217,38,350,111,85,15,1,4,10,1
+Divorced_Widowed,53,2,Bachelors,36065,74,18,7,34,10,2,3,3,3,3,8
+Married,67,2,Bachelors,39898,134,69,8,26,12,7,12,2,3,4,7
+Single,81,0,Postgraduate,51141,157,144,0,7,0,0,6,1,3,4,5
+Married,45,2,Bachelors,56939,561,256,34,103,90,29,49,2,3,10,3
+Single,70,0,Bachelors,80872,1336,483,72,567,94,12,108,1,4,10,1
+Married,45,1,Postgraduate,72335,2092,1285,105,653,28,21,0,1,10,8,8
+Single,57,0,Postgraduate,61798,463,338,4,89,11,8,13,1,4,9,4
+Single,71,0,Postgraduate,76842,1130,605,10,345,84,54,32,1,1,7,0
+Married,45,2,Bachelors,29478,20,8,0,7,3,1,1,1,1,3,6
+Divorced_Widowed,65,1,Bachelors,46998,377,172,41,86,45,6,27,5,5,5,7
+Single,31,0,Bachelors,96843,1544,448,71,951,40,17,17,1,6,10,2
+Divorced_Widowed,71,2,Postgraduate,56551,138,67,4,32,17,2,16,3,2,4,4
+Married,56,2,Postgraduate,70053,1012,512,53,98,81,179,89,3,8,10,5
+Single,59,0,Postgraduate,71670,1766,1462,16,128,0,0,160,1,5,6,6
+Married,43,3,Bachelors,44359,45,20,0,14,7,3,1,3,2,4,3
+Divorced_Widowed,69,2,Bachelors,40887,161,50,4,44,10,10,43,3,3,3,9
+Divorced_Widowed,55,1,Bachelors,48877,144,102,1,15,2,0,24,1,3,4,7
+Married,74,1,Bachelors,74485,1734,499,149,815,173,49,49,1,6,12,3
+Married,49,2,Bachelors,64474,823,381,35,172,56,86,93,2,8,10,5
+Married,58,2,Bachelors,77226,1138,631,43,239,128,76,21,2,6,12,3
+Single,72,0,Bachelors,72643,1429,526,80,553,123,94,53,1,3,7,2
+Married,43,1,Postgraduate,85738,1371,913,26,376,17,26,13,1,3,11,1
+Divorced_Widowed,55,1,Bachelors,55686,982,673,0,199,37,47,26,2,6,5,4
+Divorced_Widowed,38,1,Bachelors,39062,44,23,0,9,0,0,12,1,1,3,4
+Married,50,3,Bachelors,34600,318,199,33,60,8,3,15,5,5,5,8
+Married,46,2,Bachelors,40794,434,261,23,73,4,23,50,2,6,5,7
+Married,50,3,High School,54690,198,111,16,37,7,9,18,3,3,5,3
+Married,52,2,Bachelors,4428,359,16,4,12,2,4,321,0,25,0,1
+Married,58,1,High School,32632,576,63,151,137,153,19,53,2,4,8,5
+Divorced_Widowed,53,2,Postgraduate,38236,88,58,0,18,2,0,10,4,3,4,7
+Married,42,2,Bachelors,36781,63,29,1,17,0,3,13,1,2,2,8
+Divorced_Widowed,37,1,Postgraduate,31385,27,3,2,12,0,1,9,1,1,2,8
+Married,37,2,Bachelors,24570,193,28,34,62,11,14,44,3,4,4,9
+Divorced_Widowed,47,1,Postgraduate,25509,101,40,3,30,10,7,11,3,3,3,9
+Married,70,1,Bachelors,94642,2211,879,143,797,106,143,143,0,5,9,1
+Married,59,2,Postgraduate,58646,140,62,1,44,6,5,22,1,2,4,4
+Divorced_Widowed,46,2,Bachelors,53201,415,280,7,81,20,0,27,8,6,5,7
+Married,64,2,Bachelors,21994,22,9,0,6,3,1,3,1,0,3,5
+Married,43,3,Bachelors,57113,263,182,4,33,0,2,42,6,4,5,7
+Married,30,1,Bachelors,51373,393,83,2,101,64,26,117,1,3,3,4
+Married,35,2,Bachelors,23477,147,38,15,54,3,8,29,3,3,4,8
+Married,65,2,Bachelors,58116,443,228,19,130,4,11,51,2,3,8,2
+Single,58,0,Postgraduate,72968,1958,1092,37,592,145,37,55,1,5,8,3
+Married,50,2,Postgraduate,39791,174,85,15,27,13,13,21,2,3,4,7
+Single,74,0,Postgraduate,91712,2217,1276,24,746,94,29,48,0,9,11,3
+Divorced_Widowed,63,1,Bachelors,94472,1691,1017,33,417,108,100,16,1,5,5,5
+Married,61,3,Bachelors,13672,25,6,2,9,2,1,5,2,1,3,8
+Married,41,1,High School,96547,809,448,21,125,52,101,62,0,7,8,2
+Married,46,1,Bachelors,79205,895,504,23,117,179,28,44,1,6,4,4
+Married,46,2,Postgraduate,56559,484,226,22,133,41,31,31,3,4,8,4
+Married,48,2,Postgraduate,32644,413,239,3,141,0,7,23,4,7,6,8
+Divorced_Widowed,41,1,High School,67506,331,90,38,67,33,36,67,1,4,6,3
+Divorced_Widowed,51,1,Bachelors,24206,25,7,2,8,3,2,3,1,1,3,6
+Divorced_Widowed,54,1,Postgraduate,28420,13,4,2,5,2,0,0,1,1,2,6
+Married,51,2,Bachelors,22979,115,16,17,19,20,21,22,3,3,2,8
+Single,55,0,Bachelors,33279,16,10,3,3,0,0,0,1,0,3,3
+Divorced_Widowed,49,2,Postgraduate,46423,92,68,0,16,0,0,8,3,2,4,7
+Married,44,2,Bachelors,30368,52,35,0,13,2,0,2,2,2,3,8
+Married,51,2,Bachelors,63684,1464,575,80,428,208,93,80,3,8,8,5
+Divorced_Widowed,57,1,Bachelors,41638,441,315,0,31,4,0,91,4,5,3,8
+Divorced_Widowed,62,1,Postgraduate,68805,283,182,2,49,17,13,20,1,3,7,2
+Married,55,2,Postgraduate,65814,747,561,14,113,10,14,35,3,8,10,5
+Single,63,0,Bachelors,71964,1870,587,51,932,180,34,86,1,5,5,3
+Divorced_Widowed,35,1,Bachelors,39146,165,94,1,33,13,12,12,3,4,4,8
+Married,44,1,Bachelors,96876,1941,908,43,735,40,194,21,1,7,9,2
+Married,40,1,High School,34445,839,228,122,122,208,129,30,6,11,8,9
+Single,63,0,Bachelors,68281,1655,995,112,417,42,48,41,1,2,13,5
+Married,46,3,High School,37284,23,11,1,2,2,1,6,1,0,3,6
+Married,38,1,Bachelors,36790,66,3,3,14,15,21,10,1,2,2,9
+Married,54,3,Bachelors,27943,37,12,1,16,4,1,3,3,2,3,8
+Divorced_Widowed,70,2,Bachelors,22263,21,17,0,2,0,0,2,2,1,3,6
+Married,49,4,Bachelors,30261,22,8,0,5,0,3,6,1,0,3,8
+Married,43,2,Bachelors,28587,78,22,4,17,12,10,13,3,2,4,6
+Married,39,2,Postgraduate,43815,79,14,10,29,4,7,15,1,2,3,6
+Married,65,3,Bachelors,48195,265,106,27,68,52,7,5,6,4,5,6
+Married,69,2,Postgraduate,77027,1175,820,57,242,45,0,11,2,8,6,4
+Married,56,2,Postgraduate,71322,1305,753,43,226,69,10,204,2,8,13,4
+Married,42,2,Postgraduate,32765,46,13,3,17,7,3,3,2,2,4,5
+Married,56,3,Bachelors,29672,25,9,1,3,0,4,8,1,0,3,6
+Single,68,0,Bachelors,23272,46,19,3,6,4,2,12,1,1,3,4
+Married,72,2,Postgraduate,49912,874,520,8,223,32,49,42,4,10,7,8
+Married,36,2,High School,7500,100,5,17,17,13,14,34,4,2,3,9
+Divorced_Widowed,74,1,Postgraduate,68117,930,618,44,215,0,17,36,2,11,4,6
+Married,66,2,Bachelors,67225,868,315,35,322,46,7,143,3,7,11,5
+Married,45,2,Bachelors,17649,45,15,1,23,0,5,1,3,3,3,8
+Married,46,2,Bachelors,55914,1260,384,60,364,119,101,232,4,11,8,7
+Married,37,2,Bachelors,40059,414,110,29,92,28,10,145,1,6,3,8
+Married,71,2,Bachelors,60905,392,208,17,76,36,17,38,2,3,7,2
+Married,44,3,Bachelors,75330,1109,555,82,257,93,61,61,4,10,12,6
+Divorced_Widowed,70,1,Bachelors,60689,639,240,90,216,63,6,24,4,4,10,3
+Married,37,2,Bachelors,38680,79,11,0,36,15,5,12,1,2,3,7
+Married,39,1,Bachelors,61416,1665,848,154,323,201,61,78,1,10,10,6
+Single,30,0,Bachelors,49767,692,202,47,197,55,42,149,1,5,8,4
+Divorced_Widowed,51,3,Bachelors,83273,1392,433,89,650,16,102,102,10,4,9,7
+Married,40,2,Bachelors,29009,44,6,6,15,10,5,2,2,2,3,6
+Married,42,2,Postgraduate,45057,50,37,0,7,3,0,3,1,2,3,5
+Married,50,2,Bachelors,37150,467,167,37,64,49,34,116,8,4,6,7
+Divorced_Widowed,51,1,Bachelors,43020,223,45,7,99,4,25,43,3,4,4,6
+Married,62,2,Bachelors,53154,158,129,0,21,0,1,7,1,3,4,4
+Married,48,1,Bachelors,65308,1211,713,0,264,120,80,34,1,7,12,4
+Divorced_Widowed,51,1,Bachelors,76467,1575,676,161,426,210,44,58,2,2,5,6
+Married,74,1,High School,81044,1208,450,26,535,73,98,26,1,5,10,1
+Married,70,3,Bachelors,32871,43,22,2,12,0,2,5,1,1,3,4
+Divorced_Widowed,46,2,Bachelors,55801,527,367,4,51,6,4,95,6,7,6,7
+Divorced_Widowed,62,1,Bachelors,76320,932,526,35,214,69,53,35,2,6,4,2
+Divorced_Widowed,66,2,Postgraduate,36927,71,51,0,16,0,0,4,2,3,3,8
+Married,68,3,Bachelors,48794,54,25,0,11,3,0,15,1,1,3,4
+Single,56,0,Bachelors,23478,129,28,6,27,12,17,39,1,3,3,8
+Divorced_Widowed,48,1,Bachelors,71128,1615,958,159,447,20,0,31,3,2,12,7
+Divorced_Widowed,45,1,Postgraduate,70179,1034,532,88,168,69,44,133,3,7,13,5
+Married,71,2,Bachelors,59462,1088,724,17,143,0,8,196,2,9,12,7
+Married,52,2,Bachelors,38361,137,39,0,56,20,8,14,3,3,3,7
+Married,39,1,Postgraduate,70038,1244,587,54,348,71,54,130,1,4,8,2
+Married,43,3,Bachelors,42554,41,29,1,11,0,0,0,2,2,3,4
+Married,47,2,Bachelors,67445,1174,757,80,217,29,80,11,5,9,12,6
+Divorced_Widowed,70,1,Bachelors,67046,993,544,35,133,23,151,107,2,4,4,2
+Married,73,1,Bachelors,42192,100,40,15,15,17,6,7,1,2,3,4
+Married,69,2,Postgraduate,77610,1680,1245,33,332,21,33,16,2,4,4,7
+Married,37,2,Bachelors,31761,98,19,1,20,16,14,28,2,3,4,5
+Married,42,2,Bachelors,34350,48,16,3,15,2,1,11,1,1,3,7
+Married,72,2,Bachelors,54591,519,376,4,94,12,9,24,3,6,8,5
+Married,65,2,Bachelors,71866,715,184,178,178,103,39,33,1,6,10,3
+Married,52,2,Bachelors,25293,37,15,0,11,0,2,9,1,1,2,8
+Single,34,0,Postgraduate,42000,653,124,83,267,85,59,35,2,5,11,5
+Married,38,1,Bachelors,69520,1455,627,120,414,121,80,93,1,9,5,5
+Divorced_Widowed,51,1,Bachelors,64713,602,180,60,241,13,54,54,2,5,7,4
+Married,44,2,Postgraduate,27889,26,14,0,4,0,0,8,1,1,2,6
+Single,61,0,High School,22123,102,3,3,24,34,7,31,1,2,3,5
+Married,48,2,Bachelors,27803,176,8,26,46,38,9,49,2,3,4,8
+Married,61,2,Bachelors,51651,433,293,6,23,13,6,92,4,6,5,8
+Married,33,1,Bachelors,68487,1366,758,12,385,33,89,89,1,9,13,4
+Married,52,2,Bachelors,56796,1001,656,38,161,62,47,37,3,8,7,7
+Married,29,1,High School,87000,961,196,25,607,67,17,49,1,4,7,2
+Married,62,2,Bachelors,79823,1518,835,73,380,114,73,43,1,6,7,2
+Divorced_Widowed,41,1,Bachelors,30828,56,16,11,15,2,0,12,2,1,4,3
+Married,50,2,Postgraduate,34109,22,9,1,5,2,1,4,1,0,3,4
+Divorced_Widowed,47,2,Postgraduate,53367,400,229,7,140,10,3,11,7,5,8,7
+Married,52,1,High School,22390,26,0,1,4,15,1,5,1,1,2,7
+Married,45,2,Bachelors,71322,350,121,24,124,24,15,42,1,4,7,2
+Single,28,0,Bachelors,79244,1216,471,102,125,212,61,245,1,4,7,1
+Married,72,2,Postgraduate,49912,874,520,8,223,32,49,42,4,10,7,8
+Married,71,3,Postgraduate,48699,40,26,1,10,2,0,1,1,1,3,5
+Married,46,1,Bachelors,80144,1367,240,132,445,250,192,108,1,3,8,1
+Divorced_Widowed,65,2,Bachelors,54252,264,178,4,26,8,4,44,5,4,5,6
+Married,45,2,Postgraduate,81929,2053,1486,55,278,49,0,185,2,4,10,6
+Married,46,2,Bachelors,76068,1376,1115,12,128,33,12,76,1,2,4,6
+Married,45,3,Postgraduate,53204,45,29,0,8,2,0,6,1,1,3,4
+Married,72,2,Postgraduate,67911,976,529,0,356,63,28,0,3,6,11,3
+Married,37,2,High School,14796,51,13,3,8,7,4,16,2,1,3,9
+Married,47,2,Postgraduate,78128,1264,934,24,230,16,24,36,2,8,6,3
+Married,49,1,High School,14188,75,2,7,11,16,12,27,1,2,4,6
+Married,35,2,High School,20425,57,4,12,5,3,16,17,2,2,3,7
+Married,59,2,Postgraduate,58646,140,62,1,44,6,5,22,1,2,4,4
+Divorced_Widowed,51,1,Bachelors,72967,497,158,35,179,0,0,125,2,7,8,5
+Married,72,2,Postgraduate,48150,266,173,2,39,3,2,47,3,5,4,7
+Single,60,0,Bachelors,82332,2006,830,59,968,51,79,19,1,5,12,2
+Divorced_Widowed,66,2,Bachelors,58275,615,189,10,253,56,43,64,6,8,7,7
+Married,40,1,Postgraduate,44953,1021,728,17,133,11,8,124,1,7,13,6
+Married,68,3,Bachelors,34587,22,7,2,9,2,0,2,2,1,3,4
+Married,47,2,Postgraduate,43018,133,35,4,17,7,6,64,1,2,2,5
+Married,67,2,Postgraduate,45736,437,188,3,180,20,3,43,5,7,6,7
+Married,52,2,Postgraduate,66476,1013,742,28,152,25,9,57,2,6,10,4
+Married,40,2,High School,27733,57,0,7,5,26,2,17,2,2,3,7
+Married,69,2,Postgraduate,69805,1038,750,71,174,13,10,20,2,6,11,2
+Single,59,0,Postgraduate,72217,1573,816,42,450,55,56,154,1,3,8,2
+Divorced_Widowed,50,1,Bachelors,25818,28,5,2,8,2,2,9,1,0,2,7
+Married,45,2,Postgraduate,37509,123,37,5,56,12,8,5,2,3,4,7
+Married,45,3,High School,25176,13,4,0,4,0,0,5,1,1,2,7
+Married,41,2,Bachelors,43586,132,99,2,11,4,0,16,3,3,4,8
+Married,65,2,High School,53230,732,176,72,98,136,21,229,4,5,12,5
+Married,64,3,Bachelors,50116,66,54,0,10,0,0,2,2,1,4,5
+Married,49,1,Bachelors,84906,1631,997,15,414,99,30,76,1,5,12,2
+Married,55,2,Bachelors,61286,608,356,0,107,19,9,117,2,7,8,5
+Married,35,1,Postgraduate,82333,1822,1311,0,359,46,89,17,1,4,10,2
+Married,56,1,Postgraduate,65220,1282,890,63,292,0,25,12,4,8,7,6
+Married,47,4,Bachelors,33590,8,4,0,2,0,0,2,1,1,2,7
+Divorced_Widowed,45,1,Bachelors,30992,43,17,0,14,7,3,2,1,1,3,7
+Single,45,0,Postgraduate,72309,1931,960,0,883,50,38,0,1,5,8,3
+Married,41,2,High School,16005,103,1,3,2,20,30,47,3,2,2,8
+Single,64,0,Postgraduate,65487,1169,240,67,500,199,0,163,3,3,6,2
+Married,56,2,Bachelors,58692,395,301,11,61,4,7,11,1,8,4,7
+Divorced_Widowed,52,2,Bachelors,40590,258,154,0,50,6,11,37,5,3,3,6
+Divorced_Widowed,51,1,Bachelors,20587,25,2,3,6,4,1,9,1,1,2,7
+Divorced_Widowed,67,1,Postgraduate,62637,185,104,12,48,4,12,5,1,2,5,2
+Divorced_Widowed,55,2,Postgraduate,29435,180,70,3,37,4,2,64,4,3,2,9
+Divorced_Widowed,47,1,Bachelors,19346,22,2,0,9,3,6,2,1,1,3,8
+Married,50,3,Bachelors,35788,44,23,2,11,3,1,4,2,2,3,6
+Divorced_Widowed,53,2,Bachelors,36997,94,43,4,12,8,0,27,5,2,4,5
+Married,64,1,Bachelors,23539,81,4,24,11,16,1,25,1,2,4,6
+Divorced_Widowed,48,1,Bachelors,65333,798,654,7,92,0,15,30,7,9,8,6
+Single,64,0,Bachelors,78499,1334,912,72,170,47,36,97,1,11,4,4
+Married,50,2,Postgraduate,29732,38,25,0,8,0,1,4,1,2,2,9
+Married,61,4,Postgraduate,41275,61,24,4,22,0,2,9,4,3,3,5
+Married,48,3,Postgraduate,63516,300,141,11,114,15,14,5,4,4,7,5
+Married,59,2,Postgraduate,42769,88,71,0,13,3,1,0,2,1,4,4
+Married,63,3,Postgraduate,49572,54,35,1,16,0,1,1,2,2,3,7
+Married,49,1,Bachelors,69209,1782,496,32,849,229,48,128,2,5,6,4
+Married,45,2,Bachelors,17148,68,9,9,11,13,10,16,4,3,3,8
+Divorced_Widowed,52,2,Bachelors,40590,258,154,0,50,6,11,37,5,3,3,6
+Married,45,2,Postgraduate,30560,31,9,1,5,4,5,7,1,1,3,7
+Married,38,2,High School,32146,66,26,3,23,4,7,3,2,2,4,6
+Divorced_Widowed,57,2,High School,41713,174,77,8,44,10,10,25,5,3,4,6
+Married,46,2,Postgraduate,34176,28,11,2,7,4,2,2,1,1,3,3
+Married,66,2,Postgraduate,58482,731,576,7,115,19,7,7,2,7,9,6
+Divorced_Widowed,56,1,Bachelors,59686,274,89,15,89,34,42,5,1,4,6,4
+Married,57,2,Postgraduate,60896,1701,1013,30,399,60,46,153,3,9,4,6
+Married,41,2,Bachelors,62994,312,224,12,48,4,12,12,1,6,4,6
+Married,64,2,Bachelors,47320,414,200,19,111,50,15,19,6,5,8,6
+Single,72,0,High School,74859,1565,570,73,614,133,102,73,1,6,11,3
+Divorced_Widowed,29,1,High School,15253,29,1,3,3,8,1,13,2,1,3,7
+Divorced_Widowed,47,1,Postgraduate,31560,94,62,1,20,4,0,7,2,2,3,8
+Divorced_Widowed,67,1,Bachelors,72071,1338,531,69,300,150,138,150,3,5,8,2
+Single,31,0,Postgraduate,91172,1092,162,28,818,0,28,56,0,4,7,3
+Married,37,1,Bachelors,90000,1479,675,144,133,94,192,241,1,4,5,1
+Divorced_Widowed,40,2,Bachelors,41967,54,23,4,10,0,2,15,1,1,3,4
+Divorced_Widowed,56,1,Bachelors,69263,568,492,5,32,13,5,21,1,9,7,6
+Single,51,0,High School,65706,1199,918,10,129,13,0,129,1,11,12,7
+Married,46,2,Bachelors,60934,873,224,155,155,192,93,54,2,6,11,4
+Married,70,2,Bachelors,71965,1213,572,19,286,50,38,248,3,6,5,3
+Married,66,2,Bachelors,65210,731,626,0,70,0,7,28,2,9,8,6
+Married,46,1,Postgraduate,79174,2043,1074,37,518,193,92,129,1,5,7,2
+Single,54,0,Postgraduate,81380,1893,741,68,689,224,68,103,1,4,10,2
+Divorced_Widowed,48,1,Postgraduate,48432,424,322,3,50,4,3,42,5,7,6,8
+Married,50,2,Bachelors,52914,575,254,10,44,30,10,227,2,7,3,7
+Married,66,2,Bachelors,38946,257,116,6,82,6,6,41,2,3,6,5
+Married,47,2,Bachelors,26067,56,22,2,18,0,2,12,3,3,3,8
+Married,49,2,Postgraduate,44325,542,516,0,21,0,0,5,4,8,7,8
+Married,57,1,Bachelors,42523,125,14,36,11,3,26,35,1,1,4,2
+Divorced_Widowed,43,1,High School,26487,69,2,8,10,12,14,23,3,2,3,5
+Married,64,2,High School,53233,40,28,0,9,3,0,0,1,1,3,4
+Married,61,2,Bachelors,67716,1016,530,142,217,62,9,56,4,7,13,5
+Married,49,2,Postgraduate,76234,907,519,50,167,130,0,41,1,8,11,3
+Married,65,1,Postgraduate,84117,1566,611,76,749,59,45,26,1,7,6,2
+Married,64,1,Postgraduate,65487,1169,240,67,500,199,0,163,3,3,6,2
+Married,49,2,High School,25224,46,4,9,12,11,2,8,2,1,3,3
+Single,38,0,Postgraduate,89616,1644,671,47,655,145,111,15,1,7,12,2
+Divorced_Widowed,50,2,Bachelors,40851,59,23,1,7,0,4,24,1,1,2,7
+Married,74,1,Bachelors,27469,17,9,1,2,3,2,0,1,0,3,6
+Married,64,1,High School,82347,1853,556,54,845,202,133,63,1,7,10,3
+Married,64,2,Bachelors,73803,1528,833,80,363,52,26,174,2,9,6,6
+Divorced_Widowed,69,2,Postgraduate,8820,35,12,0,13,4,2,4,4,3,3,8
+Single,47,0,Bachelors,43322,141,56,7,48,10,2,18,1,3,4,7
+Married,48,2,Bachelors,55593,546,293,8,124,11,4,106,2,6,3,6
+Married,67,3,Bachelors,50501,500,297,0,38,13,0,152,7,5,4,6
+Married,46,3,Bachelors,37085,61,39,1,16,2,0,3,4,3,3,8
+Divorced_Widowed,31,1,High School,16185,106,5,11,16,21,8,45,2,2,2,8
+Divorced_Widowed,52,1,Bachelors,57731,704,266,21,300,65,8,44,4,8,6,6
+Divorced_Widowed,48,1,Postgraduate,48432,424,322,3,50,4,3,42,5,7,6,8
+Married,43,2,Bachelors,73807,849,366,124,156,71,78,54,2,5,11,2
+Married,31,1,Bachelors,18929,85,32,0,8,23,4,18,1,1,4,6
+Divorced_Widowed,53,2,Bachelors,35893,199,158,0,23,0,0,18,6,3,5,8
+Married,41,2,Bachelors,61014,1147,269,129,495,182,43,29,4,9,4,7
+Married,67,3,Bachelors,32144,54,41,0,10,0,0,3,4,2,3,7
+Married,58,2,High School,14918,43,3,3,3,15,4,15,1,1,3,6
+Divorced_Widowed,58,2,Bachelors,45146,53,33,0,5,0,0,15,2,1,2,4
+Divorced_Widowed,66,1,High School,41769,521,302,29,131,32,0,27,6,8,7,8
+Married,40,1,Bachelors,88325,1623,519,71,860,93,27,53,1,6,9,2
+Divorced_Widowed,71,2,Postgraduate,38054,45,23,2,17,2,1,0,2,2,3,7
+Single,26,0,High School,80617,1435,594,51,631,72,55,32,1,4,8,2
+Married,45,2,Bachelors,5305,32,12,4,7,1,3,5,0,1,0,13
+Married,67,3,Bachelors,36807,16,4,2,5,0,0,5,1,1,2,6
+Married,38,2,Bachelors,28427,52,18,3,19,3,3,6,2,2,3,8
+Single,73,0,Postgraduate,82032,1234,332,194,377,149,125,57,0,4,7,1
+Married,43,2,Bachelors,22775,15,5,1,8,0,0,1,1,1,2,8
+Married,36,2,Postgraduate,40101,415,171,3,129,26,24,62,4,6,6,7
+Married,42,2,Bachelors,58025,470,270,31,88,11,48,22,3,3,10,4
+Single,39,0,Postgraduate,75777,1438,712,26,538,69,13,80,1,3,11,1
+Married,42,2,High School,7500,53,2,8,11,3,8,21,4,3,2,7
+Married,58,4,Postgraduate,33562,51,21,12,12,0,3,3,3,2,4,4
+Divorced_Widowed,51,1,Postgraduate,57642,679,580,6,58,8,0,27,3,7,6,4
+Married,53,3,Bachelors,58554,586,368,24,68,38,0,88,6,8,6,7
+Married,42,3,Bachelors,63777,653,457,5,106,15,17,53,8,11,6,8
+Divorced_Widowed,59,1,Bachelors,57967,468,229,7,137,4,0,91,5,4,8,5
+Married,49,3,Bachelors,24434,50,3,2,8,20,0,17,2,2,2,7
+Divorced_Widowed,37,1,Bachelors,11012,84,24,3,26,7,1,23,3,3,2,9
+Single,51,0,Postgraduate,44802,1049,853,10,143,13,10,20,2,9,12,8
+Single,35,0,Bachelors,26816,22,5,1,6,3,4,3,1,0,3,4
+Married,47,2,Bachelors,34421,30,3,3,7,6,2,9,1,1,2,7
+Married,54,2,Bachelors,61223,1341,709,43,182,42,118,247,2,9,4,5
+Married,75,4,Postgraduate,64014,444,406,0,30,0,0,8,7,8,5,7
+Single,40,0,Bachelors,56981,1241,908,48,217,32,12,24,1,2,13,6
+Married,65,2,Postgraduate,69245,843,428,30,214,80,30,61,2,6,10,3
+Married,67,3,Postgraduate,52869,172,84,3,61,2,1,21,3,3,4,7
