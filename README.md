@@ -1,6 +1,6 @@
-# Customer Segmentation on Retail Supermarket data
+# Customer Segmentation on Retail Supermarket Data
 
-#### We apply the following techniques on a Supermarket Groceries Purchase data.
+#### We apply the following techniques on a Supermarket Purchase data.
 * Customer Segmemtation
 * Cluster Profiling
 * Classification of new customers into segments
